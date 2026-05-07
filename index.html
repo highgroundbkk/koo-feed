@@ -6,64 +6,128 @@
 <title>KOO SUPERDEV</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0d0d1a;color:#e0e0e0;min-height:100vh}
-nav{display:flex;align-items:center;gap:16px;padding:14px 24px;border-bottom:1px solid rgba(255,255,255,.08);background:#0d0d1a;position:sticky;top:0;z-index:99}
-.nav-logo{font-weight:700;font-size:15px;color:#00d9ff;text-decoration:none}
-nav a{font-size:13px;color:#888;text-decoration:none;padding:6px 10px;border-radius:6px;transition:.2s}
-nav a:hover,nav a.active{background:rgba(0,217,255,.12);color:#00d9ff}
-.hero{text-align:center;padding:60px 24px 40px}
-.hero h1{font-size:40px;font-weight:800;background:linear-gradient(135deg,#00d9ff,#0066ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:10px}
-.hero p{color:#888;font-size:14px;max-width:460px;margin:0 auto 32px}
-.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;max-width:780px;margin:0 auto;padding:0 24px 60px}
-.card{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:12px;padding:24px;text-decoration:none;color:inherit;transition:.3s;display:block}
-.card:hover{background:rgba(0,217,255,.08);border-color:rgba(0,217,255,.3);transform:translateY(-4px)}
-.card-icon{font-size:28px;margin-bottom:12px}
-.card-title{font-size:15px;font-weight:700;color:#fff;margin-bottom:6px}
-.card-desc{font-size:12px;color:#888;line-height:1.6}
-.card-tag{display:inline-block;margin-top:10px;font-size:10px;padding:2px 8px;border-radius:3px;background:rgba(0,217,255,.15);color:#00d9ff;font-weight:600;letter-spacing:.5px}
-footer{text-align:center;padding:24px;color:#555;font-size:12px;border-top:1px solid rgba(255,255,255,.06)}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#f5f5f0;color:#1a1a1a;min-height:100vh}
+nav{background:#0d0d1a;padding:0 24px;display:flex;align-items:center;gap:0;height:52px}
+.nav-logo{font-weight:800;font-size:15px;color:#00d9ff;text-decoration:none;margin-right:20px}
+nav a{font-size:13px;color:#888;text-decoration:none;padding:0 14px;height:52px;display:flex;align-items:center;border-bottom:3px solid transparent;transition:.2s}
+nav a:hover{color:#fff}
+.hero{background:#0d0d1a;padding:48px 24px 40px;text-align:center}
+.hero h1{font-size:36px;font-weight:900;color:#fff;margin-bottom:8px}
+.hero h1 span{background:linear-gradient(135deg,#00d9ff,#0066ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.hero p{color:#888;font-size:14px;max-width:480px;margin:0 auto}
+.latest{max-width:1060px;margin:32px auto;padding:0 24px;display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px}
+.section-title{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:#888;margin-bottom:12px;display:flex;justify-content:space-between;align-items:center}
+.section-title a{font-size:11px;color:#0369a1;text-decoration:none;font-weight:600;letter-spacing:0}
+.section-title a:hover{text-decoration:underline}
+.col{background:#fff;border:1px solid #e8e8e8;border-radius:12px;padding:18px}
+.col h3{font-size:14px;font-weight:700;margin-bottom:4px}
+.item{padding:10px 0;border-bottom:1px solid #f0f0f0;cursor:pointer}
+.item:last-child{border-bottom:none}
+.item:hover .item-title{color:#0369a1}
+.item-tag{font-size:10px;font-weight:700;letter-spacing:.4px;color:#888;margin-bottom:3px}
+.item-title{font-size:13px;color:#222;line-height:1.4;transition:.2s}
+.item-date{font-size:11px;color:#bbb;margin-top:2px}
+.stats{max-width:1060px;margin:0 auto 32px;padding:0 24px;display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.stat{background:#0d0d1a;border-radius:10px;padding:16px;text-align:center}
+.stat-n{font-size:28px;font-weight:900;color:#00d9ff}
+.stat-l{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:#555;margin-top:4px}
+.empty-col{text-align:center;color:#ccc;padding:20px;font-size:13px}
+footer{background:#0d0d1a;text-align:center;padding:20px;color:#555;font-size:12px;margin-top:16px}
 footer a{color:#00d9ff;text-decoration:none}
+@media(max-width:700px){.latest{grid-template-columns:1fr}.stats{grid-template-columns:1fr 1fr}}
 </style>
 </head>
 <body>
 <nav>
-  <a href="index.html" class="nav-logo">🚀 KOO SUPERDEV</a>
+  <a href="index.html" class="nav-logo">⚡ KOO SUPERDEV</a>
   <a href="signal.html">Signal</a>
   <a href="feed.html">Feed</a>
   <a href="journal.html">Journal</a>
 </nav>
 <div class="hero">
-  <h1>KOO SUPERDEV</h1>
-  <p>Autonomous development system — 42 commands, 8 bots, ecosystem monitoring. Updated every Monday.</p>
+  <h1>KOO <span>SUPERDEV</span></h1>
+  <p>42 commands · 8 autonomous bots · daily ecosystem monitoring<br>Runs on GitHub Actions. Updated daily. Free.</p>
 </div>
-<div class="cards">
-  <a href="signal.html" class="card">
-    <div class="card-icon">📡</div>
-    <div class="card-title">Signal</div>
-    <div class="card-desc">Curated AI/devtools trends. HN highlights, releases, tools to watch.</div>
-    <span class="card-tag">WEEKLY UPDATES</span>
-  </a>
-  <a href="feed.html" class="card">
-    <div class="card-icon">📰</div>
-    <div class="card-title">Activity Feed</div>
-    <div class="card-desc">System events — syncs, bot runs, deployments, health checks.</div>
-    <span class="card-tag">LIVE LOG</span>
-  </a>
-  <a href="journal.html" class="card">
-    <div class="card-icon">📓</div>
-    <div class="card-title">Journal</div>
-    <div class="card-desc">Architecture decisions, experiments, lessons learned.</div>
-    <span class="card-tag">TEAM NOTES</span>
-  </a>
-  <a href="https://github.com/highgroundbkk/koo-feed" class="card">
-    <div class="card-icon">⚙️</div>
-    <div class="card-title">Source</div>
-    <div class="card-desc">Browse files, history, and raw content on GitHub.</div>
-    <span class="card-tag">GITHUB</span>
-  </a>
+
+<div class="stats">
+  <div class="stat"><div class="stat-n">42</div><div class="stat-l">Commands</div></div>
+  <div class="stat"><div class="stat-n">8</div><div class="stat-l">Bots</div></div>
+  <div class="stat"><div class="stat-n" id="s-signal">—</div><div class="stat-l">Signals</div></div>
+  <div class="stat"><div class="stat-n" id="s-feed">—</div><div class="stat-l">Events</div></div>
 </div>
+
+<div class="latest">
+  <div class="col">
+    <div class="section-title">📡 Latest Signal <a href="signal.html">View all →</a></div>
+    <div id="c-signal"><div class="empty-col">Loading...</div></div>
+  </div>
+  <div class="col">
+    <div class="section-title">📰 Activity Feed <a href="feed.html">View all →</a></div>
+    <div id="c-feed"><div class="empty-col">Loading...</div></div>
+  </div>
+  <div class="col">
+    <div class="section-title">📓 Journal <a href="journal.html">View all →</a></div>
+    <div id="c-journal"><div class="empty-col">Loading...</div></div>
+  </div>
+</div>
+
 <footer>
-  v1.0.0 · <a href="https://github.com/highgroundbkk/koo-feed">GitHub</a>
+  v1.0.0 · Updated daily · <a href="https://github.com/highgroundbkk/koo-feed">GitHub</a>
 </footer>
+<script>
+function fmt(d){try{return new Date(d).toLocaleDateString('en-GB',{day:'numeric',month:'short'})}catch{return d}}
+async function loadSignal(){
+  try{
+    const r=await fetch('https://raw.githubusercontent.com/highgroundbkk/koo-feed/main/signal.md?t='+Date.now());
+    const txt=await r.text();const items=[];
+    txt.split('\n').forEach(line=>{
+      const m=line.trim().match(/^\[([\d\-\s:]+)\]\s+(\w+)\s+·\s+(.+)/);
+      if(m){const[,date,tag,content]=m;const title=content.split(' — ')[0];const urlM=content.match(/\|\s*(https?:\/\/\S+)/);items.unshift({date:date.trim(),tag,title,url:urlM?urlM[1]:''})}
+    });
+    document.getElementById('s-signal').textContent=items.length;
+    document.getElementById('c-signal').innerHTML=items.slice(0,5).map(e=>`
+      <div class="item" onclick="${e.url?`window.open('${e.url}','_blank')`:''}">
+        <div class="item-tag">${e.tag}</div>
+        <div class="item-title">${e.title}</div>
+        <div class="item-date">${fmt(e.date)}</div>
+      </div>`).join('');
+  }catch(e){document.getElementById('c-signal').innerHTML='<div class="empty-col">Could not load</div>'}
+}
+async function loadFeed(){
+  try{
+    const r=await fetch('https://raw.githubusercontent.com/highgroundbkk/koo-feed/main/feed.md?t='+Date.now());
+    const txt=await r.text();const items=[];
+    txt.split('\n').forEach(line=>{
+      const m=line.trim().match(/^\[((\d{4}-\d{2}-\d{2})\s+([\d:]+))\]\s+(\w+)\s+·\s+(.+)/);
+      if(m){const[,dt,date,time,tag,text]=m;items.unshift({date,time,tag,text})}
+    });
+    document.getElementById('s-feed').textContent=items.length;
+    document.getElementById('c-feed').innerHTML=items.slice(0,5).map(e=>`
+      <div class="item">
+        <div class="item-tag">${e.tag}</div>
+        <div class="item-title">${e.text}</div>
+        <div class="item-date">${e.date} ${e.time}</div>
+      </div>`).join('');
+  }catch(e){document.getElementById('c-feed').innerHTML='<div class="empty-col">Could not load</div>'}
+}
+async function loadJournal(){
+  try{
+    const r=await fetch('https://raw.githubusercontent.com/highgroundbkk/koo-feed/main/obra-superpowers.md?t='+Date.now());
+    const txt=await r.text();const items=[];let cur=null;
+    txt.split('\n').forEach(line=>{
+      const h=line.match(/^###?\s+([\d]{4}.*)/);
+      if(h){if(cur&&cur.lines.join('').trim())items.push(cur);cur={title:h[1],lines:[]}}
+      else if(cur&&!line.startsWith('#'))cur.lines.push(line);
+    });
+    if(cur&&cur.lines.join('').trim())items.push(cur);
+    document.getElementById('c-journal').innerHTML=items.reverse().slice(0,4).map(e=>`
+      <div class="item" onclick="location.href='journal.html'">
+        <div class="item-tag">NOTE</div>
+        <div class="item-title">${e.title.replace(/·.*/,'').trim()}</div>
+      </div>`).join('');
+  }catch(e){document.getElementById('c-journal').innerHTML='<div class="empty-col">Could not load</div>'}
+}
+loadSignal();loadFeed();loadJournal();
+</script>
 </body>
 </html>

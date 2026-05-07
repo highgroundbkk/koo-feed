@@ -6,123 +6,148 @@
 <title>Feed — KOO SUPERDEV</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0d0d1a;color:#e0e0e0;min-height:100vh}
-nav{display:flex;align-items:center;gap:16px;padding:14px 24px;border-bottom:1px solid rgba(255,255,255,.08);background:#0d0d1a;position:sticky;top:0;z-index:99}
-.nav-logo{font-weight:700;font-size:15px;color:#00d9ff;text-decoration:none}
-nav a{font-size:13px;color:#888;text-decoration:none;padding:6px 10px;border-radius:6px;transition:.2s}
-nav a:hover,nav a.active{background:rgba(0,217,255,.12);color:#00d9ff}
-.page-header{padding:32px 24px 0;max-width:720px;margin:0 auto}
-.page-header h2{font-size:22px;font-weight:700;color:#fff;margin-bottom:6px}
-.page-header p{font-size:13px;color:#888}
-.filters{display:flex;gap:8px;flex-wrap:wrap;padding:20px 24px 0;max-width:720px;margin:0 auto}
-.filter-btn{padding:5px 14px;border-radius:20px;border:1px solid rgba(255,255,255,.12);background:transparent;color:#888;font-size:12px;cursor:pointer;transition:.2s}
-.filter-btn:hover,.filter-btn.active{border-color:#00d9ff;color:#00d9ff;background:rgba(0,217,255,.1)}
-.container{max-width:720px;margin:0 auto;padding:20px 24px 60px}
-.day-group{margin-bottom:28px}
-.day-label{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:#555;margin-bottom:10px;font-weight:600}
-.entry{display:flex;gap:12px;align-items:flex-start;padding:10px 14px;border-radius:8px;margin-bottom:6px;background:rgba(255,255,255,.03);transition:.2s}
-.entry:hover{background:rgba(255,255,255,.06)}
-.entry-dot{width:8px;height:8px;border-radius:50%;margin-top:5px;flex-shrink:0}
-.dot-SYNC{background:#00d9ff}.dot-BOT{background:#a78bfa}.dot-DEPLOY{background:#6ee7b7}.dot-HEALTH{background:#fcd34d}.dot-UPDATE{background:#fb923c}.dot-default{background:#555}
-.entry-body{flex:1}
-.entry-tag{font-size:10px;font-weight:700;letter-spacing:.5px;margin-bottom:3px}
-.tc-SYNC{color:#00d9ff}.tc-BOT{color:#a78bfa}.tc-DEPLOY{color:#6ee7b7}.tc-HEALTH{color:#fcd34d}.tc-UPDATE{color:#fb923c}.tc-default{color:#888}
-.entry-text{font-size:13px;color:#d0d0d0;line-height:1.6}
-.entry-time{font-size:11px;color:#555;flex-shrink:0;margin-top:2px}
-.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:24px}
-.stat{background:rgba(0,217,255,.06);border:1px solid rgba(0,217,255,.15);border-radius:8px;padding:12px;text-align:center}
-.stat-n{font-size:20px;font-weight:700;color:#00d9ff}
-.stat-l{font-size:11px;color:#888;text-transform:uppercase;letter-spacing:.5px;margin-top:2px}
-.empty{text-align:center;color:#555;padding:60px 20px;font-size:13px}
-footer{text-align:center;padding:24px;color:#555;font-size:12px;border-top:1px solid rgba(255,255,255,.06)}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#f5f5f0;color:#1a1a1a;min-height:100vh}
+nav{background:#0d0d1a;padding:0 24px;display:flex;align-items:center;gap:0;height:52px;position:sticky;top:0;z-index:99}
+.nav-logo{font-weight:800;font-size:15px;color:#00d9ff;text-decoration:none;margin-right:20px}
+nav a{font-size:13px;color:#888;text-decoration:none;padding:0 14px;height:52px;display:flex;align-items:center;border-bottom:3px solid transparent;transition:.2s}
+nav a:hover{color:#fff}
+nav a.active{color:#fff;border-bottom-color:#00d9ff}
+.layout{display:grid;grid-template-columns:1fr 260px;gap:32px;max-width:1060px;margin:0 auto;padding:32px 24px}
+.main h2{font-size:20px;font-weight:800;color:#0d0d1a;margin-bottom:4px}
+.main .sub{font-size:13px;color:#888;margin-bottom:20px}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:20px}
+.filter-btn{padding:5px 14px;border-radius:20px;border:1px solid #ddd;background:#fff;color:#666;font-size:12px;cursor:pointer;transition:.2s;font-weight:500}
+.filter-btn:hover{border-color:#0d0d1a;color:#0d0d1a}
+.filter-btn.active{background:#0d0d1a;color:#fff;border-color:#0d0d1a}
+/* TIMELINE */
+.day-group{margin-bottom:24px}
+.day-label{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:#aaa;font-weight:700;margin-bottom:10px;padding-left:24px}
+.timeline{position:relative;padding-left:24px}
+.timeline::before{content:'';position:absolute;left:7px;top:0;bottom:0;width:2px;background:#e8e8e8}
+.entry{position:relative;background:#fff;border:1px solid #e8e8e8;border-radius:8px;padding:12px 16px;margin-bottom:8px;transition:.2s}
+.entry:hover{border-color:#0d0d1a;box-shadow:0 2px 8px rgba(0,0,0,.06)}
+.entry::before{content:'';position:absolute;left:-21px;top:16px;width:10px;height:10px;border-radius:50%;background:#fff;border:2px solid #ddd}
+.entry.SYNC::before{border-color:#0369a1;background:#0369a1}
+.entry.BOT::before{border-color:#7c3aed;background:#7c3aed}
+.entry.DEPLOY::before{border-color:#15803d;background:#15803d}
+.entry.HEALTH::before{border-color:#b45309;background:#b45309}
+.entry.SYSTEM::before{border-color:#be185d;background:#be185d}
+.entry-row{display:flex;align-items:baseline;gap:10px}
+.tag{font-size:10px;font-weight:700;letter-spacing:.5px;padding:2px 8px;border-radius:3px}
+.tag-SYNC{background:#dbeafe;color:#1d4ed8}
+.tag-BOT{background:#f3e8ff;color:#7c3aed}
+.tag-DEPLOY{background:#dcfce7;color:#15803d}
+.tag-HEALTH{background:#fef3c7;color:#b45309}
+.tag-SYSTEM{background:#fce7f3;color:#be185d}
+.tag-default{background:#f1f5f9;color:#64748b}
+.entry-text{font-size:13px;color:#333;flex:1;line-height:1.5}
+.entry-time{font-size:11px;color:#bbb;flex-shrink:0}
+/* SIDEBAR */
+.sidebar-box{background:#fff;border:1px solid #e8e8e8;border-radius:10px;padding:18px;margin-bottom:16px}
+.sidebar-title{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.8px;color:#888;margin-bottom:12px}
+.stat-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.stat{background:#f8f8f5;border-radius:8px;padding:12px;text-align:center}
+.stat-n{font-size:24px;font-weight:800;color:#0d0d1a}
+.stat-l{font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:#aaa;margin-top:2px}
+.legend-row{display:flex;align-items:center;gap:8px;font-size:12px;padding:5px 0;color:#555;border-bottom:1px solid #f5f5f5}
+.legend-row:last-child{border-bottom:none}
+.dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.empty{text-align:center;color:#aaa;padding:60px 20px;font-size:14px}
+footer{background:#0d0d1a;text-align:center;padding:20px;color:#555;font-size:12px;margin-top:40px}
 footer a{color:#00d9ff;text-decoration:none}
+@media(max-width:700px){.layout{grid-template-columns:1fr}.sidebar{display:none}}
 </style>
 </head>
 <body>
 <nav>
-  <a href="index.html" class="nav-logo">🚀 KOO SUPERDEV</a>
+  <a href="index.html" class="nav-logo">⚡ KOO SUPERDEV</a>
   <a href="signal.html">Signal</a>
   <a href="feed.html" class="active">Feed</a>
   <a href="journal.html">Journal</a>
 </nav>
-<div class="page-header">
-  <h2>📰 Activity Feed</h2>
-  <p>System events — syncs, bot runs, deployments</p>
-</div>
-<div class="filters">
-  <button class="filter-btn active" onclick="filter('all',this)">All</button>
-  <button class="filter-btn" onclick="filter('SYNC',this)">🔄 Sync</button>
-  <button class="filter-btn" onclick="filter('BOT',this)">🤖 Bot</button>
-  <button class="filter-btn" onclick="filter('DEPLOY',this)">🚀 Deploy</button>
-  <button class="filter-btn" onclick="filter('HEALTH',this)">💚 Health</button>
-</div>
-<div class="container">
-  <div class="stats">
-    <div class="stat"><div class="stat-n" id="s-total">—</div><div class="stat-l">Total</div></div>
-    <div class="stat"><div class="stat-n" id="s-week">—</div><div class="stat-l">This Week</div></div>
-    <div class="stat"><div class="stat-n" id="s-bots">—</div><div class="stat-l">Bot Runs</div></div>
+<div class="layout">
+  <div class="main">
+    <h2>📰 Activity Feed</h2>
+    <p class="sub">System events grouped by day — syncs, bots, deploys, health</p>
+    <div class="filters">
+      <button class="filter-btn active" onclick="filter('all',this)">All</button>
+      <button class="filter-btn" onclick="filter('SYNC',this)">🔄 Sync</button>
+      <button class="filter-btn" onclick="filter('BOT',this)">🤖 Bot</button>
+      <button class="filter-btn" onclick="filter('DEPLOY',this)">🚀 Deploy</button>
+      <button class="filter-btn" onclick="filter('SYSTEM',this)">⚙️ System</button>
+      <button class="filter-btn" onclick="filter('HEALTH',this)">💚 Health</button>
+    </div>
+    <div id="entries"><div class="empty">Loading...</div></div>
   </div>
-  <div id="entries"><div class="empty">Loading...</div></div>
+  <div class="sidebar">
+    <div class="sidebar-box">
+      <div class="sidebar-title">Stats</div>
+      <div class="stat-grid">
+        <div class="stat"><div class="stat-n" id="s-total">—</div><div class="stat-l">Total</div></div>
+        <div class="stat"><div class="stat-n" id="s-week">—</div><div class="stat-l">This week</div></div>
+        <div class="stat"><div class="stat-n" id="s-bots">—</div><div class="stat-l">Bot runs</div></div>
+        <div class="stat"><div class="stat-n" id="s-deploys">—</div><div class="stat-l">Deploys</div></div>
+      </div>
+    </div>
+    <div class="sidebar-box">
+      <div class="sidebar-title">Event types</div>
+      <div class="legend-row"><div class="dot" style="background:#1d4ed8"></div>SYNC — git push / pull</div>
+      <div class="legend-row"><div class="dot" style="background:#7c3aed"></div>BOT — automated runs</div>
+      <div class="legend-row"><div class="dot" style="background:#15803d"></div>DEPLOY — live changes</div>
+      <div class="legend-row"><div class="dot" style="background:#be185d"></div>SYSTEM — config changes</div>
+      <div class="legend-row"><div class="dot" style="background:#b45309"></div>HEALTH — health checks</div>
+    </div>
+  </div>
 </div>
 <footer>
-  <a href="index.html">← Home</a> · <a href="https://raw.githubusercontent.com/highgroundbkk/koo-feed/main/feed.md">Raw</a>
+  <a href="index.html">← Home</a> &nbsp;·&nbsp;
+  <a href="https://github.com/highgroundbkk/koo-feed/blob/main/feed.md">Raw Markdown</a>
 </footer>
 <script>
-let allEntries=[];
-const dotC=t=>'dot-'+((['SYNC','BOT','DEPLOY','HEALTH','UPDATE'].includes(t)?t:'default'));
-const tagC=t=>'tc-'+((['SYNC','BOT','DEPLOY','HEALTH','UPDATE'].includes(t)?t:'default'));
-function groupByDay(entries){
-  const groups={};
-  entries.forEach(e=>{
-    const day=e.date.split(' ')[0];
-    if(!groups[day])groups[day]=[];
-    groups[day].push(e);
-  });
-  return groups;
-}
+let all=[];
+const tagC=t=>('tag tag-'+(['SYNC','BOT','DEPLOY','HEALTH','SYSTEM'].includes(t)?t:'default'));
+function groupByDay(entries){const g={};entries.forEach(e=>{const d=e.date.split(' ')[0];if(!g[d])g[d]=[];g[d].push(e)});return g}
 function render(entries){
   const c=document.getElementById('entries');
   if(!entries.length){c.innerHTML='<div class="empty">No entries yet.</div>';return}
   const groups=groupByDay(entries);
-  c.innerHTML=Object.keys(groups).reverse().map(day=>`
+  c.innerHTML=Object.keys(groups).sort().reverse().map(day=>`
     <div class="day-group">
-      <div class="day-label">${day}</div>
-      ${groups[day].map(e=>`
-        <div class="entry" data-tag="${e.tag}">
-          <div class="entry-dot ${dotC(e.tag)}"></div>
-          <div class="entry-body">
-            <div class="entry-tag ${tagC(e.tag)}">${e.tag}</div>
-            <div class="entry-text">${e.text}</div>
-          </div>
-          <div class="entry-time">${e.time}</div>
-        </div>`).join('')}
+      <div class="day-label">${new Date(day).toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long'})}</div>
+      <div class="timeline">
+        ${groups[day].map(e=>`
+          <div class="entry ${e.tag}">
+            <div class="entry-row">
+              <span class="${tagC(e.tag)}">${e.tag}</span>
+              <span class="entry-text">${e.text}</span>
+              <span class="entry-time">${e.time}</span>
+            </div>
+          </div>`).join('')}
+      </div>
     </div>`).join('');
 }
 function filter(tag,btn){
   document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
   btn.classList.add('active');
-  render(tag==='all'?allEntries:allEntries.filter(e=>e.tag===tag));
+  render(tag==='all'?all:all.filter(e=>e.tag===tag));
 }
 async function load(){
   try{
     const r=await fetch('https://raw.githubusercontent.com/highgroundbkk/koo-feed/main/feed.md?t='+Date.now());
-    const txt=await r.text();
-    allEntries=[];
+    const txt=await r.text();all=[];
     txt.split('\n').forEach(line=>{
-      line=line.trim();if(!line||line.startsWith('#'))return;
-      const m=line.match(/^\[((\d{4}-\d{2}-\d{2})\s+([\d:]+))\]\s+(\w+)\s+·\s+(.+)/);
-      if(m){const[,datetime,date,time,tag,text]=m;allEntries.unshift({datetime,date,time,tag,text})}
+      const m=line.trim().match(/^\[((\d{4}-\d{2}-\d{2})\s+([\d:]+))\]\s+(\w+)\s+·\s+(.+)/);
+      if(m){const[,datetime,date,time,tag,text]=m;all.unshift({datetime,date,time,tag,text})}
     });
-    render(allEntries);
+    render(all);
     const week=new Date(Date.now()-7*86400000);
-    const wCount=allEntries.filter(e=>new Date(e.date)>=week).length;
-    const bCount=allEntries.filter(e=>e.tag==='BOT').length;
-    document.getElementById('s-total').textContent=allEntries.length;
-    document.getElementById('s-week').textContent=wCount;
-    document.getElementById('s-bots').textContent=bCount;
-  }catch(e){document.getElementById('entries').innerHTML='<div class="empty">⚠️ Could not load. <a href="https://github.com/highgroundbkk/koo-feed/blob/main/feed.md" style="color:#00d9ff">Read on GitHub</a></div>'}
+    document.getElementById('s-total').textContent=all.length;
+    document.getElementById('s-week').textContent=all.filter(e=>new Date(e.date)>=week).length;
+    document.getElementById('s-bots').textContent=all.filter(e=>e.tag==='BOT').length;
+    document.getElementById('s-deploys').textContent=all.filter(e=>e.tag==='DEPLOY').length;
+  }catch(err){document.getElementById('entries').innerHTML='<div class="empty">⚠️ Could not load. <a href="https://github.com/highgroundbkk/koo-feed/blob/main/feed.md">Read on GitHub →</a></div>'}
 }
-load();
+load();setInterval(load,5*60*1000);
 </script>
 </body>
 </html>
