@@ -1,302 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KOO SUPERDEV — Activity Feed</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
-            background: linear-gradient(135deg, #0f0f1e 0%, #1a1a2e 100%);
-            color: #e0e0e0;
-            line-height: 1.6;
-            padding: 20px;
-            min-height: 100vh;
-        }
-        
-        .container {
-            max-width: 680px;
-            margin: 0 auto;
-        }
-        
-        header {
-            text-align: center;
-            margin-bottom: 40px;
-            padding-bottom: 20px;
-            border-bottom: 1px solid rgba(255,255,255,0.1);
-        }
-        
-        h1 {
-            font-size: 28px;
-            margin-bottom: 8px;
-            background: linear-gradient(135deg, #00d9ff, #0099ff);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-        
-        .subtitle {
-            color: #888;
-            font-size: 13px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
-        
-        .last-updated {
-            font-size: 12px;
-            color: #666;
-            margin-top: 12px;
-            font-style: italic;
-        }
-        
-        #feed-content {
-            display: space-between;
-        }
-        
-        .entry {
-            background: rgba(255,255,255,0.03);
-            border: 1px solid rgba(255,255,255,0.08);
-            border-radius: 8px;
-            padding: 16px;
-            margin-bottom: 16px;
-            transition: all 0.3s ease;
-        }
-        
-        .entry:hover {
-            background: rgba(255,255,255,0.06);
-            border-color: rgba(0, 217, 255, 0.3);
-            transform: translateY(-2px);
-        }
-        
-        .entry-time {
-            font-size: 12px;
-            color: #00d9ff;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            margin-bottom: 6px;
-        }
-        
-        .entry-content {
-            font-size: 14px;
-            line-height: 1.7;
-            color: #d0d0d0;
-            word-wrap: break-word;
-        }
-        
-        .entry-tag {
-            display: inline-block;
-            background: rgba(0, 217, 255, 0.15);
-            color: #00d9ff;
-            padding: 2px 8px;
-            border-radius: 3px;
-            font-size: 11px;
-            font-weight: 600;
-            margin-right: 6px;
-            margin-top: 8px;
-        }
-        
-        .entry-link {
-            display: block;
-            margin-top: 8px;
-            font-size: 12px;
-        }
-        
-        .entry-link a {
-            color: #00d9ff;
-            text-decoration: none;
-            word-break: break-all;
-            opacity: 0.8;
-            transition: opacity 0.2s;
-        }
-        
-        .entry-link a:hover {
-            opacity: 1;
-            text-decoration: underline;
-        }
-        
-        .loading {
-            text-align: center;
-            color: #666;
-            padding: 40px 20px;
-            font-size: 14px;
-        }
-        
-        .error {
-            background: rgba(255, 68, 68, 0.1);
-            border: 1px solid rgba(255, 68, 68, 0.3);
-            color: #ff7070;
-            padding: 16px;
-            border-radius: 8px;
-            text-align: center;
-            font-size: 13px;
-        }
-        
-        footer {
-            text-align: center;
-            margin-top: 40px;
-            padding-top: 20px;
-            border-top: 1px solid rgba(255,255,255,0.1);
-            font-size: 12px;
-            color: #666;
-        }
-        
-        .stats {
-            display: flex;
-            gap: 20px;
-            justify-content: center;
-            margin-top: 16px;
-            font-size: 12px;
-        }
-        
-        .stat {
-            color: #888;
-        }
-        
-        .stat-value {
-            color: #00d9ff;
-            font-weight: 600;
-        }
-        
-        @media (max-width: 600px) {
-            body { padding: 16px; }
-            h1 { font-size: 24px; }
-            .entry { padding: 12px; }
-            .container { max-width: 100%; }
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Feed — KOO SUPERDEV</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0d0d1a;color:#e0e0e0;min-height:100vh}
+nav{display:flex;align-items:center;gap:16px;padding:14px 24px;border-bottom:1px solid rgba(255,255,255,.08);background:#0d0d1a;position:sticky;top:0;z-index:99}
+.nav-logo{font-weight:700;font-size:15px;color:#00d9ff;text-decoration:none}
+nav a{font-size:13px;color:#888;text-decoration:none;padding:6px 10px;border-radius:6px;transition:.2s}
+nav a:hover,nav a.active{background:rgba(0,217,255,.12);color:#00d9ff}
+.page-header{padding:32px 24px 0;max-width:720px;margin:0 auto}
+.page-header h2{font-size:22px;font-weight:700;color:#fff;margin-bottom:6px}
+.page-header p{font-size:13px;color:#888}
+.filters{display:flex;gap:8px;flex-wrap:wrap;padding:20px 24px 0;max-width:720px;margin:0 auto}
+.filter-btn{padding:5px 14px;border-radius:20px;border:1px solid rgba(255,255,255,.12);background:transparent;color:#888;font-size:12px;cursor:pointer;transition:.2s}
+.filter-btn:hover,.filter-btn.active{border-color:#00d9ff;color:#00d9ff;background:rgba(0,217,255,.1)}
+.container{max-width:720px;margin:0 auto;padding:20px 24px 60px}
+.day-group{margin-bottom:28px}
+.day-label{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:#555;margin-bottom:10px;font-weight:600}
+.entry{display:flex;gap:12px;align-items:flex-start;padding:10px 14px;border-radius:8px;margin-bottom:6px;background:rgba(255,255,255,.03);transition:.2s}
+.entry:hover{background:rgba(255,255,255,.06)}
+.entry-dot{width:8px;height:8px;border-radius:50%;margin-top:5px;flex-shrink:0}
+.dot-SYNC{background:#00d9ff}.dot-BOT{background:#a78bfa}.dot-DEPLOY{background:#6ee7b7}.dot-HEALTH{background:#fcd34d}.dot-UPDATE{background:#fb923c}.dot-default{background:#555}
+.entry-body{flex:1}
+.entry-tag{font-size:10px;font-weight:700;letter-spacing:.5px;margin-bottom:3px}
+.tc-SYNC{color:#00d9ff}.tc-BOT{color:#a78bfa}.tc-DEPLOY{color:#6ee7b7}.tc-HEALTH{color:#fcd34d}.tc-UPDATE{color:#fb923c}.tc-default{color:#888}
+.entry-text{font-size:13px;color:#d0d0d0;line-height:1.6}
+.entry-time{font-size:11px;color:#555;flex-shrink:0;margin-top:2px}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:24px}
+.stat{background:rgba(0,217,255,.06);border:1px solid rgba(0,217,255,.15);border-radius:8px;padding:12px;text-align:center}
+.stat-n{font-size:20px;font-weight:700;color:#00d9ff}
+.stat-l{font-size:11px;color:#888;text-transform:uppercase;letter-spacing:.5px;margin-top:2px}
+.empty{text-align:center;color:#555;padding:60px 20px;font-size:13px}
+footer{text-align:center;padding:24px;color:#555;font-size:12px;border-top:1px solid rgba(255,255,255,.06)}
+footer a{color:#00d9ff;text-decoration:none}
+</style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>📰 KOO SUPERDEV Feed</h1>
-            <p class="subtitle">Activity & Events Log</p>
-            <div class="last-updated" id="last-updated"></div>
-        </header>
-        
-        <div id="feed-content" class="loading">Loading feed...</div>
-        
-        <div class="stats">
-            <div class="stat">Total entries: <span class="stat-value" id="entry-count">0</span></div>
-            <div class="stat">Last 7 days: <span class="stat-value" id="week-count">0</span></div>
-        </div>
-        
-        <footer>
-            <p>KOO SUPERDEV Activity Feed</p>
-            <p style="margin-top: 8px; color: #555;">
-                <a href="https://github.com/highgroundbkk/koo-feed/blob/main/feed.md" 
-                   style="color: #00d9ff; text-decoration: none;">
-                   View on GitHub →
-                </a>
-            </p>
-        </footer>
-    </div>
-    
-    <script>
-        async function loadFeed() {
-            const container = document.getElementById('feed-content');
-            const lastUpdated = document.getElementById('last-updated');
-            const entryCount = document.getElementById('entry-count');
-            const weekCount = document.getElementById('week-count');
-            
-            try {
-                const response = await fetch(
-                    'https://raw.githubusercontent.com/highgroundbkk/koo-feed/main/feed.md',
-                    { headers: { 'Accept': 'text/plain' } }
-                );
-                
-                if (!response.ok) throw new Error('Failed to load feed');
-                
-                const text = await response.text();
-                const lines = text.split('\n');
-                
-                const entries = [];
-                let currentEntry = null;
-                
-                lines.forEach(line => {
-                    line = line.trim();
-                    if (!line) return;
-                    
-                    // Parse entries like: [2026-05-07 18:15] SYNC · Pushed to main
-                    const match = line.match(/^\[([\d\-\s:]+)\]\s+(.+)/);
-                    if (match) {
-                        if (currentEntry) entries.push(currentEntry);
-                        const [, timestamp, content] = match;
-                        currentEntry = { timestamp, content: line };
-                    }
-                });
-                if (currentEntry) entries.push(currentEntry);
-                
-                if (entries.length === 0) {
-                    container.innerHTML = '<div class="error">📭 No feed entries yet. Check back soon!</div>';
-                    return;
-                }
-                
-                // Count entries and week entries
-                const now = new Date();
-                const weekAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
-                const thisWeek = entries.filter(e => {
-                    try {
-                        const date = new Date(e.timestamp);
-                        return date >= weekAgo;
-                    } catch { return false; }
-                });
-                
-                entryCount.textContent = entries.length;
-                weekCount.textContent = thisWeek.length;
-                
-                // Render entries (newest first)
-                container.innerHTML = entries.reverse().map(entry => {
-                    const contentMatch = entry.content.match(/\[([\d\-\s:]+)\]\s+(.+)/);
-                    if (!contentMatch) return '';
-                    
-                    const [, timestamp, content] = contentMatch;
-                    
-                    // Parse tag and message: TAG · Message
-                    const parts = content.split(' · ');
-                    const tag = parts[0]?.trim() || '';
-                    const message = parts.slice(1).join(' · ')?.trim() || content;
-                    
-                    return `
-                        <div class="entry">
-                            <div class="entry-time">${timestamp}</div>
-                            ${tag ? `<span class="entry-tag">${tag}</span>` : ''}
-                            <div class="entry-content">${escapeHtml(message)}</div>
-                        </div>
-                    `;
-                }).join('');
-                
-                lastUpdated.textContent = `Last updated: ${new Date().toLocaleString()}`;
-                
-            } catch (error) {
-                container.innerHTML = `
-                    <div class="error">
-                        ⚠️ Could not load feed<br>
-                        <small>${error.message}</small><br><br>
-                        <a href="https://github.com/highgroundbkk/koo-feed/blob/main/feed.md" 
-                           style="color: #00d9ff; text-decoration: underline;">
-                           Read on GitHub
-                        </a>
-                    </div>
-                `;
-            }
-        }
-        
-        function escapeHtml(text) {
-            const map = {
-                '&': '&amp;',
-                '<': '&lt;',
-                '>': '&gt;',
-                '"': '&quot;',
-                "'": '&#039;'
-            };
-            return text.replace(/[&<>"']/g, m => map[m]);
-        }
-        
-        // Refresh every 5 minutes
-        loadFeed();
-        setInterval(loadFeed, 5 * 60 * 1000);
-    </script>
+<nav>
+  <a href="index.html" class="nav-logo">🚀 KOO SUPERDEV</a>
+  <a href="signal.html">Signal</a>
+  <a href="feed.html" class="active">Feed</a>
+  <a href="journal.html">Journal</a>
+</nav>
+<div class="page-header">
+  <h2>📰 Activity Feed</h2>
+  <p>System events — syncs, bot runs, deployments</p>
+</div>
+<div class="filters">
+  <button class="filter-btn active" onclick="filter('all',this)">All</button>
+  <button class="filter-btn" onclick="filter('SYNC',this)">🔄 Sync</button>
+  <button class="filter-btn" onclick="filter('BOT',this)">🤖 Bot</button>
+  <button class="filter-btn" onclick="filter('DEPLOY',this)">🚀 Deploy</button>
+  <button class="filter-btn" onclick="filter('HEALTH',this)">💚 Health</button>
+</div>
+<div class="container">
+  <div class="stats">
+    <div class="stat"><div class="stat-n" id="s-total">—</div><div class="stat-l">Total</div></div>
+    <div class="stat"><div class="stat-n" id="s-week">—</div><div class="stat-l">This Week</div></div>
+    <div class="stat"><div class="stat-n" id="s-bots">—</div><div class="stat-l">Bot Runs</div></div>
+  </div>
+  <div id="entries"><div class="empty">Loading...</div></div>
+</div>
+<footer>
+  <a href="index.html">← Home</a> · <a href="https://raw.githubusercontent.com/highgroundbkk/koo-feed/main/feed.md">Raw</a>
+</footer>
+<script>
+let allEntries=[];
+const dotC=t=>'dot-'+((['SYNC','BOT','DEPLOY','HEALTH','UPDATE'].includes(t)?t:'default'));
+const tagC=t=>'tc-'+((['SYNC','BOT','DEPLOY','HEALTH','UPDATE'].includes(t)?t:'default'));
+function groupByDay(entries){
+  const groups={};
+  entries.forEach(e=>{
+    const day=e.date.split(' ')[0];
+    if(!groups[day])groups[day]=[];
+    groups[day].push(e);
+  });
+  return groups;
+}
+function render(entries){
+  const c=document.getElementById('entries');
+  if(!entries.length){c.innerHTML='<div class="empty">No entries yet.</div>';return}
+  const groups=groupByDay(entries);
+  c.innerHTML=Object.keys(groups).reverse().map(day=>`
+    <div class="day-group">
+      <div class="day-label">${day}</div>
+      ${groups[day].map(e=>`
+        <div class="entry" data-tag="${e.tag}">
+          <div class="entry-dot ${dotC(e.tag)}"></div>
+          <div class="entry-body">
+            <div class="entry-tag ${tagC(e.tag)}">${e.tag}</div>
+            <div class="entry-text">${e.text}</div>
+          </div>
+          <div class="entry-time">${e.time}</div>
+        </div>`).join('')}
+    </div>`).join('');
+}
+function filter(tag,btn){
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  render(tag==='all'?allEntries:allEntries.filter(e=>e.tag===tag));
+}
+async function load(){
+  try{
+    const r=await fetch('https://raw.githubusercontent.com/highgroundbkk/koo-feed/main/feed.md?t='+Date.now());
+    const txt=await r.text();
+    allEntries=[];
+    txt.split('\n').forEach(line=>{
+      line=line.trim();if(!line||line.startsWith('#'))return;
+      const m=line.match(/^\[((\d{4}-\d{2}-\d{2})\s+([\d:]+))\]\s+(\w+)\s+·\s+(.+)/);
+      if(m){const[,datetime,date,time,tag,text]=m;allEntries.unshift({datetime,date,time,tag,text})}
+    });
+    render(allEntries);
+    const week=new Date(Date.now()-7*86400000);
+    const wCount=allEntries.filter(e=>new Date(e.date)>=week).length;
+    const bCount=allEntries.filter(e=>e.tag==='BOT').length;
+    document.getElementById('s-total').textContent=allEntries.length;
+    document.getElementById('s-week').textContent=wCount;
+    document.getElementById('s-bots').textContent=bCount;
+  }catch(e){document.getElementById('entries').innerHTML='<div class="empty">⚠️ Could not load. <a href="https://github.com/highgroundbkk/koo-feed/blob/main/feed.md" style="color:#00d9ff">Read on GitHub</a></div>'}
+}
+load();
+</script>
 </body>
 </html>

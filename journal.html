@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Journal — KOO SUPERDEV</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0d0d1a;color:#e0e0e0;min-height:100vh}
+nav{display:flex;align-items:center;gap:16px;padding:14px 24px;border-bottom:1px solid rgba(255,255,255,.08);background:#0d0d1a;position:sticky;top:0;z-index:99}
+.nav-logo{font-weight:700;font-size:15px;color:#00d9ff;text-decoration:none}
+nav a{font-size:13px;color:#888;text-decoration:none;padding:6px 10px;border-radius:6px;transition:.2s}
+nav a:hover,nav a.active{background:rgba(0,217,255,.12);color:#00d9ff}
+.page-header{padding:32px 24px 20px;max-width:720px;margin:0 auto}
+.page-header h2{font-size:22px;font-weight:700;color:#fff;margin-bottom:6px}
+.page-header p{font-size:13px;color:#888}
+.container{max-width:720px;margin:0 auto;padding:0 24px 60px}
+.post{border:1px solid rgba(255,255,255,.08);border-radius:12px;padding:24px;margin-bottom:20px;background:rgba(255,255,255,.03);transition:.3s}
+.post:hover{background:rgba(255,255,255,.05);border-color:rgba(0,217,255,.2)}
+.post-meta{display:flex;align-items:center;gap:10px;margin-bottom:12px}
+.post-date{font-size:11px;color:#555}
+.post-tag{font-size:10px;padding:2px 8px;border-radius:3px;font-weight:700;letter-spacing:.5px}
+.tag-DECISION{background:rgba(139,92,246,.2);color:#a78bfa}
+.tag-SYSTEM{background:rgba(0,217,255,.2);color:#00d9ff}
+.tag-NOTE{background:rgba(16,185,129,.2);color:#6ee7b7}
+.tag-IDEA{background:rgba(245,158,11,.2);color:#fcd34d}
+.tag-DEFAULT{background:rgba(255,255,255,.1);color:#aaa}
+.post-body{font-size:14px;line-height:1.8;color:#d0d0d0;white-space:pre-wrap;word-wrap:break-word}
+.post-body p{margin-bottom:8px}
+.empty{text-align:center;color:#555;padding:60px 20px;font-size:13px}
+footer{text-align:center;padding:24px;color:#555;font-size:12px;border-top:1px solid rgba(255,255,255,.06)}
+footer a{color:#00d9ff;text-decoration:none}
+</style>
+</head>
+<body>
+<nav>
+  <a href="index.html" class="nav-logo">🚀 KOO SUPERDEV</a>
+  <a href="signal.html">Signal</a>
+  <a href="feed.html">Feed</a>
+  <a href="journal.html" class="active">Journal</a>
+</nav>
+<div class="page-header">
+  <h2>📓 Development Journal</h2>
+  <p>Architecture decisions, experiments, system thoughts</p>
+</div>
+<div class="container" id="entries"><div class="empty">Loading...</div></div>
+<footer>
+  <a href="index.html">← Home</a> · <a href="https://raw.githubusercontent.com/highgroundbkk/koo-feed/main/obra-superpowers.md">Raw</a>
+</footer>
+<script>
+function tagClass(t){const m={DECISION:'DECISION',SYSTEM:'SYSTEM',NOTE:'NOTE',IDEA:'IDEA'};return'post-tag tag-'+(m[t]||'DEFAULT')}
+async function load(){
+  const c=document.getElementById('entries');
+  try{
+    const r=await fetch('https://raw.githubusercontent.com/highgroundbkk/koo-feed/main/obra-superpowers.md?t='+Date.now());
+    const txt=await r.text();
+    // Split into sections by date headers or entry markers
+    const entries=[];
+    let cur=null;
+    txt.split('\n').forEach(line=>{
+      const m=line.match(/^###?\s+(\d{4}-\d{2}-\d{2}[^\n]*)/);
+      const m2=line.match(/^\[([\d\-\s:]+)\]\s+(\w+)\s+·\s+(.+)/);
+      if(m){
+        if(cur)entries.push(cur);
+        cur={date:m[1],tag:'NOTE',lines:[]};
+      } else if(m2){
+        if(cur)entries.push(cur);
+        const[,date,tag,text]=m2;
+        cur={date:date.trim(),tag,lines:[text]};
+      } else if(cur&&line.trim()){
+        cur.lines.push(line);
+      }
+    });
+    if(cur)entries.push(cur);
+    if(!entries.length){c.innerHTML='<div class="empty">No journal entries yet.</div>';return}
+    c.innerHTML=entries.reverse().map(e=>`
+      <div class="post">
+        <div class="post-meta">
+          <span class="${tagClass(e.tag)}">${e.tag}</span>
+          <span class="post-date">${e.date}</span>
+        </div>
+        <div class="post-body">${e.lines.join('\n').trim().replace(/</g,'&lt;').replace(/>/g,'&gt;')}</div>
+      </div>`).join('');
+  }catch(err){c.innerHTML='<div class="empty">⚠️ Could not load. <a href="https://github.com/highgroundbkk/koo-feed/blob/main/obra-superpowers.md" style="color:#00d9ff">Read on GitHub</a></div>'}
+}
+load();
+</script>
+</body>
+</html>

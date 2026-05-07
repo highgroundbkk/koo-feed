@@ -1,292 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KOO SUPERDEV — Autonomous Development System</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
-            background: linear-gradient(135deg, #0f0f1e 0%, #1a1a2e 100%);
-            color: #e0e0e0;
-            line-height: 1.6;
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            padding: 20px;
-        }
-        
-        .container {
-            max-width: 700px;
-            margin: 0 auto;
-            width: 100%;
-        }
-        
-        header {
-            text-align: center;
-            margin-bottom: 50px;
-        }
-        
-        .logo {
-            font-size: 48px;
-            margin-bottom: 16px;
-            animation: float 3s ease-in-out infinite;
-        }
-        
-        @keyframes float {
-            0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-10px); }
-        }
-        
-        h1 {
-            font-size: 36px;
-            margin-bottom: 8px;
-            background: linear-gradient(135deg, #00d9ff, #0099ff);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-        
-        .tagline {
-            color: #888;
-            font-size: 14px;
-            letter-spacing: 1px;
-            text-transform: uppercase;
-        }
-        
-        .intro {
-            background: rgba(255,255,255,0.03);
-            border: 1px solid rgba(0, 217, 255, 0.2);
-            border-radius: 12px;
-            padding: 24px;
-            margin-bottom: 40px;
-            font-size: 14px;
-            line-height: 1.8;
-            color: #d0d0d0;
-        }
-        
-        .intro strong {
-            color: #00d9ff;
-        }
-        
-        .section {
-            margin-bottom: 32px;
-        }
-        
-        .section-title {
-            font-size: 12px;
-            text-transform: uppercase;
-            letter-spacing: 1.5px;
-            color: #888;
-            margin-bottom: 12px;
-            font-weight: 600;
-        }
-        
-        .links {
-            display: grid;
-            gap: 12px;
-        }
-        
-        .link-card {
-            display: flex;
-            align-items: center;
-            gap: 14px;
-            padding: 14px;
-            background: rgba(255,255,255,0.04);
-            border: 1px solid rgba(255,255,255,0.08);
-            border-radius: 8px;
-            text-decoration: none;
-            color: inherit;
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
-        
-        .link-card:hover {
-            background: rgba(0, 217, 255, 0.1);
-            border-color: rgba(0, 217, 255, 0.4);
-            transform: translateX(6px);
-        }
-        
-        .link-icon {
-            font-size: 20px;
-            min-width: 28px;
-            text-align: center;
-        }
-        
-        .link-content {
-            flex: 1;
-        }
-        
-        .link-title {
-            font-weight: 600;
-            font-size: 14px;
-            color: #fff;
-            margin-bottom: 2px;
-        }
-        
-        .link-desc {
-            font-size: 12px;
-            color: #888;
-        }
-        
-        .link-arrow {
-            color: #00d9ff;
-            opacity: 0;
-            transition: opacity 0.3s;
-        }
-        
-        .link-card:hover .link-arrow {
-            opacity: 1;
-        }
-        
-        .stats {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 12px;
-            margin-top: 24px;
-        }
-        
-        .stat-box {
-            background: rgba(0, 217, 255, 0.08);
-            border: 1px solid rgba(0, 217, 255, 0.2);
-            border-radius: 8px;
-            padding: 12px;
-            text-align: center;
-        }
-        
-        .stat-number {
-            font-size: 18px;
-            font-weight: 700;
-            color: #00d9ff;
-            margin-bottom: 4px;
-        }
-        
-        .stat-label {
-            font-size: 11px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            color: #888;
-        }
-        
-        footer {
-            text-align: center;
-            margin-top: 50px;
-            padding-top: 20px;
-            border-top: 1px solid rgba(255,255,255,0.1);
-            font-size: 12px;
-            color: #666;
-        }
-        
-        .status {
-            display: inline-block;
-            background: rgba(0, 200, 100, 0.15);
-            color: #00c864;
-            padding: 4px 8px;
-            border-radius: 3px;
-            font-size: 11px;
-            font-weight: 600;
-            margin-left: 8px;
-        }
-        
-        @media (max-width: 600px) {
-            h1 { font-size: 28px; }
-            .logo { font-size: 40px; }
-            .intro { padding: 16px; font-size: 13px; }
-            .link-card { padding: 12px; }
-            .link-title { font-size: 13px; }
-            .stats { grid-template-columns: 1fr; }
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KOO SUPERDEV</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0d0d1a;color:#e0e0e0;min-height:100vh}
+nav{display:flex;align-items:center;gap:16px;padding:14px 24px;border-bottom:1px solid rgba(255,255,255,.08);background:#0d0d1a;position:sticky;top:0;z-index:99}
+.nav-logo{font-weight:700;font-size:15px;color:#00d9ff;text-decoration:none}
+nav a{font-size:13px;color:#888;text-decoration:none;padding:6px 10px;border-radius:6px;transition:.2s}
+nav a:hover,nav a.active{background:rgba(0,217,255,.12);color:#00d9ff}
+.hero{text-align:center;padding:60px 24px 40px}
+.hero h1{font-size:40px;font-weight:800;background:linear-gradient(135deg,#00d9ff,#0066ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:10px}
+.hero p{color:#888;font-size:14px;max-width:460px;margin:0 auto 32px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;max-width:780px;margin:0 auto;padding:0 24px 60px}
+.card{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:12px;padding:24px;text-decoration:none;color:inherit;transition:.3s;display:block}
+.card:hover{background:rgba(0,217,255,.08);border-color:rgba(0,217,255,.3);transform:translateY(-4px)}
+.card-icon{font-size:28px;margin-bottom:12px}
+.card-title{font-size:15px;font-weight:700;color:#fff;margin-bottom:6px}
+.card-desc{font-size:12px;color:#888;line-height:1.6}
+.card-tag{display:inline-block;margin-top:10px;font-size:10px;padding:2px 8px;border-radius:3px;background:rgba(0,217,255,.15);color:#00d9ff;font-weight:600;letter-spacing:.5px}
+footer{text-align:center;padding:24px;color:#555;font-size:12px;border-top:1px solid rgba(255,255,255,.06)}
+footer a{color:#00d9ff;text-decoration:none}
+</style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <div class="logo">🚀</div>
-            <h1>KOO SUPERDEV</h1>
-            <p class="tagline">Autonomous Development System</p>
-        </header>
-        
-        <div class="intro">
-            <strong>42 commands</strong> + <strong>8 autonomous bots</strong> + <strong>ecosystem monitoring</strong><br><br>
-            Self-improving development environment running on GitHub Actions. Monitor trends, sync across machines, improve without intervention.
-        </div>
-        
-        <div class="section">
-            <div class="section-title">📖 Read Journals</div>
-            <div class="links">
-                <a href="feed.html" class="link-card">
-                    <div class="link-icon">📰</div>
-                    <div class="link-content">
-                        <div class="link-title">Activity Feed</div>
-                        <div class="link-desc">Real-time events, syncs, deployments</div>
-                    </div>
-                    <div class="link-arrow">→</div>
-                </a>
-                
-                <a href="signal.md" class="link-card">
-                    <div class="link-icon">📡</div>
-                    <div class="link-content">
-                        <div class="link-title">Signal Dispatches</div>
-                        <div class="link-desc">Curated AI/devtools ecosystem updates</div>
-                    </div>
-                    <div class="link-arrow">→</div>
-                </a>
-                
-                <a href="obra-superpowers.md" class="link-card">
-                    <div class="link-icon">📓</div>
-                    <div class="link-content">
-                        <div class="link-title">Development Journal</div>
-                        <div class="link-desc">System thoughts, decisions, architecture</div>
-                    </div>
-                    <div class="link-arrow">→</div>
-                </a>
-            </div>
-        </div>
-        
-        <div class="section">
-            <div class="section-title">🔧 System</div>
-            <div class="links">
-                <a href="README.md" class="link-card">
-                    <div class="link-icon">📚</div>
-                    <div class="link-content">
-                        <div class="link-title">Documentation</div>
-                        <div class="link-desc">Setup, commands, bots, troubleshooting</div>
-                    </div>
-                    <div class="link-arrow">→</div>
-                </a>
-                
-                <a href="LINKS.md" class="link-card">
-                    <div class="link-icon">��</div>
-                    <div class="link-content">
-                        <div class="link-title">Quick Links</div>
-                        <div class="link-desc">Useful repos, tools, resources</div>
-                    </div>
-                    <div class="link-arrow">→</div>
-                </a>
-            </div>
-        </div>
-        
-        <div class="stats">
-            <div class="stat-box">
-                <div class="stat-number">42</div>
-                <div class="stat-label">Commands</div>
-            </div>
-            <div class="stat-box">
-                <div class="stat-number">8</div>
-                <div class="stat-label">Bots</div>
-            </div>
-        </div>
-        
-        <footer>
-            <p>v1.0.0 <span class="status">RUNNING</span></p>
-            <p style="margin-top: 8px; color: #555;">
-                <a href="https://github.com/highgroundbkk/koo-feed" style="color: #00d9ff; text-decoration: none;">
-                    View on GitHub →
-                </a>
-            </p>
-        </footer>
-    </div>
+<nav>
+  <a href="index.html" class="nav-logo">🚀 KOO SUPERDEV</a>
+  <a href="signal.html">Signal</a>
+  <a href="feed.html">Feed</a>
+  <a href="journal.html">Journal</a>
+</nav>
+<div class="hero">
+  <h1>KOO SUPERDEV</h1>
+  <p>Autonomous development system — 42 commands, 8 bots, ecosystem monitoring. Updated every Monday.</p>
+</div>
+<div class="cards">
+  <a href="signal.html" class="card">
+    <div class="card-icon">📡</div>
+    <div class="card-title">Signal</div>
+    <div class="card-desc">Curated AI/devtools trends. HN highlights, releases, tools to watch.</div>
+    <span class="card-tag">WEEKLY UPDATES</span>
+  </a>
+  <a href="feed.html" class="card">
+    <div class="card-icon">📰</div>
+    <div class="card-title">Activity Feed</div>
+    <div class="card-desc">System events — syncs, bot runs, deployments, health checks.</div>
+    <span class="card-tag">LIVE LOG</span>
+  </a>
+  <a href="journal.html" class="card">
+    <div class="card-icon">📓</div>
+    <div class="card-title">Journal</div>
+    <div class="card-desc">Architecture decisions, experiments, lessons learned.</div>
+    <span class="card-tag">TEAM NOTES</span>
+  </a>
+  <a href="https://github.com/highgroundbkk/koo-feed" class="card">
+    <div class="card-icon">⚙️</div>
+    <div class="card-title">Source</div>
+    <div class="card-desc">Browse files, history, and raw content on GitHub.</div>
+    <span class="card-tag">GITHUB</span>
+  </a>
+</div>
+<footer>
+  v1.0.0 · <a href="https://github.com/highgroundbkk/koo-feed">GitHub</a>
+</footer>
 </body>
 </html>
