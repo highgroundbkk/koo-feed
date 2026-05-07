@@ -1,0 +1,103 @@
+name: 📡 Daily Signal Update
+on:
+  schedule:
+    - cron: '0 8 * * *'   # 08:00 UTC daily (3pm Bangkok)
+  workflow_dispatch:       # manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch HN AI/devtools signal
+        id: hn
+        run: |
+          DATE=$(date '+%Y-%m-%d %H:%M')
+          SEEN_FILE=".hn-seen"
+          touch "$SEEN_FILE"
+          NEW_ENTRIES=""
+
+          # Fetch top HN stories
+          STORIES=$(curl -sf "https://hacker-news.firebaseio.com/v0/topstories.json" | python3 -c "import sys,json; ids=json.load(sys.stdin); print(' '.join(map(str,ids[:80])))")
+
+          KEYWORDS="claude|gpt|llm|ai agent|copilot|cursor|devtools|bun|deno|uv|rust|wasm|github|openai|anthropic|gemini|mistral|ollama|langchain|playwright|zed"
+          COUNT=0
+
+          for ID in $STORIES; do
+            [ $COUNT -ge 3 ] && break
+            grep -q "^$ID$" "$SEEN_FILE" && continue
+
+            ITEM=$(curl -sf "https://hacker-news.firebaseio.com/v0/item/$ID.json" 2>/dev/null)
+            [ -z "$ITEM" ] && continue
+
+            SCORE=$(echo "$ITEM" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('score',0))" 2>/dev/null)
+            TITLE=$(echo "$ITEM" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('title',''))" 2>/dev/null)
+            URL=$(echo "$ITEM" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('url','https://news.ycombinator.com/item?id=$ID'))" 2>/dev/null)
+
+            [ "${SCORE:-0}" -lt 40 ] && continue
+            echo "$TITLE" | grep -qiE "$KEYWORDS" || continue
+
+            echo "$ID" >> "$SEEN_FILE"
+            NEW_ENTRIES="${NEW_ENTRIES}[$DATE] HN · ${TITLE} — ${SCORE}pts | ${URL}\n"
+            COUNT=$((COUNT+1))
+          done
+
+          if [ -n "$NEW_ENTRIES" ]; then
+            # Prepend after header (line 7)
+            printf "%b" "$NEW_ENTRIES" >> /tmp/new_signal.txt
+            echo "found=true" >> $GITHUB_OUTPUT
+          else
+            echo "found=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Fetch GitHub trending (weekly)
+        run: |
+          DATE=$(date '+%Y-%m-%d %H:%M')
+          # GitHub trending page (scrape titles only — no auth needed)
+          curl -sf "https://api.github.com/search/repositories?q=created:>$(date -d '7 days ago' '+%Y-%m-%d')+language:typescript+language:python&sort=stars&order=desc&per_page=5" \
+            | python3 -c "
+          import sys, json
+          data = json.load(sys.stdin)
+          for r in data.get('items', [])[:3]:
+            name = r['full_name']
+            desc = (r.get('description') or '')[:80]
+            stars = r.get('stargazers_count', 0)
+            url = r['html_url']
+            print(f'[$DATE] RELEASE · {name} ({stars}★) — {desc} | {url}')
+          " 2>/dev/null >> /tmp/new_signal.txt || true
+
+      - name: Update signal.md
+        run: |
+          if [ -f /tmp/new_signal.txt ] && [ -s /tmp/new_signal.txt ]; then
+            # Insert after line 7 (after header)
+            head -7 signal.md > /tmp/signal_new.md
+            cat /tmp/new_signal.txt >> /tmp/signal_new.md
+            tail -n +8 signal.md >> /tmp/signal_new.md
+            mv /tmp/signal_new.md signal.md
+            echo "UPDATED=true" >> $GITHUB_ENV
+          fi
+
+      - name: Log to feed.md
+        run: |
+          DATE=$(date '+%Y-%m-%d %H:%M')
+          COUNT=$(cat /tmp/new_signal.txt 2>/dev/null | wc -l)
+          if [ "${UPDATED:-false}" = "true" ]; then
+            # Prepend to feed.md after header
+            TMP=$(mktemp)
+            head -7 feed.md > "$TMP"
+            echo "[$DATE] BOT · signal-bot: $COUNT new entries dispatched to signal.md" >> "$TMP"
+            tail -n +8 feed.md >> "$TMP"
+            mv "$TMP" feed.md
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "koo-signal-bot"
+          git config user.email "bots@koo-superdev.local"
+          git add signal.md feed.md .hn-seen 2>/dev/null || true
+          git diff --staged --quiet && echo "Nothing to commit" && exit 0
+          git commit -m "chore: daily signal update $(date '+%Y-%m-%d')"
+          git push
