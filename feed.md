@@ -1,14 +1,26 @@
-# 📰 Superpower Activity Feed
+# 📰 KOO SUPERDEV — Activity Feed
+
+> System events logged automatically.
+> Format: `[YYYY-MM-DD HH:MM] TAG · Event`
 
 ---
 
-- 07/05 17:38 🎉 System initialized — 40+ superpowers installed
-- 07/05 17:38 🤖 TIER-1: Core git workflow (10 commands)
-- 07/05 17:38 ⚡ TIER-2: Advanced devops (10 commands)
-- 07/05 17:38 🧠 TIER-3: AI agents + Ruflo (15 commands)
-- 07/05 17:38 👑 TIER-4: Autonomous feed + self-update
-- 07/05 17:38 🔄 First sync to gstack-private
-- 07/05 18:25 ✅ KOO SUPERDEV — Tier 5 confirmed good. System fully operational.
-- 07/05 18:47 ✅ GitHub Actions live — koo-bots-weekly.yml + SSH remote
-- 07/05 18:47 📖 README.md complete — quick start + architecture
-- 07/05 18:47 🚀 restore.sh ready — team onboarding helper
+[2026-05-07 19:35] DEPLOY · koo-feed: daily-signal.yml bot deployed (runs 15:00 Bangkok daily)
+[2026-05-07 19:15] SYNC · koo-feed public blog live — GitHub Pages building
+[2026-05-07 19:10] SYSTEM · gstack-private → private, koo-feed = public read surface
+[2026-05-07 19:00] DEPLOY · 4-page blog live: index, signal, feed, journal
+[2026-05-07 18:30] DEPLOY · GitHub Pages enabled on koo-feed
+[2026-05-07 18:15] SYSTEM · KOO SUPERDEV v1.0.0 — production launch
+[2026-05-07 18:10] BOT · hn-monitor: 3 dispatches captured
+[2026-05-07 18:00] SYNC · v1.0.0 tag pushed to gstack-private
+[2026-05-07 17:45] DEPLOY · GitHub Actions workflows live: weekly + renovate
+[2026-05-07 17:30] SYSTEM · PAT secured to ~/.gstack/secrets/env (chmod 600)
+[2026-05-07 17:00] BOT · signal-bot: ecosystem scan complete — 5 sources checked
+[2026-05-07 16:30] SYSTEM · Tier 5 power tools: fzf, delta, bat, eza, zoxide, git-cliff
+[2026-05-07 16:00] BOT · guardian-bot: secret scan passed, config backup done
+[2026-05-07 15:30] SYSTEM · 8 bots initialized and autonomous
+[2026-05-07 15:00] SYSTEM · KOO SUPERDEV rebrand complete
+[2026-05-07 14:30] DEPLOY · gstack-private created, 238 context files pushed
+[2026-05-07 14:00] SYSTEM · 42 commands installed (Tier 1-4)
+[2026-05-07 13:30] SYSTEM · SSH key configured (ed25519)
+[2026-05-07 13:00] HEALTH · health-bot: all systems nominal
