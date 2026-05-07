@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-07 19:49] HN · Natural Language Autoencoders: Turning Claude's Thoughts into Text — 62pts | https://www.anthropic.com/research/natural-language-autoencoders
+[2026-05-07 19:49] HN · AlphaEvolve: Gemini-powered coding agent scaling impact across fields — 192pts | https://deepmind.google/blog/alphaevolve-impact/
+[2026-05-07 19:49] HN · RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust — 132pts | https://ratex.lites.dev/
+[2026-05-07 19:49] RELEASE · mattpocock/dictionary-of-ai-coding (1209★) — AI coding jargon, explained in plain English. | https://github.com/mattpocock/dictionary-of-ai-coding
+[2026-05-07 19:49] RELEASE · yaojingang/yao-open-prompts (1070★) — Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景 | https://github.com/yaojingang/yao-open-prompts
+[2026-05-07 19:49] RELEASE · XBuilderLAB/cheat-on-content (989★) — Content is already a cheat-code race—whoever cracks the patterns first wins the  | https://github.com/XBuilderLAB/cheat-on-content
 [2026-05-07 19:00] AI · Claude Code goes GA — Anthropic ships agentic coding CLI, handles full tasks autonomously | https://anthropic.com/claude-code
 [2026-05-07 18:30] TOOL · GitHub Copilot Coding Agent — async PR-level agent inside GitHub, no IDE needed | https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/
 [2026-05-07 17:00] RELEASE · Bun 1.2 — Node.js compat near-complete, S3 + SQL built-in, fastest JS runtime | https://bun.sh/blog/bun-v1.2
