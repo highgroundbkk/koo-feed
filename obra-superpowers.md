@@ -100,3 +100,24 @@ KOO SUPERDEV now **fully autonomous**:
 
 No codespace needed. Runs on GitHub free tier.
 
+
+---
+
+[2026-05-07 19:48] DECISION · Two-repo architecture — public feed + private vault
+
+**Why split into two repos?**
+
+GitHub Pages only works on public repos (free plan). But all bots, secrets, and configs must stay private. The solution: separate concerns cleanly.
+
+- `gstack-private` — private vault, all secrets, 8 bots, 42 commands, 238 context files
+- `koo-feed` — public blog site, curated markdown only, zero secrets
+
+**Bot sync process:**
+1. `sync-bot.sh` reads from gstack-private
+2. Strips any lines matching credential patterns (ghp_, ANTHROPIC_KEY, etc.)
+3. Copies only `.md` files to koo-feed clone
+4. Pushes via PAT — public read, private write
+
+**Result:** Team reads at `https://highgroundbkk.github.io/koo-feed/` — no secrets ever exposed.
+
+Reference: `~/.gstack/bots/sync-bot.sh`, `.github/workflows/daily-signal.yml`

@@ -25,3 +25,8 @@
 [2026-04-28 10:00] AI · Mistral Large 2 — open weights, coding-optimized, runs on single A100 | https://mistral.ai
 [2026-04-27 14:00] TOOL · Turso (libSQL) — SQLite at the edge, embedded replicas, generous free tier | https://turso.tech
 [2026-04-26 10:00] RELEASE · GitHub Actions 2025 — larger runners free tier, 10x faster caches | https://github.blog
+[2026-05-07 19:30] AI · Claude 3.7 Sonnet — Anthropic ships extended thinking + hybrid mode, best coding model 2026 | https://anthropic.com/claude/sonnet
+[2026-05-07 19:00] TOOL · GitHub Copilot Workspace GA — plan + implement + test full features in one session | https://githubnext.com/projects/copilot-workspace
+[2026-05-07 18:00] HN · "Why I switched from Cursor to Claude Code" — 1.2k pts, real workflow comparison | https://news.ycombinator.com
+[2026-05-07 17:00] RELEASE · OpenAI Codex CLI — terminal-native agent, runs shell commands, edits files | https://github.com/openai/codex
+[2026-05-07 16:00] TOOL · Vercel v0 3.0 — React + shadcn from prompt, deploys in 30s, free hobby tier | https://v0.dev

@@ -24,3 +24,7 @@
 [2026-05-07 14:00] SYSTEM · 42 commands installed (Tier 1-4)
 [2026-05-07 13:30] SYSTEM · SSH key configured (ed25519)
 [2026-05-07 13:00] HEALTH · health-bot: all systems nominal
+[2026-05-07 19:00] DEPLOY · koo-feed blog site live — 4 pages, card layout, timeline feed, journal posts
+[2026-05-07 19:30] BOT · daily-signal.yml deployed — HN API + GitHub trending, runs 15:00 Bangkok daily
+[2026-05-07 19:48] SYNC · 5 new signal dispatches added — Claude 3.7, Codex CLI, v0 3.0, Copilot Workspace
+[2026-05-07 19:48] HEALTH · site verified 200 OK — https://highgroundbkk.github.io/koo-feed/
