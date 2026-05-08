@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-08 08:29] HN · Plasticity and language in the anaesthetized human hippocampus — 104pts | https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain
+[2026-05-08 08:29] HN · Hardening Firefox with Claude Mythos Preview — 176pts | https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/
+[2026-05-08 08:29] HN · Show HN: TRUST – Coding Rust like it's 1989 — 135pts | https://github.com/wojtczyk/trust
+[2026-05-08 08:29] RELEASE · yaojingang/yao-open-prompts (1282★) — Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景 | https://github.com/yaojingang/yao-open-prompts
+[2026-05-08 08:29] RELEASE · strukto-ai/mirage (1168★) — A Unified Virtual Filesystem For AI Agents | https://github.com/strukto-ai/mirage
+[2026-05-08 08:29] RELEASE · crafter-station/petdex (1037★) — Public gallery of animated Codex pets | https://github.com/crafter-station/petdex
 [2026-05-07 19:49] HN · Natural Language Autoencoders: Turning Claude's Thoughts into Text — 62pts | https://www.anthropic.com/research/natural-language-autoencoders
 [2026-05-07 19:49] HN · AlphaEvolve: Gemini-powered coding agent scaling impact across fields — 192pts | https://deepmind.google/blog/alphaevolve-impact/
 [2026-05-07 19:49] HN · RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust — 132pts | https://ratex.lites.dev/
