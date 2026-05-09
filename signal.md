@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-09 08:30] HN · A recent experience with ChatGPT 5.5 Pro — 240pts | https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/
+[2026-05-09 08:30] HN · Using Claude Code: The unreasonable effectiveness of HTML — 107pts | https://twitter.com/trq212/status/2052809885763747935
+[2026-05-09 08:30] HN · OpenAI’s WebRTC problem — 283pts | https://moq.dev/blog/webrtc-is-the-problem/
+[2026-05-09 08:30] RELEASE · strukto-ai/mirage (1524★) — A Unified Virtual Filesystem For AI Agents | https://github.com/strukto-ai/mirage
+[2026-05-09 08:30] RELEASE · yaojingang/yao-open-prompts (1419★) — Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景 | https://github.com/yaojingang/yao-open-prompts
+[2026-05-09 08:30] RELEASE · MayersScott/rkn-block-checker (874★) — Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP) | https://github.com/MayersScott/rkn-block-checker
 [2026-05-08 08:29] HN · Plasticity and language in the anaesthetized human hippocampus — 104pts | https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain
 [2026-05-08 08:29] HN · Hardening Firefox with Claude Mythos Preview — 176pts | https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/
 [2026-05-08 08:29] HN · Show HN: TRUST – Coding Rust like it's 1989 — 135pts | https://github.com/wojtczyk/trust
