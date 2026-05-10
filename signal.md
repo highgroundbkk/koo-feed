@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-10 08:35] HN · Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc — 534pts | https://twitter.com/jarredsumner/status/2053047748191232310
+[2026-05-10 08:35] HN · Gemini API File Search is now multimodal — 78pts | https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
+[2026-05-10 08:35] HN · Zed Editor Theme-Builder — 210pts | https://zed.dev/theme-builder
+[2026-05-10 08:35] RELEASE · strukto-ai/mirage (1676★) — A Unified Virtual Filesystem For AI Agents | https://github.com/strukto-ai/mirage
+[2026-05-10 08:35] RELEASE · yaojingang/yao-open-prompts (1519★) — Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景 | https://github.com/yaojingang/yao-open-prompts
+[2026-05-10 08:35] RELEASE · lightseekorg/tokenspeed (876★) — TokenSpeed is a speed-of-light LLM inference engine. | https://github.com/lightseekorg/tokenspeed
 [2026-05-09 08:30] HN · A recent experience with ChatGPT 5.5 Pro — 240pts | https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/
 [2026-05-09 08:30] HN · Using Claude Code: The unreasonable effectiveness of HTML — 107pts | https://twitter.com/trq212/status/2052809885763747935
 [2026-05-09 08:30] HN · OpenAI’s WebRTC problem — 283pts | https://moq.dev/blog/webrtc-is-the-problem/
