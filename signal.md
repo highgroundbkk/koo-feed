@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-11 09:04] HN · How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings? — 73pts | https://dunkels.com/adam/claude-user-space-ip-stack-ping/
+[2026-05-11 09:04] HN · LLMorphism: When humans come to see themselves as language models — 76pts | https://arxiv.org/abs/2605.05419
+[2026-05-11 09:04] HN · Show HN: Rust but Lisp — 197pts | https://github.com/ThatXliner/rust-but-lisp
+[2026-05-11 09:04] RELEASE · strukto-ai/mirage (1836★) — A Unified Virtual Filesystem For AI Agents | https://github.com/strukto-ai/mirage
+[2026-05-11 09:04] RELEASE · yaojingang/yao-open-prompts (1604★) — Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景 | https://github.com/yaojingang/yao-open-prompts
+[2026-05-11 09:04] RELEASE · lightseekorg/tokenspeed (934★) — TokenSpeed is a speed-of-light LLM inference engine. | https://github.com/lightseekorg/tokenspeed
 [2026-05-10 08:35] HN · Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc — 534pts | https://twitter.com/jarredsumner/status/2053047748191232310
 [2026-05-10 08:35] HN · Gemini API File Search is now multimodal — 78pts | https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
 [2026-05-10 08:35] HN · Zed Editor Theme-Builder — 210pts | https://zed.dev/theme-builder
