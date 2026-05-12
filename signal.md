@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-12 08:55] HN · Claude Platform on AWS — 130pts | https://claude.com/blog/claude-platform-on-aws
+[2026-05-12 08:55] HN · Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s — 237pts | https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html
+[2026-05-12 08:55] HN · AMÁLIA and the future of European Portuguese LLMs — 135pts | https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms
+[2026-05-12 08:55] RELEASE · strukto-ai/mirage (1996★) — A Unified Virtual Filesystem For AI Agents | https://github.com/strukto-ai/mirage
+[2026-05-12 08:55] RELEASE · yaojingang/yao-open-prompts (1764★) — Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景 | https://github.com/yaojingang/yao-open-prompts
+[2026-05-12 08:55] RELEASE · BigPizzaV3/CodexPlusPlus (1280★) — An enhanced tool for CodexApp, striving to make Codex better to use and more com | https://github.com/BigPizzaV3/CodexPlusPlus
 [2026-05-11 09:04] HN · How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings? — 73pts | https://dunkels.com/adam/claude-user-space-ip-stack-ping/
 [2026-05-11 09:04] HN · LLMorphism: When humans come to see themselves as language models — 76pts | https://arxiv.org/abs/2605.05419
 [2026-05-11 09:04] HN · Show HN: Rust but Lisp — 197pts | https://github.com/ThatXliner/rust-but-lisp
