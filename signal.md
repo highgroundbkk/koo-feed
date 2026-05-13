@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-13 08:57] HN · Restore full BambuNetwork support for Bambu Lab printers — 411pts | https://github.com/FULU-Foundation/OrcaSlicer-bambulab
+[2026-05-13 08:57] HN · Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model — 442pts | https://github.com/cactus-compute/needle
+[2026-05-13 08:57] HN · My graduation cap runs Rust — 149pts | https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/
+[2026-05-13 08:57] RELEASE · ywnd1144/Gopay_plus_automatic (652★) —  | https://github.com/ywnd1144/Gopay_plus_automatic
+[2026-05-13 08:57] RELEASE · haydenbleasel/files-sdk (602★) — A unified storage SDK for object and blob backends. One small, honest API. Web-s | https://github.com/haydenbleasel/files-sdk
+[2026-05-13 08:57] RELEASE · patchfighterway90/cs2-external-overlay (533★) — The cs2 external helper tool is a software utility designed for gamers and devel | https://github.com/patchfighterway90/cs2-external-overlay
 [2026-05-12 08:55] HN · Claude Platform on AWS — 130pts | https://claude.com/blog/claude-platform-on-aws
 [2026-05-12 08:55] HN · Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s — 237pts | https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html
 [2026-05-12 08:55] HN · AMÁLIA and the future of European Portuguese LLMs — 135pts | https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms
