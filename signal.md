@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-14 08:53] HN · Claude for Small Business — 218pts | https://www.anthropic.com/news/claude-for-small-business
+[2026-05-14 08:53] HN · Leaving GitHub for Forgejo — 576pts | https://jorijn.com/en/blog/leaving-github-for-forgejo/
+[2026-05-14 08:53] HN · The limits of Rust, or why you should probably not follow Amazon and Cloudflare — 67pts | https://kerkour.com/the-limits-of-rust
+[2026-05-14 08:53] RELEASE · ywnd1144/Gopay_plus_automatic (739★) —  | https://github.com/ywnd1144/Gopay_plus_automatic
+[2026-05-14 08:53] RELEASE · haydenbleasel/files-sdk (656★) — A unified storage SDK for object and blob backends. One small, honest API. Web-s | https://github.com/haydenbleasel/files-sdk
+[2026-05-14 08:53] RELEASE · TencentARC/Pixal3D (570★) — [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images | https://github.com/TencentARC/Pixal3D
 [2026-05-13 08:57] HN · Restore full BambuNetwork support for Bambu Lab printers — 411pts | https://github.com/FULU-Foundation/OrcaSlicer-bambulab
 [2026-05-13 08:57] HN · Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model — 442pts | https://github.com/cactus-compute/needle
 [2026-05-13 08:57] HN · My graduation cap runs Rust — 149pts | https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/
