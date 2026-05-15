@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-15 08:59] HN · Codex is now in the ChatGPT mobile app — 323pts | https://openai.com/index/work-with-codex-from-anywhere/
+[2026-05-15 08:59] HN · Rewrite Bun in Rust has been merged — 636pts | https://github.com/oven-sh/bun/pull/30412
+[2026-05-15 08:59] HN · Claude for Legal — 86pts | https://github.com/anthropics/claude-for-legal
+[2026-05-15 08:59] RELEASE · ywnd1144/Gopay_plus_automatic (838★) —  | https://github.com/ywnd1144/Gopay_plus_automatic
+[2026-05-15 08:59] RELEASE · TencentARC/Pixal3D (662★) — [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images | https://github.com/TencentARC/Pixal3D
+[2026-05-15 08:59] RELEASE · cclank/cell-architecture-studio (579★) — Interactive 3D cell architecture gallery built with React and Three.js | https://github.com/cclank/cell-architecture-studio
 [2026-05-14 08:53] HN · Claude for Small Business — 218pts | https://www.anthropic.com/news/claude-for-small-business
 [2026-05-14 08:53] HN · Leaving GitHub for Forgejo — 576pts | https://jorijn.com/en/blog/leaving-github-for-forgejo/
 [2026-05-14 08:53] HN · The limits of Rust, or why you should probably not follow Amazon and Cloudflare — 67pts | https://kerkour.com/the-limits-of-rust
