@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-16 08:32] HN · Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust" — 387pts | https://github.com/oven-sh/bun/issues/30719
+[2026-05-16 08:32] HN · OpenAI is connecting ChatGPT to bank accounts via Plaid — 74pts | https://firethering.com/chatgpt-bank-account-plaid-openai/
+[2026-05-16 08:32] HN · Building ML framework with Rust and Category Theory — 96pts | https://hghalebi.github.io/category_theory_transformer_rs/
+[2026-05-16 08:32] RELEASE · ywnd1144/Gopay_plus_automatic (887★) —  | https://github.com/ywnd1144/Gopay_plus_automatic
+[2026-05-16 08:32] RELEASE · TencentARC/Pixal3D (759★) — [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images | https://github.com/TencentARC/Pixal3D
+[2026-05-16 08:32] RELEASE · DepthFirstDisclosures/Nginx-Rift (620★) — exploit for CVE-2026-42945 | https://github.com/DepthFirstDisclosures/Nginx-Rift
 [2026-05-15 08:59] HN · Codex is now in the ChatGPT mobile app — 323pts | https://openai.com/index/work-with-codex-from-anywhere/
 [2026-05-15 08:59] HN · Rewrite Bun in Rust has been merged — 636pts | https://github.com/oven-sh/bun/pull/30412
 [2026-05-15 08:59] HN · Claude for Legal — 86pts | https://github.com/anthropics/claude-for-legal
