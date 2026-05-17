@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-17 08:40] HN · Zerostack – A Unix-inspired coding agent written in pure Rust — 368pts | https://crates.io/crates/zerostack/1.0.0
+[2026-05-17 08:40] HN · OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens — 171pts | https://openai.com/index/malta-chatgpt-plus-partnership/
+[2026-05-17 08:40] HN · DeepSeek-V4-Flash means LLM steering is interesting again — 234pts | https://www.seangoedecke.com/steering-vectors/
+[2026-05-17 08:41] RELEASE · ywnd1144/Gopay_plus_automatic (910★) —  | https://github.com/ywnd1144/Gopay_plus_automatic
+[2026-05-17 08:41] RELEASE · DepthFirstDisclosures/Nginx-Rift (651★) — exploit for CVE-2026-42945 | https://github.com/DepthFirstDisclosures/Nginx-Rift
+[2026-05-17 08:41] RELEASE · lillian039/ELF (579★) —  | https://github.com/lillian039/ELF
 [2026-05-16 08:32] HN · Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust" — 387pts | https://github.com/oven-sh/bun/issues/30719
 [2026-05-16 08:32] HN · OpenAI is connecting ChatGPT to bank accounts via Plaid — 74pts | https://firethering.com/chatgpt-bank-account-plaid-openai/
 [2026-05-16 08:32] HN · Building ML framework with Rust and Category Theory — 96pts | https://hghalebi.github.io/category_theory_transformer_rs/
