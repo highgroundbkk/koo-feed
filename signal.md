@@ -5,6 +5,11 @@
 
 ---
 
+[2026-05-18 09:05] HN · Mado: Fast Markdown linter written in Rust — 60pts | https://github.com/akiomik/mado
+[2026-05-18 09:05] HN · Most Americans don't trust AI – or the people in charge of it (2025) — 91pts | https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai
+[2026-05-18 09:05] RELEASE · ywnd1144/Gopay_plus_automatic (926★) —  | https://github.com/ywnd1144/Gopay_plus_automatic
+[2026-05-18 09:05] RELEASE · facebookresearch/vggt-omega (860★) — [CVPR 2026 Oral] VGGT Omega | https://github.com/facebookresearch/vggt-omega
+[2026-05-18 09:05] RELEASE · DepthFirstDisclosures/Nginx-Rift (690★) — exploit for CVE-2026-42945 | https://github.com/DepthFirstDisclosures/Nginx-Rift
 [2026-05-17 08:40] HN · Zerostack – A Unix-inspired coding agent written in pure Rust — 368pts | https://crates.io/crates/zerostack/1.0.0
 [2026-05-17 08:40] HN · OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens — 171pts | https://openai.com/index/malta-chatgpt-plus-partnership/
 [2026-05-17 08:40] HN · DeepSeek-V4-Flash means LLM steering is interesting again — 234pts | https://www.seangoedecke.com/steering-vectors/
