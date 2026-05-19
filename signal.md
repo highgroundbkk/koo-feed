@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-19 09:04] HN · The last six months in LLMs in five minutes — 393pts | https://simonwillison.net/2026/May/19/5-minute-llms/
+[2026-05-19 09:04] HN · Anthropic acquires Stainless — 448pts | https://www.anthropic.com/news/anthropic-acquires-stainless
+[2026-05-19 09:04] HN · Cursor Introduces Composer 2.5 — 138pts | https://cursor.com/blog/composer-2-5
+[2026-05-19 09:04] RELEASE · facebookresearch/vggt-omega (1091★) — [CVPR 2026 Oral] VGGT Omega | https://github.com/facebookresearch/vggt-omega
+[2026-05-19 09:04] RELEASE · Kappaemme-git/codex-complexity-optimizer (769★) — Codex skill for safe codebase complexity analysis and performance optimization r | https://github.com/Kappaemme-git/codex-complexity-optimizer
+[2026-05-19 09:04] RELEASE · zigabratun/Umbrella-HWID-Tool (610★) — Umbrella Spoofer: HWID changer, hardware identifier modification, disk serial nu | https://github.com/zigabratun/Umbrella-HWID-Tool
 [2026-05-18 09:05] HN · Mado: Fast Markdown linter written in Rust — 60pts | https://github.com/akiomik/mado
 [2026-05-18 09:05] HN · Most Americans don't trust AI – or the people in charge of it (2025) — 91pts | https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai
 [2026-05-18 09:05] RELEASE · ywnd1144/Gopay_plus_automatic (926★) —  | https://github.com/ywnd1144/Gopay_plus_automatic
