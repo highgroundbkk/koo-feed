@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-20 09:03] HN · Gemini 3.5 Flash — 763pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
+[2026-05-20 09:03] HN · OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool — 276pts | https://openai.com/index/advancing-content-provenance/
+[2026-05-20 09:03] HN · Mistral AI acquires Emmi AI — 254pts | https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai
+[2026-05-20 09:03] RELEASE · facebookresearch/vggt-omega (1283★) — [CVPR 2026 Oral] VGGT Omega | https://github.com/facebookresearch/vggt-omega
+[2026-05-20 09:03] RELEASE · Kappaemme-git/codex-complexity-optimizer (793★) — Codex skill for safe codebase complexity analysis and performance optimization r | https://github.com/Kappaemme-git/codex-complexity-optimizer
+[2026-05-20 09:03] RELEASE · openclaw/clawpatch (583★) — Review code. Patch bugs. Land PRs. | https://github.com/openclaw/clawpatch
 [2026-05-19 09:04] HN · The last six months in LLMs in five minutes — 393pts | https://simonwillison.net/2026/May/19/5-minute-llms/
 [2026-05-19 09:04] HN · Anthropic acquires Stainless — 448pts | https://www.anthropic.com/news/anthropic-acquires-stainless
 [2026-05-19 09:04] HN · Cursor Introduces Composer 2.5 — 138pts | https://cursor.com/blog/composer-2-5
