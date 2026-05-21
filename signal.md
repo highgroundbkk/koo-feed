@@ -5,6 +5,12 @@
 
 ---
 
+[2026-05-21 09:03] HN · An OpenAI model has disproved a central conjecture in discrete geometry — 1124pts | https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+[2026-05-21 09:03] HN · GitHub confirms breach of 3,800 repos via malicious VSCode extension — 814pts | https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/
+[2026-05-21 09:03] HN · Anthropic is expanding to Colossus2. Will use GB200 — 184pts | https://twitter.com/nottombrown/status/2057194829986300375
+[2026-05-21 09:03] RELEASE · Kappaemme-git/codex-complexity-optimizer (808★) — Codex skill for safe codebase complexity analysis and performance optimization r | https://github.com/Kappaemme-git/codex-complexity-optimizer
+[2026-05-21 09:03] RELEASE · xw7872081123/wallpaper-engine-steam (649★) — Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader b | https://github.com/xw7872081123/wallpaper-engine-steam
+[2026-05-21 09:03] RELEASE · BasZ4ll/Stable-Diffusion-WebUI (635★) — Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl c | https://github.com/BasZ4ll/Stable-Diffusion-WebUI
 [2026-05-20 09:03] HN · Gemini 3.5 Flash — 763pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
 [2026-05-20 09:03] HN · OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool — 276pts | https://openai.com/index/advancing-content-provenance/
 [2026-05-20 09:03] HN · Mistral AI acquires Emmi AI — 254pts | https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai
