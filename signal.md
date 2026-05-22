@@ -5,6 +5,9 @@
 
 ---
 
+[2026-05-22 09:02] HN · Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD — 275pts | https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/
+[2026-05-22 09:02] HN · Uv is fantastic, but its package management UX is a mess — 196pts | https://www.loopwerk.io/articles/2026/uv-ux-mess/
+[2026-05-22 09:02] HN · Show HN: Freenet, a peer-to-peer platform for decentralized apps — 280pts | https://freenet.org/
 [2026-05-21 09:03] HN · An OpenAI model has disproved a central conjecture in discrete geometry — 1124pts | https://openai.com/index/model-disproves-discrete-geometry-conjecture/
 [2026-05-21 09:03] HN · GitHub confirms breach of 3,800 repos via malicious VSCode extension — 814pts | https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/
 [2026-05-21 09:03] HN · Anthropic is expanding to Colossus2. Will use GB200 — 184pts | https://twitter.com/nottombrown/status/2057194829986300375
