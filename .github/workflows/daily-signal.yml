@@ -56,8 +56,8 @@ jobs:
       - name: Fetch GitHub trending (weekly)
         run: |
           DATE=$(date '+%Y-%m-%d %H:%M')
-          # GitHub trending page (scrape titles only — no auth needed)
-          curl -sf "https://api.github.com/search/repositories?q=created:>$(date -d '7 days ago' '+%Y-%m-%d')+language:typescript+language:python&sort=stars&order=desc&per_page=5" \
+          # Fetch recently created repos related to AI/devtools by stars
+          curl -sf "https://api.github.com/search/repositories?q=created:>$(date -d '7 days ago' '+%Y-%m-%d')+stars:>50+topic:ai+OR+topic:llm+OR+topic:devtools&sort=stars&order=desc&per_page=5" \
             | python3 -c "
           import sys, json
           data = json.load(sys.stdin)
