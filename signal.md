@@ -5,6 +5,9 @@
 
 ---
 
+[2026-05-23 08:39] HN · Microsoft starts canceling Claude Code licenses — 225pts | https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad
+[2026-05-23 08:39] HN · Deno 2.8 — 349pts | https://deno.com/blog/v2.8
+[2026-05-23 08:39] HN · Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark — 382pts | https://modelrift.com/blog/openscad-llm-benchmark/
 [2026-05-22 09:02] HN · Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD — 275pts | https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/
 [2026-05-22 09:02] HN · Uv is fantastic, but its package management UX is a mess — 196pts | https://www.loopwerk.io/articles/2026/uv-ux-mess/
 [2026-05-22 09:02] HN · Show HN: Freenet, a peer-to-peer platform for decentralized apps — 280pts | https://freenet.org/
