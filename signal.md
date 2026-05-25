@@ -5,6 +5,9 @@
 
 ---
 
+[2026-05-25 09:16] HN · Migrating from Go to Rust — 269pts | https://corrode.dev/learn/migration-guides/go-to-rust/
+[2026-05-25 09:16] HN · Constraint Decay: The Fragility of LLM Agents in Back End Code Generation — 237pts | https://arxiv.org/abs/2605.06445
+[2026-05-25 09:16] HN · Noroboto: Lying Fonts and Mitigation in Rust — 82pts | https://tritium.legal/blog/noroboto
 [2026-05-24 08:48] HN · Alexander Grothendieck Revolutionized 20th-Century Mathematics — 52pts | https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/
 [2026-05-24 08:48] HN · Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite — 134pts | https://twitter.com/YoavCodes/status/2058064720553222567
 [2026-05-24 08:48] HN · Iowa to mandate students take Intellectual Freedom classes amid low enrollment — 41pts | https://www.kcrg.com/2026/05/20/iowa-lawmakers-move-mandate-students-take-center-intellectual-freedom-classes-amid-low-enrollment/
