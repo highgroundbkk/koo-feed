@@ -5,6 +5,9 @@
 
 ---
 
+[2026-05-26 09:04] HN · The User Is Visibly Frustrated — 136pts | https://pscanf.com/s/354/
+[2026-05-26 09:04] HN · Norway's 2 petabytes of Huawei flash storage and LLM training — 259pts | https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910
+[2026-05-26 09:04] HN · Performance of Rust Language [pdf] — 69pts | https://github.com/yugr/rust-slides/
 [2026-05-25 09:16] HN · Migrating from Go to Rust — 269pts | https://corrode.dev/learn/migration-guides/go-to-rust/
 [2026-05-25 09:16] HN · Constraint Decay: The Fragility of LLM Agents in Back End Code Generation — 237pts | https://arxiv.org/abs/2605.06445
 [2026-05-25 09:16] HN · Noroboto: Lying Fonts and Mitigation in Rust — 82pts | https://tritium.legal/blog/noroboto
