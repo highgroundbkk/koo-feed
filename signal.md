@@ -5,6 +5,9 @@
 
 ---
 
+[2026-05-27 09:04] HN · Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop — 154pts | https://github.com/logannye/rosalind
+[2026-05-27 09:04] HN · Use boring languages with LLMs — 212pts | https://jry.io/writing/use-boring-languages-with-llms/
+[2026-05-27 09:04] HN · A sleep-like consolidation mechanism for LLMs — 199pts | https://arxiv.org/abs/2605.26099
 [2026-05-26 09:04] HN · The User Is Visibly Frustrated — 136pts | https://pscanf.com/s/354/
 [2026-05-26 09:04] HN · Norway's 2 petabytes of Huawei flash storage and LLM training — 259pts | https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910
 [2026-05-26 09:04] HN · Performance of Rust Language [pdf] — 69pts | https://github.com/yugr/rust-slides/
