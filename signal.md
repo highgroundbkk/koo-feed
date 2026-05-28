@@ -5,6 +5,9 @@
 
 ---
 
+[2026-05-28 09:09] HN · I think Anthropic and OpenAI have found product-market fit — 851pts | https://simonwillison.net/2026/May/27/product-market-fit/
+[2026-05-28 09:09] HN · Rust (and Slint) on a Jailbroken Kindle — 157pts | https://sverre.me/blog/rust-on-kindle/
+[2026-05-28 09:09] HN · Investigating how prompt politeness affects LLM accuracy (2025) — 70pts | https://arxiv.org/abs/2510.04950
 [2026-05-27 09:04] HN · Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop — 154pts | https://github.com/logannye/rosalind
 [2026-05-27 09:04] HN · Use boring languages with LLMs — 212pts | https://jry.io/writing/use-boring-languages-with-llms/
 [2026-05-27 09:04] HN · A sleep-like consolidation mechanism for LLMs — 199pts | https://arxiv.org/abs/2605.26099
