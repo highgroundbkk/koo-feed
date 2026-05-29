@@ -5,6 +5,9 @@
 
 ---
 
+[2026-05-29 09:05] HN · Claude Opus 4.8 — 1497pts | https://www.anthropic.com/news/claude-opus-4-8
+[2026-05-29 09:05] HN · Claude Code – Everything You Can Configure That the Docs Don't Tell You — 71pts | https://buildingbetter.tech/p/i-read-the-claude-code-source-code
+[2026-05-29 09:05] HN · Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue — 317pts | https://llmgame.scalex.dev
 [2026-05-28 09:09] HN · I think Anthropic and OpenAI have found product-market fit — 851pts | https://simonwillison.net/2026/May/27/product-market-fit/
 [2026-05-28 09:09] HN · Rust (and Slint) on a Jailbroken Kindle — 157pts | https://sverre.me/blog/rust-on-kindle/
 [2026-05-28 09:09] HN · Investigating how prompt politeness affects LLM accuracy (2025) — 70pts | https://arxiv.org/abs/2510.04950
