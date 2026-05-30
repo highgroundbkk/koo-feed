@@ -5,6 +5,9 @@
 
 ---
 
+[2026-05-30 08:46] HN · Notes from the Mistral AI Now Summit — 362pts | https://koenvangilst.nl/lab/mistral-ai-now-summit
+[2026-05-30 08:46] HN · Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA — 143pts | https://github.com/jmaczan/tiny-vllm
+[2026-05-30 08:46] HN · The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin — 129pts | https://minimaxir.com/2026/05/openrouter-hy3/
 [2026-05-29 09:05] HN · Claude Opus 4.8 — 1497pts | https://www.anthropic.com/news/claude-opus-4-8
 [2026-05-29 09:05] HN · Claude Code – Everything You Can Configure That the Docs Don't Tell You — 71pts | https://buildingbetter.tech/p/i-read-the-claude-code-source-code
 [2026-05-29 09:05] HN · Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue — 317pts | https://llmgame.scalex.dev
