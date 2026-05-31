@@ -5,6 +5,8 @@
 
 ---
 
+[2026-05-31 08:59] HN · Show HN: Open Envelope – an open schema for defining AI agent teams — 42pts | https://openenvelope.org/docs/schema/
+[2026-05-31 08:59] HN · Dynamic Workflows in Claude Code — 187pts | https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 [2026-05-30 08:46] HN · Notes from the Mistral AI Now Summit — 362pts | https://koenvangilst.nl/lab/mistral-ai-now-summit
 [2026-05-30 08:46] HN · Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA — 143pts | https://github.com/jmaczan/tiny-vllm
 [2026-05-30 08:46] HN · The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin — 129pts | https://minimaxir.com/2026/05/openrouter-hy3/
