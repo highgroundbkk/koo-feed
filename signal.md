@@ -5,6 +5,8 @@
 
 ---
 
+[2026-06-01 09:46] HN · ChatGPT for Google Sheets exfiltrates workbooks — 214pts | https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration
+[2026-06-01 09:46] HN · One year of Roto, a compiled scripting language for Rust — 124pts | https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/
 [2026-05-31 08:59] HN · Show HN: Open Envelope – an open schema for defining AI agent teams — 42pts | https://openenvelope.org/docs/schema/
 [2026-05-31 08:59] HN · Dynamic Workflows in Claude Code — 187pts | https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 [2026-05-30 08:46] HN · Notes from the Mistral AI Now Summit — 362pts | https://koenvangilst.nl/lab/mistral-ai-now-summit
