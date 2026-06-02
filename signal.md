@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-02 09:23] HN · Can the stockmarket swallow Anthropic, SpaceX and OpenAI? — 352pts | https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai
+[2026-06-02 09:23] HN · OpenAI frontier models and Codex are now available on AWS — 261pts | https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/
+[2026-06-02 09:23] HN · AI Agent Guidelines for CS336 at Stanford — 414pts | https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md
 [2026-06-01 09:46] HN · ChatGPT for Google Sheets exfiltrates workbooks — 214pts | https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration
 [2026-06-01 09:46] HN · One year of Roto, a compiled scripting language for Rust — 124pts | https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/
 [2026-05-31 08:59] HN · Show HN: Open Envelope – an open schema for defining AI agent teams — 42pts | https://openenvelope.org/docs/schema/
