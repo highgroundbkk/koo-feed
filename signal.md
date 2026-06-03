@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-03 09:32] HN · 1-Click GitHub Token Stealing via a VSCode Bug — 386pts | https://blog.ammaraskar.com/github-token-stealing/
+[2026-06-03 09:32] HN · Trump signs downsized AI order after weeks of reversals — 208pts | https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389
+[2026-06-03 09:32] HN · GitHub Copilot App — 109pts | https://github.com/features/preview/github-app
 [2026-06-02 09:23] HN · Can the stockmarket swallow Anthropic, SpaceX and OpenAI? — 352pts | https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai
 [2026-06-02 09:23] HN · OpenAI frontier models and Codex are now available on AWS — 261pts | https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/
 [2026-06-02 09:23] HN · AI Agent Guidelines for CS336 at Stanford — 414pts | https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md
