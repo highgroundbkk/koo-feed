@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-04 09:16] HN · I built a vulnerable app and spent $1,500 seeing if LLMs could hack it — 204pts | https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/
+[2026-06-04 09:16] HN · The ways we contain Claude across products — 121pts | https://www.anthropic.com/engineering/how-we-contain-claude
+[2026-06-04 09:16] HN · Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph) — 42pts | https://github.com/zaydmulani09/mnemo
 [2026-06-03 09:32] HN · 1-Click GitHub Token Stealing via a VSCode Bug — 386pts | https://blog.ammaraskar.com/github-token-stealing/
 [2026-06-03 09:32] HN · Trump signs downsized AI order after weeks of reversals — 208pts | https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389
 [2026-06-03 09:32] HN · GitHub Copilot App — 109pts | https://github.com/features/preview/github-app
