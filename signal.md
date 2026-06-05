@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-05 09:04] HN · Fine-tuning an LLM to write docs like it's 1995 — 50pts | https://passo.uno/fine-tuning-docs-llm/
+[2026-06-05 09:04] HN · Anthropic's open-source framework for AI-powered vulnerability discovery — 408pts | https://github.com/anthropics/defending-code-reference-harness
+[2026-06-05 09:04] HN · KVarN: Native vLLM backend for KV-cache quantization by Huawei — 132pts | https://github.com/huawei-csl/KVarN
 [2026-06-04 09:16] HN · I built a vulnerable app and spent $1,500 seeing if LLMs could hack it — 204pts | https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/
 [2026-06-04 09:16] HN · The ways we contain Claude across products — 121pts | https://www.anthropic.com/engineering/how-we-contain-claude
 [2026-06-04 09:16] HN · Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph) — 42pts | https://github.com/zaydmulani09/mnemo
