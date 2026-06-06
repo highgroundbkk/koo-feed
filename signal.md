@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-06 08:50] HN · How LLMs work — 298pts | https://www.0xkato.xyz/how-llms-actually-work/
+[2026-06-06 08:50] HN · S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic — 359pts | https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/
+[2026-06-06 08:50] HN · Did Claude increase bugs in rsync? — 401pts | https://alexispurslane.github.io/rsync-analysis/
 [2026-06-05 09:04] HN · Fine-tuning an LLM to write docs like it's 1995 — 50pts | https://passo.uno/fine-tuning-docs-llm/
 [2026-06-05 09:04] HN · Anthropic's open-source framework for AI-powered vulnerability discovery — 408pts | https://github.com/anthropics/defending-code-reference-harness
 [2026-06-05 09:04] HN · KVarN: Native vLLM backend for KV-cache quantization by Huawei — 132pts | https://github.com/huawei-csl/KVarN
