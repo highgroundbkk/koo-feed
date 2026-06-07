@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-07 09:00] HN · I design with Claude more than Figma now — 131pts | https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/
+[2026-06-07 09:00] HN · Symbolica 2.0: Programmable Symbols for Python and Rust — 77pts | https://symbolica.io/posts/symbolica_2_0_release/
+[2026-06-07 09:00] HN · Running Python code in a sandbox with MicroPython and WASM — 93pts | https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/
 [2026-06-06 08:50] HN · How LLMs work — 298pts | https://www.0xkato.xyz/how-llms-actually-work/
 [2026-06-06 08:50] HN · S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic — 359pts | https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/
 [2026-06-06 08:50] HN · Did Claude increase bugs in rsync? — 401pts | https://alexispurslane.github.io/rsync-analysis/
