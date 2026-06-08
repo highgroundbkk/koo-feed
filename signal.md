@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-08 09:31] HN · DeepSeek V4 Pro beats GPT-5.5 Pro on precision — 263pts | https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision
+[2026-06-08 09:31] HN · A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W — 112pts | https://github.com/melastmohican/rust-rpico2-embassy-examples
+[2026-06-08 09:31] HN · Show HN: Lathe – Use LLMs to learn a new domain, not skip past it — 310pts | https://github.com/devenjarvis/lathe
 [2026-06-07 09:00] HN · I design with Claude more than Figma now — 131pts | https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/
 [2026-06-07 09:00] HN · Symbolica 2.0: Programmable Symbols for Python and Rust — 77pts | https://symbolica.io/posts/symbolica_2_0_release/
 [2026-06-07 09:00] HN · Running Python code in a sandbox with MicroPython and WASM — 93pts | https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/
