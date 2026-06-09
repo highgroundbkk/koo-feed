@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-09 09:04] HN · Apple reveals new AI architecture built around Google Gemini models — 580pts | https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/
+[2026-06-09 09:04] HN · Show HN: Gitdot – A better GitHub. Open-source, written in Rust — 245pts | https://gitdot.io/
+[2026-06-09 09:04] HN · Replies to comments on my "LLMs are eroding my career" post — 149pts | https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/
 [2026-06-08 09:31] HN · DeepSeek V4 Pro beats GPT-5.5 Pro on precision — 263pts | https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision
 [2026-06-08 09:31] HN · A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W — 112pts | https://github.com/melastmohican/rust-rpico2-embassy-examples
 [2026-06-08 09:31] HN · Show HN: Lathe – Use LLMs to learn a new domain, not skip past it — 310pts | https://github.com/devenjarvis/lathe
