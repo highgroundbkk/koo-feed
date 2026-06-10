@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-10 09:10] HN · Claude Fable 5 — 2202pts | https://www.anthropic.com/news/claude-fable-5-mythos-5
+[2026-06-10 09:10] HN · If Claude Fable stops helping you, you'll never know — 793pts | https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html
+[2026-06-10 09:10] HN · Grit: Rewriting Git in Rust with agents — 137pts | https://blog.gitbutler.com/true-grit
 [2026-06-09 09:04] HN · Apple reveals new AI architecture built around Google Gemini models — 580pts | https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/
 [2026-06-09 09:04] HN · Show HN: Gitdot – A better GitHub. Open-source, written in Rust — 245pts | https://gitdot.io/
 [2026-06-09 09:04] HN · Replies to comments on my "LLMs are eroding my career" post — 149pts | https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/
