@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-11 09:25] HN · AI agent runs amok in Fedora and elsewhere — 384pts | https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/
+[2026-06-11 09:25] HN · Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable — 427pts | https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/
+[2026-06-11 09:25] HN · Anthropic requires 30 day data retention for Fable and Mythos — 414pts | https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models
 [2026-06-10 09:10] HN · Claude Fable 5 — 2202pts | https://www.anthropic.com/news/claude-fable-5-mythos-5
 [2026-06-10 09:10] HN · If Claude Fable stops helping you, you'll never know — 793pts | https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html
 [2026-06-10 09:10] HN · Grit: Rewriting Git in Rust with agents — 137pts | https://blog.gitbutler.com/true-grit
