@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-12 09:20] HN · AI agent bankrupted their operator while trying to scan DN42 — 499pts | https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/
+[2026-06-12 09:20] HN · Claude Fable is relentlessly proactive — 426pts | https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/
+[2026-06-12 09:20] HN · Anthropic apologizes for invisible Claude Fable guardrails — 416pts | https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
 [2026-06-11 09:25] HN · AI agent runs amok in Fedora and elsewhere — 384pts | https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/
 [2026-06-11 09:25] HN · Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable — 427pts | https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/
 [2026-06-11 09:25] HN · Anthropic requires 30 day data retention for Fable and Mythos — 414pts | https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models
