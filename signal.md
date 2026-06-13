@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-13 09:00] HN · Tectonic: A modernized, complete, self-contained TeX/LaTeX engine — 51pts | https://tectonic-typesetting.github.io/en-US/
+[2026-06-13 09:00] HN · "Don't You Just Upload It to ChatGPT?" — 406pts | https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/
+[2026-06-13 09:00] HN · There Is Life Before Main in Rust — 79pts | https://grack.com/blog/2026/06/11/life-before-main/
 [2026-06-12 09:20] HN · AI agent bankrupted their operator while trying to scan DN42 — 499pts | https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/
 [2026-06-12 09:20] HN · Claude Fable is relentlessly proactive — 426pts | https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/
 [2026-06-12 09:20] HN · Anthropic apologizes for invisible Claude Fable guardrails — 416pts | https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
