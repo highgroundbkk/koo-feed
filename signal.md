@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-14 09:03] HN · Don't trust large context windows — 66pts | https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows
+[2026-06-14 09:03] HN · Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models — 677pts | https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink
+[2026-06-14 09:03] HN · The state of building user interfaces in Rust — 186pts | https://areweguiyet.com/#ecosystem
 [2026-06-13 09:00] HN · Tectonic: A modernized, complete, self-contained TeX/LaTeX engine — 51pts | https://tectonic-typesetting.github.io/en-US/
 [2026-06-13 09:00] HN · "Don't You Just Upload It to ChatGPT?" — 406pts | https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/
 [2026-06-13 09:00] HN · There Is Life Before Main in Rust — 79pts | https://grack.com/blog/2026/06/11/life-before-main/
