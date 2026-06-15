@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-15 10:03] HN · Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model — 354pts | https://github.com/nex-agi/Nex-N2/issues/4
+[2026-06-15 10:03] HN · Ponytail – make your AI agent think like the laziest senior dev in the room — 64pts | https://github.com/DietrichGebert/ponytail
+[2026-06-15 10:03] HN · Making Claude a Chemist — 87pts | https://www.anthropic.com/research/making-claude-a-chemist
 [2026-06-14 09:03] HN · Don't trust large context windows — 66pts | https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows
 [2026-06-14 09:03] HN · Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models — 677pts | https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink
 [2026-06-14 09:03] HN · The state of building user interfaces in Rust — 186pts | https://areweguiyet.com/#ecosystem
