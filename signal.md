@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-16 09:44] HN · Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? — 978pts | https://news.ycombinator.com/item?id=48542100
+[2026-06-16 09:44] HN · Claude Corps — 130pts | https://www.anthropic.com/news/claude-corps
+[2026-06-16 09:44] HN · How memory safety CVEs differ between Rust and C/C++ — 132pts | https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html
 [2026-06-15 10:03] HN · Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model — 354pts | https://github.com/nex-agi/Nex-N2/issues/4
 [2026-06-15 10:03] HN · Ponytail – make your AI agent think like the laziest senior dev in the room — 64pts | https://github.com/DietrichGebert/ponytail
 [2026-06-15 10:03] HN · Making Claude a Chemist — 87pts | https://www.anthropic.com/research/making-claude-a-chemist
