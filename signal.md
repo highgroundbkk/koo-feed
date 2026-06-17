@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-17 09:32] HN · GPT‑NL: a sovereign language model for the Netherlands — 209pts | https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/
+[2026-06-17 09:32] HN · SpaceX to buy Cursor for $60B — 1020pts | https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/
+[2026-06-17 09:32] HN · Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust — 79pts | https://github.com/nvlabs/cutile-rs
 [2026-06-16 09:44] HN · Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? — 978pts | https://news.ycombinator.com/item?id=48542100
 [2026-06-16 09:44] HN · Claude Corps — 130pts | https://www.anthropic.com/news/claude-corps
 [2026-06-16 09:44] HN · How memory safety CVEs differ between Rust and C/C++ — 132pts | https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html
