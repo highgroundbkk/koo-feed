@@ -5,6 +5,8 @@
 
 ---
 
+[2026-06-18 09:27] HN · ChatGPT's image generator can be manipulated to produce violent, sexual content — 96pts | https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt
+[2026-06-18 09:27] HN · A robot is sprinting towards you. Do you want it running on Claude or Grok? — 243pts | https://openrouter.ai/blog/insights/royale-last-agent-standing/
 [2026-06-17 09:32] HN · GPT‑NL: a sovereign language model for the Netherlands — 209pts | https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/
 [2026-06-17 09:32] HN · SpaceX to buy Cursor for $60B — 1020pts | https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/
 [2026-06-17 09:32] HN · Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust — 79pts | https://github.com/nvlabs/cutile-rs
