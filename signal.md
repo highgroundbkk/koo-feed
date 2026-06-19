@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-19 09:32] HN · I found 10k GitHub repositories distributing Trojan malware — 786pts | https://orchidfiles.com/github-repositories-distributing-malware/
+[2026-06-19 09:32] HN · Show HN: Talos – Open-source WASM interpreter for Lean — 51pts | https://github.com/cajal-technologies/talos
+[2026-06-19 09:32] HN · The Korean telecom giant at the center of Anthropic's Mythos controversy — 113pts | https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/
 [2026-06-18 09:27] HN · ChatGPT's image generator can be manipulated to produce violent, sexual content — 96pts | https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt
 [2026-06-18 09:27] HN · A robot is sprinting towards you. Do you want it running on Claude or Grok? — 243pts | https://openrouter.ai/blog/insights/royale-last-agent-standing/
 [2026-06-17 09:32] HN · GPT‑NL: a sovereign language model for the Netherlands — 209pts | https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/
