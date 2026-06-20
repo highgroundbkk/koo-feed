@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-20 09:00] HN · GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2 — 124pts | https://arrowtsx.dev/bigger-models/
+[2026-06-20 09:00] HN · John Jumper to join Anthropic — 124pts | https://twitter.com/JohnJumperSci/status/2068001285173834106
+[2026-06-20 09:00] HN · Noam Shazeer Joins OpenAI — 351pts | https://twitter.com/NoamShazeer/status/2067400851438932297
 [2026-06-19 09:32] HN · I found 10k GitHub repositories distributing Trojan malware — 786pts | https://orchidfiles.com/github-repositories-distributing-malware/
 [2026-06-19 09:32] HN · Show HN: Talos – Open-source WASM interpreter for Lean — 51pts | https://github.com/cajal-technologies/talos
 [2026-06-19 09:32] HN · The Korean telecom giant at the center of Anthropic's Mythos controversy — 113pts | https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/
