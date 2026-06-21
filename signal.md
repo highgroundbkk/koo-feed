@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-21 09:12] HN · Unauthorized alert sent to cell phones across Brazil — 128pts | https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam
+[2026-06-21 09:12] HN · Temporary Cloudflare accounts for AI agents — 206pts | https://blog.cloudflare.com/temporary-accounts/
+[2026-06-21 09:12] HN · Bun has an open PR adding shared-memory threads to JavaScriptCore — 132pts | https://github.com/oven-sh/WebKit/pull/249
 [2026-06-20 09:00] HN · GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2 — 124pts | https://arrowtsx.dev/bigger-models/
 [2026-06-20 09:00] HN · John Jumper to join Anthropic — 124pts | https://twitter.com/JohnJumperSci/status/2068001285173834106
 [2026-06-20 09:00] HN · Noam Shazeer Joins OpenAI — 351pts | https://twitter.com/NoamShazeer/status/2067400851438932297
