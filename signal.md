@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-22 09:57] HN · Deno Desktop — 362pts | https://docs.deno.com/runtime/desktop/
+[2026-06-22 09:57] HN · Lisp in the Rust Type System — 71pts | https://github.com/playX18/lisp-in-types/
+[2026-06-22 09:57] HN · Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions — 131pts | https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions
 [2026-06-21 09:12] HN · Unauthorized alert sent to cell phones across Brazil — 128pts | https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam
 [2026-06-21 09:12] HN · Temporary Cloudflare accounts for AI agents — 206pts | https://blog.cloudflare.com/temporary-accounts/
 [2026-06-21 09:12] HN · Bun has an open PR adding shared-memory threads to JavaScriptCore — 132pts | https://github.com/oven-sh/WebKit/pull/249
