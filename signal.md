@@ -5,6 +5,8 @@
 
 ---
 
+[2026-06-23 09:03] HN · OpenAI DayBreak – GPT-5.5-Cyber — 84pts | https://openai.com/index/daybreak-securing-the-world/
+[2026-06-23 09:03] HN · The text in Claude Code’s “Extended Thinking” output — 302pts | https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/
 [2026-06-22 09:57] HN · Deno Desktop — 362pts | https://docs.deno.com/runtime/desktop/
 [2026-06-22 09:57] HN · Lisp in the Rust Type System — 71pts | https://github.com/playX18/lisp-in-types/
 [2026-06-22 09:57] HN · Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions — 131pts | https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions
