@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-25 09:01] HN · Anthropic says Alibaba illicitly extracted Claude AI model capabilities — 394pts | https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/
+[2026-06-25 09:01] HN · OpenAI unveils its first custom chip, built by Broadcom — 692pts | https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
+[2026-06-25 09:01] HN · Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub — 52pts | https://github.com/BohemiaInteractive/CWR
 [2026-06-24 09:02] HN · "Fix" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds — 86pts | https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf
 [2026-06-24 09:02] HN · The deadly rise of giant trucks and SUVs — 427pts | https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html
 [2026-06-24 09:02] HN · Mistral OCR 4 — 465pts | https://mistral.ai/news/ocr-4/
