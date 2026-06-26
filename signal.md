@@ -5,6 +5,8 @@
 
 ---
 
+[2026-06-26 09:02] HN · Why current LLM costs are not sustainable — 52pts | https://aditya.patadia.org/p/ai-and-cloud-costs
+[2026-06-26 09:02] HN · We’re making Bunny DNS free — 908pts | https://bunny.net/blog/were-making-bunny-dns-free/
 [2026-06-25 09:01] HN · Anthropic says Alibaba illicitly extracted Claude AI model capabilities — 394pts | https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/
 [2026-06-25 09:01] HN · OpenAI unveils its first custom chip, built by Broadcom — 692pts | https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
 [2026-06-25 09:01] HN · Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub — 52pts | https://github.com/BohemiaInteractive/CWR
