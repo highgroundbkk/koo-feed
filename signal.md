@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-27 08:52] HN · Previewing GPT‑5.6 Sol: a next-generation model — 983pts | https://openai.com/index/previewing-gpt-5-6-sol/
+[2026-06-27 08:52] HN · U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations — 414pts | https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies
+[2026-06-27 08:52] HN · U.S. government will decide who gets to use GPT-5.6 — 1008pts | https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/
 [2026-06-26 09:02] HN · Why current LLM costs are not sustainable — 52pts | https://aditya.patadia.org/p/ai-and-cloud-costs
 [2026-06-26 09:02] HN · We’re making Bunny DNS free — 908pts | https://bunny.net/blog/were-making-bunny-dns-free/
 [2026-06-25 09:01] HN · Anthropic says Alibaba illicitly extracted Claude AI model capabilities — 394pts | https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/
