@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-28 09:00] HN · Wayfinder Router: deterministic routing of queries between local and hosted LLM — 60pts | https://github.com/itsthelore/wayfinder-router
+[2026-06-28 09:00] HN · Anonymous GitHub account mass-dropping undisclosed 0-days — 793pts | https://github.com/bikini/exploitarium
+[2026-06-28 09:00] HN · WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups — 64pts | https://clickhouse.com/blog/walrus-postgres-backups-in-rust
 [2026-06-27 08:52] HN · Previewing GPT‑5.6 Sol: a next-generation model — 983pts | https://openai.com/index/previewing-gpt-5-6-sol/
 [2026-06-27 08:52] HN · U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations — 414pts | https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies
 [2026-06-27 08:52] HN · U.S. government will decide who gets to use GPT-5.6 — 1008pts | https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/
