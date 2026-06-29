@@ -5,6 +5,9 @@
 
 ---
 
+[2026-06-29 09:31] HN · GLM 5.2 beats Claude in our benchmarks — 831pts | https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
+[2026-06-29 09:31] HN · Age verification is just a precursor to automated attribution of speech — 443pts | https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026
+[2026-06-29 09:31] HN · I used Claude Code to get a second opinion on my MRI — 427pts | https://antoine.fi/mri-analysis-using-claude-code-opus
 [2026-06-28 09:00] HN · Wayfinder Router: deterministic routing of queries between local and hosted LLM — 60pts | https://github.com/itsthelore/wayfinder-router
 [2026-06-28 09:00] HN · Anonymous GitHub account mass-dropping undisclosed 0-days — 793pts | https://github.com/bikini/exploitarium
 [2026-06-28 09:00] HN · WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups — 64pts | https://clickhouse.com/blog/walrus-postgres-backups-in-rust
