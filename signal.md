@@ -5,6 +5,8 @@
 
 ---
 
+[2026-06-30 09:02] HN · WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter — 203pts | https://humphri.es/blog/WATaBoy/
+[2026-06-30 09:02] HN · Ornith-1.0: Self-scaffolding LLMs for agentic coding — 72pts | https://deep-reinforce.com/ornith_1_0.html
 [2026-06-29 09:31] HN · GLM 5.2 beats Claude in our benchmarks — 831pts | https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
 [2026-06-29 09:31] HN · Age verification is just a precursor to automated attribution of speech — 443pts | https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026
 [2026-06-29 09:31] HN · I used Claude Code to get a second opinion on my MRI — 427pts | https://antoine.fi/mri-analysis-using-claude-code-opus
