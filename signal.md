@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-01 09:04] HN · Claude Code is steganographically marking requests — 1952pts | https://thereallo.dev/blog/claude-code-prompt-steganography
+[2026-07-01 09:04] HN · Claude Sonnet 5 — 1112pts | https://www.anthropic.com/news/claude-sonnet-5
+[2026-07-01 09:04] HN · Claude Science — 484pts | https://claude.com/product/claude-science
 [2026-06-30 09:02] HN · WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter — 203pts | https://humphri.es/blog/WATaBoy/
 [2026-06-30 09:02] HN · Ornith-1.0: Self-scaffolding LLMs for agentic coding — 72pts | https://deep-reinforce.com/ornith_1_0.html
 [2026-06-29 09:31] HN · GLM 5.2 beats Claude in our benchmarks — 831pts | https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
