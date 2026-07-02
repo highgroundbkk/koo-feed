@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-02 09:00] HN · Kimi K2.7 Code is generally available in GitHub Copilot — 128pts | https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/
+[2026-07-02 09:00] HN · CursorBench 3.1 — 53pts | https://cursor.com/evals
+[2026-07-02 09:00] HN · Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 — 934pts | https://twitter.com/AnthropicAI/status/2072106151890809341
 [2026-07-01 09:04] HN · Claude Code is steganographically marking requests — 1952pts | https://thereallo.dev/blog/claude-code-prompt-steganography
 [2026-07-01 09:04] HN · Claude Sonnet 5 — 1112pts | https://www.anthropic.com/news/claude-sonnet-5
 [2026-07-01 09:04] HN · Claude Science — 484pts | https://claude.com/product/claude-science
