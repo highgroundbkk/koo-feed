@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-03 09:00] HN · crustc: entirety of `rustc`, translated to C — 267pts | https://github.com/FractalFir/crustc
+[2026-07-03 09:00] HN · Claude-real-video － any LLM can watch a video — 132pts | https://github.com/HUANGCHIHHUNGLeo/claude-real-video
+[2026-07-03 09:00] HN · PeerTube is a free, decentralized and federated video platform — 611pts | https://github.com/Chocobozzz/PeerTube
 [2026-07-02 09:00] HN · Kimi K2.7 Code is generally available in GitHub Copilot — 128pts | https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/
 [2026-07-02 09:00] HN · CursorBench 3.1 — 53pts | https://cursor.com/evals
 [2026-07-02 09:00] HN · Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 — 934pts | https://twitter.com/AnthropicAI/status/2072106151890809341
