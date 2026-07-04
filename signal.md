@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-04 08:52] HN · Leanstral 1.5: Proof abundance for all — 217pts | https://mistral.ai/news/leanstral-1-5/
+[2026-07-04 08:52] HN · Jamesob's guide to running SOTA LLMs locally — 335pts | https://github.com/jamesob/local-llm
+[2026-07-04 08:52] HN · New serious vulnerabilities spiked around release of Claude Mythos Preview — 96pts | https://epoch.ai/data-insights/cve-severity-spike
 [2026-07-03 09:00] HN · crustc: entirety of `rustc`, translated to C — 267pts | https://github.com/FractalFir/crustc
 [2026-07-03 09:00] HN · Claude-real-video － any LLM can watch a video — 132pts | https://github.com/HUANGCHIHHUNGLeo/claude-real-video
 [2026-07-03 09:00] HN · PeerTube is a free, decentralized and federated video platform — 611pts | https://github.com/Chocobozzz/PeerTube
