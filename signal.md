@@ -5,6 +5,8 @@
 
 ---
 
+[2026-07-05 08:59] HN · sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) — 40pts | https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/
+[2026-07-05 08:59] HN · GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance — 260pts | https://github.com/openai/codex/issues/30364
 [2026-07-04 08:52] HN · Leanstral 1.5: Proof abundance for all — 217pts | https://mistral.ai/news/leanstral-1-5/
 [2026-07-04 08:52] HN · Jamesob's guide to running SOTA LLMs locally — 335pts | https://github.com/jamesob/local-llm
 [2026-07-04 08:52] HN · New serious vulnerabilities spiked around release of Claude Mythos Preview — 96pts | https://epoch.ai/data-insights/cve-severity-spike
