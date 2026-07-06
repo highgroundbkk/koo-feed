@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-06 09:18] HN · GPT-5.6 Sol Ultra will be in Codex — 277pts | https://twitter.com/thsottiaux/status/2073933490513752151
+[2026-07-06 09:18] HN · The Age of Personalized Hardware Is Coming — 58pts | https://geastack.com/blog-the-age-of-personalized-hardware-is-coming
+[2026-07-06 09:18] HN · Zuckerberg says AI agent development going slower than expected — 222pts | https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/
 [2026-07-05 08:59] HN · sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) — 40pts | https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/
 [2026-07-05 08:59] HN · GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance — 260pts | https://github.com/openai/codex/issues/30364
 [2026-07-04 08:52] HN · Leanstral 1.5: Proof abundance for all — 217pts | https://mistral.ai/news/leanstral-1-5/
