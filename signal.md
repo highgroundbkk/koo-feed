@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-07 09:03] HN · Ternlight – 7 MB embedding model that runs in browser (WASM) — 214pts | https://ternlight-demo.vercel.app/
+[2026-07-07 09:03] HN · OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files — 176pts | https://github.com/iOfficeAI/OfficeCLI
+[2026-07-07 09:03] HN · Kani: A Model Checker for Rust — 142pts | https://arxiv.org/abs/2607.01504
 [2026-07-06 09:18] HN · GPT-5.6 Sol Ultra will be in Codex — 277pts | https://twitter.com/thsottiaux/status/2073933490513752151
 [2026-07-06 09:18] HN · The Age of Personalized Hardware Is Coming — 58pts | https://geastack.com/blog-the-age-of-personalized-hardware-is-coming
 [2026-07-06 09:18] HN · Zuckerberg says AI agent development going slower than expected — 222pts | https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/
