@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-08 08:49] HN · GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos — 136pts | https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/
+[2026-07-08 08:49] HN · GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday — 179pts | https://twitter.com/OpenAI/status/2074704958419792299
+[2026-07-08 08:49] HN · Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop — 157pts | https://github.com/rowboatlabs/rowboat
 [2026-07-07 09:03] HN · Ternlight – 7 MB embedding model that runs in browser (WASM) — 214pts | https://ternlight-demo.vercel.app/
 [2026-07-07 09:03] HN · OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files — 176pts | https://github.com/iOfficeAI/OfficeCLI
 [2026-07-07 09:03] HN · Kani: A Model Checker for Rust — 142pts | https://arxiv.org/abs/2607.01504
