@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-09 09:02] HN · Postgres rewritten in Rust, now passing 100% of the Postgres regression tests — 110pts | https://github.com/malisper/pgrust
+[2026-07-09 09:02] HN · Show HN: Microsoft releases Flint, a visualization language for AI agents — 276pts | https://microsoft.github.io/flint-chart/#/
+[2026-07-09 09:02] HN · Rewriting Bun in Rust — 557pts | https://bun.com/blog/bun-in-rust
 [2026-07-08 08:49] HN · GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos — 136pts | https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/
 [2026-07-08 08:49] HN · GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday — 179pts | https://twitter.com/OpenAI/status/2074704958419792299
 [2026-07-08 08:49] HN · Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop — 157pts | https://github.com/rowboatlabs/rowboat
