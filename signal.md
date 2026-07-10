@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-10 09:02] HN · GPT-5.6 — 1245pts | https://openai.com/index/gpt-5-6/
+[2026-07-10 09:02] HN · ChatGPT Work — 335pts | https://openai.com/index/chatgpt-for-your-most-ambitious-work/
+[2026-07-10 09:02] HN · How should group chats work in decentralized systems? — 60pts | https://marindedic.com/groups/
 [2026-07-09 09:02] HN · Postgres rewritten in Rust, now passing 100% of the Postgres regression tests — 110pts | https://github.com/malisper/pgrust
 [2026-07-09 09:02] HN · Show HN: Microsoft releases Flint, a visualization language for AI agents — 276pts | https://microsoft.github.io/flint-chart/#/
 [2026-07-09 09:02] HN · Rewriting Bun in Rust — 557pts | https://bun.com/blog/bun-in-rust
