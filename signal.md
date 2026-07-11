@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-11 08:32] HN · Apple sues OpenAI, accuses ex-employees of stealing trade secrets — 995pts | https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/
+[2026-07-11 08:32] HN · GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf] — 442pts | https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf
+[2026-07-11 08:32] HN · Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT) — 58pts | https://github.com/Rodiun/frugon
 [2026-07-10 09:02] HN · GPT-5.6 — 1245pts | https://openai.com/index/gpt-5-6/
 [2026-07-10 09:02] HN · ChatGPT Work — 335pts | https://openai.com/index/chatgpt-for-your-most-ambitious-work/
 [2026-07-10 09:02] HN · How should group chats work in decentralized systems? — 60pts | https://marindedic.com/groups/
