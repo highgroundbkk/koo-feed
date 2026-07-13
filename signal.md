@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-13 09:01] HN · Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper — 201pts | https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6
+[2026-07-13 09:01] HN · Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k — 577pts | https://systima.ai/blog/claude-code-vs-opencode-token-overhead
+[2026-07-13 09:01] HN · I love LLMs, I hate hype — 416pts | https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html
 [2026-07-12 08:42] HN · Mesh LLM: distributed AI computing on iroh — 241pts | https://www.iroh.computer/blog/mesh-llm
 [2026-07-12 08:42] HN · AI Can't Recreate the Thrust Game (But It Can Help You Understand It) — 52pts | https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/
 [2026-07-11 08:32] HN · Apple sues OpenAI, accuses ex-employees of stealing trade secrets — 995pts | https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/
