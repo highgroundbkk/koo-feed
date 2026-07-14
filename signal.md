@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-14 08:41] HN · Linux 0.11 rewritten in idiomatic Rust, boots in QEMU — 96pts | https://github.com/Poseidon-fan/linux-0.11-rs
+[2026-07-14 08:41] HN · Precursor — 183pts | https://blog.cloudflare.com/introducing-precursor/
+[2026-07-14 08:41] HN · A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI — 58pts | https://arxiv.org/abs/2607.01418
 [2026-07-13 09:01] HN · Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper — 201pts | https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6
 [2026-07-13 09:01] HN · Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k — 577pts | https://systima.ai/blog/claude-code-vs-opencode-token-overhead
 [2026-07-13 09:01] HN · I love LLMs, I hate hype — 416pts | https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html
