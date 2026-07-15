@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-15 08:44] HN · I tricked Claude into leaking your deepest, darkest secrets — 216pts | https://www.ayush.digital/blog/the-memory-heist
+[2026-07-15 08:44] HN · Vancouver PD website features Quick Escape button that wipes itself from history — 257pts | https://vpd.ca/
+[2026-07-15 08:44] HN · Cursor 0day: When Full Disclosure Becomes the Only Protection Left — 350pts | https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left
 [2026-07-14 08:41] HN · Linux 0.11 rewritten in idiomatic Rust, boots in QEMU — 96pts | https://github.com/Poseidon-fan/linux-0.11-rs
 [2026-07-14 08:41] HN · Precursor — 183pts | https://blog.cloudflare.com/introducing-precursor/
 [2026-07-14 08:41] HN · A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI — 58pts | https://arxiv.org/abs/2607.01418
