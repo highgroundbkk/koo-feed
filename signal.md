@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-16 08:43] HN · SQLite should have (Rust-style) editions — 255pts | https://mort.coffee/home/sqlite-editions/
+[2026-07-16 08:43] HN · Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers — 47pts | https://arxiv.org/abs/2607.11859
+[2026-07-16 08:43] HN · LLM Networking with MikroTik — 87pts | https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html
 [2026-07-15 08:44] HN · I tricked Claude into leaking your deepest, darkest secrets — 216pts | https://www.ayush.digital/blog/the-memory-heist
 [2026-07-15 08:44] HN · Vancouver PD website features Quick Escape button that wipes itself from history — 257pts | https://vpd.ca/
 [2026-07-15 08:44] HN · Cursor 0day: When Full Disclosure Becomes the Only Protection Left — 350pts | https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left
