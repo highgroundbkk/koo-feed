@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-17 08:41] HN · LM Studio Bionic: the AI agent for open models — 240pts | https://lmstudio.ai/blog/introducing-lm-studio-bionic
+[2026-07-17 08:41] HN · $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol — 251pts | https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6
+[2026-07-17 08:41] HN · NotebookLM is now Gemini Notebook — 300pts | https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
 [2026-07-16 08:43] HN · SQLite should have (Rust-style) editions — 255pts | https://mort.coffee/home/sqlite-editions/
 [2026-07-16 08:43] HN · Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers — 47pts | https://arxiv.org/abs/2607.11859
 [2026-07-16 08:43] HN · LLM Networking with MikroTik — 87pts | https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html
