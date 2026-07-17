@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-17 13:56] HN · Apple targets dozens of OpenAI employees with legal letters — 97pts | https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166
+[2026-07-17 13:56] HN · Detecting LLM-Generated Texts with “Classical” Machine Learning — 218pts | https://blog.lyc8503.net/en/post/llm-classifier/
+[2026-07-17 13:56] HN · The LLM Critics Are Right. I Use LLMs Anyway — 260pts | https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/
 [2026-07-17 08:41] HN · LM Studio Bionic: the AI agent for open models — 240pts | https://lmstudio.ai/blog/introducing-lm-studio-bionic
 [2026-07-17 08:41] HN · $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol — 251pts | https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6
 [2026-07-17 08:41] HN · NotebookLM is now Gemini Notebook — 300pts | https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
