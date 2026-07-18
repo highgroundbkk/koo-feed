@@ -5,6 +5,7 @@
 
 ---
 
+[2026-07-18 08:32] HN · Topcoat: The full full-stack framework for Rust — 73pts | https://github.com/tokio-rs/topcoat
 [2026-07-17 13:56] HN · Apple targets dozens of OpenAI employees with legal letters — 97pts | https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166
 [2026-07-17 13:56] HN · Detecting LLM-Generated Texts with “Classical” Machine Learning — 218pts | https://blog.lyc8503.net/en/post/llm-classifier/
 [2026-07-17 13:56] HN · The LLM Critics Are Right. I Use LLMs Anyway — 260pts | https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/
