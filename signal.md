@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-19 08:45] HN · GPT-5.6 used a prompt to close a 30-year gap in convex optimization — 557pts | https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/
+[2026-07-19 08:45] HN · Setting up your spare Mac for Claude Code to control, a step-by-step guide — 227pts | https://ykdojo.github.io/claude-controls-mac/
+[2026-07-19 08:45] HN · Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help? — 237pts | https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/
 [2026-07-18 08:32] HN · Topcoat: The full full-stack framework for Rust — 73pts | https://github.com/tokio-rs/topcoat
 [2026-07-17 13:56] HN · Apple targets dozens of OpenAI employees with legal letters — 97pts | https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166
 [2026-07-17 13:56] HN · Detecting LLM-Generated Texts with “Classical” Machine Learning — 218pts | https://blog.lyc8503.net/en/post/llm-classifier/
