@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-21 08:51] HN · Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling — 334pts | https://www.emergingtrajectories.com/lh/frontier-lab-economics/
+[2026-07-21 08:51] HN · Controlling Reasoning Effort in LLMs — 68pts | https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms
+[2026-07-21 08:51] HN · I found a WordPress RCEs with GPT5.6 and $25 — 392pts | https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/
 [2026-07-20 09:00] HN · Claude Code uses Bun written in Rust now — 509pts | https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/
 [2026-07-20 09:00] HN · Claude Fable produced a counterexample to the Jacobian Conjecture — 372pts | https://xcancel.com/__alpoge__/status/2079028340955197566
 [2026-07-20 09:00] HN · OpenAI reduces Codex Model Context Size from 372k to 272k — 343pts | https://github.com/openai/codex/pull/33972/files
