@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-22 08:50] HN · OpenAI and Hugging Face address security incident during model evaluation — 1104pts | https://openai.com/index/hugging-face-model-evaluation-security-incident/
+[2026-07-22 08:50] HN · Intel Starts Shipping High-NA EUV Silicon — 54pts | https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv
+[2026-07-22 08:50] HN · Advertise in ChatGPT — 722pts | https://ads.openai.com/
 [2026-07-21 08:51] HN · Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling — 334pts | https://www.emergingtrajectories.com/lh/frontier-lab-economics/
 [2026-07-21 08:51] HN · Controlling Reasoning Effort in LLMs — 68pts | https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms
 [2026-07-21 08:51] HN · I found a WordPress RCEs with GPT5.6 and $25 — 392pts | https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/
