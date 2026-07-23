@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-23 08:50] HN · Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample — 852pts | https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56
+[2026-07-23 08:50] HN · Restructuring GitHub's bug bounty program — 43pts | https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/
+[2026-07-23 08:50] HN · All 253 Patterns from Christopher Alexander's a Pattern Language Summarized — 70pts | https://claytondorge.com/patterns-list
 [2026-07-22 08:50] HN · OpenAI and Hugging Face address security incident during model evaluation — 1104pts | https://openai.com/index/hugging-face-model-evaluation-security-incident/
 [2026-07-22 08:50] HN · Intel Starts Shipping High-NA EUV Silicon — 54pts | https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv
 [2026-07-22 08:50] HN · Advertise in ChatGPT — 722pts | https://ads.openai.com/
