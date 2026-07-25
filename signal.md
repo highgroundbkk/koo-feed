@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-25 08:38] HN · Claude Opus 5 — 1521pts | https://www.anthropic.com/news/claude-opus-5
+[2026-07-25 08:38] HN · GC and Exceptions in Wasmtime — 79pts | https://bytecodealliance.org/articles/wasmtime-gc
+[2026-07-25 08:38] HN · My security camera shipped a GitHub admin token in its login page — 582pts | https://hhh.hn/hanwha-github-token/
 [2026-07-24 08:49] HN · OpenAI’s accidental attack against Hugging Face is science fiction that happened — 508pts | https://simonwillison.net/2026/Jul/22/openai-cyberattack/
 [2026-07-24 08:49] HN · Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents — 96pts | https://github.com/onecli/onecli
 [2026-07-24 08:49] HN · Meta Garbage Collection: Using OCaml's GC to GC Rust — 71pts | https://soteria-tools.com/blog/meta-garbage-collection
