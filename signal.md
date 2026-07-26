@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-26 08:46] HN · The new rules of context engineering for Claude 5 generation models — 309pts | https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
+[2026-07-26 08:46] HN · Running a 28.9M parameter LLM on an $8 microcontroller — 176pts | https://github.com/slvDev/esp32-ai
+[2026-07-26 08:46] HN · LLM Usage in Debian: Three Proposals — 143pts | https://www.debian.org/vote/2026/vote_002
 [2026-07-25 08:38] HN · Claude Opus 5 — 1521pts | https://www.anthropic.com/news/claude-opus-5
 [2026-07-25 08:38] HN · GC and Exceptions in Wasmtime — 79pts | https://bytecodealliance.org/articles/wasmtime-gc
 [2026-07-25 08:38] HN · My security camera shipped a GitHub admin token in its login page — 582pts | https://hhh.hn/hanwha-github-token/
