@@ -5,6 +5,7 @@
 
 ---
 
+[2026-07-27 09:03] HN · How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster — 89pts | https://astgrep.com/blog/tree-sitter-rust-rewrite
 [2026-07-26 08:46] HN · The new rules of context engineering for Claude 5 generation models — 309pts | https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 [2026-07-26 08:46] HN · Running a 28.9M parameter LLM on an $8 microcontroller — 176pts | https://github.com/slvDev/esp32-ai
 [2026-07-26 08:46] HN · LLM Usage in Debian: Three Proposals — 143pts | https://www.debian.org/vote/2026/vote_002
