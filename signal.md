@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-28 08:53] HN · Netflix employee fired for sharing personal details in retreat trust exercise — 309pts | https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/
+[2026-07-28 08:53] HN · How is the Bun rewrite in Rust going? — 467pts | https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html
+[2026-07-28 08:53] HN · Elevated errors on Claude Opus 5 — 99pts | https://status.claude.com/incidents/mfdtrknpxghq
 [2026-07-27 09:03] HN · How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster — 89pts | https://astgrep.com/blog/tree-sitter-rust-rewrite
 [2026-07-26 08:46] HN · The new rules of context engineering for Claude 5 generation models — 309pts | https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 [2026-07-26 08:46] HN · Running a 28.9M parameter LLM on an $8 microcontroller — 176pts | https://github.com/slvDev/esp32-ai
