@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-29 08:55] HN · Truth is not a direction: a Tarski attack on LLM probes — 90pts | https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html
+[2026-07-29 08:55] HN · Multiple Mouse Cursors in Wayland — 119pts | https://blinry.org/multi-seat-wayland/
+[2026-07-29 08:55] HN · Now is the time to give LLMs access to the ACM digital library — 154pts | https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/
 [2026-07-28 08:53] HN · Netflix employee fired for sharing personal details in retreat trust exercise — 309pts | https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/
 [2026-07-28 08:53] HN · How is the Bun rewrite in Rust going? — 467pts | https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html
 [2026-07-28 08:53] HN · Elevated errors on Claude Opus 5 — 99pts | https://status.claude.com/incidents/mfdtrknpxghq
