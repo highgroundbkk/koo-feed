@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-30 08:52] HN · LLM Honeypot — 224pts | https://llm2human.pages.dev/
+[2026-07-30 08:52] HN · Some thoughts about Anthropic's new cryptanalysis results — 152pts | https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/
+[2026-07-30 08:52] HN · The Rust on ESP Book — 154pts | https://docs.espressif.com/projects/rust/book/
 [2026-07-29 08:55] HN · Truth is not a direction: a Tarski attack on LLM probes — 90pts | https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html
 [2026-07-29 08:55] HN · Multiple Mouse Cursors in Wayland — 119pts | https://blinry.org/multi-seat-wayland/
 [2026-07-29 08:55] HN · Now is the time to give LLMs access to the ACM digital library — 154pts | https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/
