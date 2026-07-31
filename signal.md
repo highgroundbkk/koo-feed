@@ -5,6 +5,9 @@
 
 ---
 
+[2026-07-31 08:59] HN · Stacked PRs are now live on GitHub — 632pts | https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/
+[2026-07-31 08:59] HN · Show HN: What should the GUI for AI agents look like? — 44pts | https://marbleos.com/demo
+[2026-07-31 08:59] HN · Gemini Robotics 2 brings whole body intelligence to robots — 553pts | https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/
 [2026-07-30 08:52] HN · LLM Honeypot — 224pts | https://llm2human.pages.dev/
 [2026-07-30 08:52] HN · Some thoughts about Anthropic's new cryptanalysis results — 152pts | https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/
 [2026-07-30 08:52] HN · The Rust on ESP Book — 154pts | https://docs.espressif.com/projects/rust/book/
