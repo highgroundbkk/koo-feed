@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-01 08:43] HN · Everyone is building LLM routers, we deprecated ours — 119pts | https://manifest.build/blog/why-we-deprecated-our-llm-router/
+[2026-08-01 08:43] HN · 13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS — 48pts | https://swe-rebench.com
+[2026-08-01 08:43] HN · The Maxwell Conjecture Is False (GPT 5.6 Sol) — 148pts | https://arxiv.org/abs/2607.27197
 [2026-07-31 08:59] HN · Stacked PRs are now live on GitHub — 632pts | https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/
 [2026-07-31 08:59] HN · Show HN: What should the GUI for AI agents look like? — 44pts | https://marbleos.com/demo
 [2026-07-31 08:59] HN · Gemini Robotics 2 brings whole body intelligence to robots — 553pts | https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/
