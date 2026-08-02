@@ -5,6 +5,7 @@
 
 ---
 
+[2026-08-02 08:45] HN · Cursor removed cost information from the usage page and CSV export — 324pts | https://forum.cursor.com/t/usage-page-to-token-amount-what/167153
 [2026-08-01 08:43] HN · Everyone is building LLM routers, we deprecated ours — 119pts | https://manifest.build/blog/why-we-deprecated-our-llm-router/
 [2026-08-01 08:43] HN · 13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS — 48pts | https://swe-rebench.com
 [2026-08-01 08:43] HN · The Maxwell Conjecture Is False (GPT 5.6 Sol) — 148pts | https://arxiv.org/abs/2607.27197
