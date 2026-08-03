@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-03 09:02] HN · Rust project goals: Immobile types and guaranteed destructors — 46pts | https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md
+[2026-08-03 09:02] HN · Developers are attached to tools because tools encode trust — 208pts | https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/
+[2026-08-03 09:02] HN · Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App — 60pts | https://daringfireball.net/linked/2026/08/02/cherny-claude-swift
 [2026-08-02 08:45] HN · Cursor removed cost information from the usage page and CSV export — 324pts | https://forum.cursor.com/t/usage-page-to-token-amount-what/167153
 [2026-08-01 08:43] HN · Everyone is building LLM routers, we deprecated ours — 119pts | https://manifest.build/blog/why-we-deprecated-our-llm-router/
 [2026-08-01 08:43] HN · 13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS — 48pts | https://swe-rebench.com
