@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-04 08:54] HN · LLMs reward expertise — 897pts | https://www.seangoedecke.com/llms-reward-expertise/
+[2026-08-04 08:54] HN · Devtools must be open source — 595pts | https://blog.exe.dev/devtools-must-be-open-source
+[2026-08-04 08:54] HN · Prevent cognitive debt by manually retyping LLM-generated code — 474pts | https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
 [2026-08-03 09:02] HN · Rust project goals: Immobile types and guaranteed destructors — 46pts | https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md
 [2026-08-03 09:02] HN · Developers are attached to tools because tools encode trust — 208pts | https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/
 [2026-08-03 09:02] HN · Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App — 60pts | https://daringfireball.net/linked/2026/08/02/cherny-claude-swift
