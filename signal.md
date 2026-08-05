@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-05 08:53] HN · Mistral's Shieldstral: 3B open-weights model for multimodal moderation — 400pts | https://mistral.ai/news/shieldstral/
+[2026-08-05 08:53] HN · Rust-lang/rust is adopting an LLM policy — 59pts | https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/
+[2026-08-05 08:53] HN · Show HN: SIMD Viterbi Decoder in Rust — 44pts | https://github.com/brian-armstrong/fec
 [2026-08-04 08:54] HN · LLMs reward expertise — 897pts | https://www.seangoedecke.com/llms-reward-expertise/
 [2026-08-04 08:54] HN · Devtools must be open source — 595pts | https://blog.exe.dev/devtools-must-be-open-source
 [2026-08-04 08:54] HN · Prevent cognitive debt by manually retyping LLM-generated code — 474pts | https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
