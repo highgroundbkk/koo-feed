@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-06 08:53] HN · Zed DeltaDB — 413pts | https://zed.dev/deltadb
+[2026-08-06 08:53] HN · Branchless Rust: Making a Filter 4x Faster by Removing an If — 166pts | https://www.greyblake.com/blog/branchless-rust/
+[2026-08-06 08:53] HN · Beating GPT-5.6 Sol on retrieval with 100x cheaper open models — 312pts | https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency
 [2026-08-05 08:53] HN · Mistral's Shieldstral: 3B open-weights model for multimodal moderation — 400pts | https://mistral.ai/news/shieldstral/
 [2026-08-05 08:53] HN · Rust-lang/rust is adopting an LLM policy — 59pts | https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/
 [2026-08-05 08:53] HN · Show HN: SIMD Viterbi Decoder in Rust — 44pts | https://github.com/brian-armstrong/fec
