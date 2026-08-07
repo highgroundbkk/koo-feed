@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-07 08:22] HN · GitHub Actions and Pages are experiencing degraded availability — 392pts | https://www.githubstatus.com/incidents/qcvjkzcs7j74
+[2026-08-07 08:22] HN · Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users — 227pts | https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/
+[2026-08-07 08:22] HN · I stopped trusting USB-C cable labels and started testing them — 170pts | https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/
 [2026-08-06 08:53] HN · Zed DeltaDB — 413pts | https://zed.dev/deltadb
 [2026-08-06 08:53] HN · Branchless Rust: Making a Filter 4x Faster by Removing an If — 166pts | https://www.greyblake.com/blog/branchless-rust/
 [2026-08-06 08:53] HN · Beating GPT-5.6 Sol on retrieval with 100x cheaper open models — 312pts | https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency
