@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-09 08:11] HN · Message your other Claude Code sessions — 114pts | https://code.claude.com/docs/en/cross-session-messaging
+[2026-08-09 08:11] HN · ChatGPT starts blocking direct requests to copy an author's style — 48pts | https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/
+[2026-08-09 08:11] HN · Timeline of the OpenAI accidental attack against Hugging Face — 391pts | https://simonwillison.net/2026/Aug/7/openai-timeline/
 [2026-08-08 08:11] HN · Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025) — 143pts | https://www.aleksagordic.com/blog/vllm
 [2026-08-07 08:22] HN · GitHub Actions and Pages are experiencing degraded availability — 392pts | https://www.githubstatus.com/incidents/qcvjkzcs7j74
 [2026-08-07 08:22] HN · Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users — 227pts | https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/
