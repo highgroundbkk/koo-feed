@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-10 08:29] HN · Docker Sandboxes – Disposable, isolated sandboxes for AI agents — 136pts | https://www.docker.com/products/docker-sandboxes/
+[2026-08-10 08:29] HN · How I use LLMs to learn complex topics — 613pts | https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/
+[2026-08-10 08:29] HN · Auto mode is now the default in Claude Code — 178pts | https://claude.com/blog/auto-mode-default-in-claude-code
 [2026-08-09 08:11] HN · Message your other Claude Code sessions — 114pts | https://code.claude.com/docs/en/cross-session-messaging
 [2026-08-09 08:11] HN · ChatGPT starts blocking direct requests to copy an author's style — 48pts | https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/
 [2026-08-09 08:11] HN · Timeline of the OpenAI accidental attack against Hugging Face — 391pts | https://simonwillison.net/2026/Aug/7/openai-timeline/
