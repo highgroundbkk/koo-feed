@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-11 08:18] HN · Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots — 308pts | https://cactuscompute.com/needle
+[2026-08-11 08:18] HN · Rust SIMD on the GPU — 176pts | https://www.vectorware.com/blog/simd-on-gpu/
+[2026-08-11 08:18] HN · How Claude marks AI-generated content — 146pts | https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content
 [2026-08-10 08:29] HN · Docker Sandboxes – Disposable, isolated sandboxes for AI agents — 136pts | https://www.docker.com/products/docker-sandboxes/
 [2026-08-10 08:29] HN · How I use LLMs to learn complex topics — 613pts | https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/
 [2026-08-10 08:29] HN · Auto mode is now the default in Claude Code — 178pts | https://claude.com/blog/auto-mode-default-in-claude-code
