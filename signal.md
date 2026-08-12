@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-12 08:27] HN · Stealing Reasoning Traces from Proprietary LLM APIs — 609pts | https://stolen-thoughts.com/
+[2026-08-12 08:27] HN · OpenAI’s head of ethics leaves less than a year after joining — 413pts | https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0
+[2026-08-12 08:27] HN · What I learned by putting GitHub Copilot behind a MitM proxy — 180pts | https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm
 [2026-08-11 08:18] HN · Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots — 308pts | https://cactuscompute.com/needle
 [2026-08-11 08:18] HN · Rust SIMD on the GPU — 176pts | https://www.vectorware.com/blog/simd-on-gpu/
 [2026-08-11 08:18] HN · How Claude marks AI-generated content — 146pts | https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content
