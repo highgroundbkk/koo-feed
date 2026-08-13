@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-13 08:28] HN · ChatGPT Desktop (Codex Desktop) for Linux — 50pts | https://openai.com/codex/
+[2026-08-13 08:28] HN · Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials — 135pts | https://discoveredmaterials.com/research/
+[2026-08-13 08:28] HN · Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot — 270pts | https://knownagents.com/insights
 [2026-08-12 08:27] HN · Stealing Reasoning Traces from Proprietary LLM APIs — 609pts | https://stolen-thoughts.com/
 [2026-08-12 08:27] HN · OpenAI’s head of ethics leaves less than a year after joining — 413pts | https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0
 [2026-08-12 08:27] HN · What I learned by putting GitHub Copilot behind a MitM proxy — 180pts | https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm
