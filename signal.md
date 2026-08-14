@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-14 08:25] HN · Gemini 3.7 Flash — 796pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
+[2026-08-14 08:25] HN · Accelerating GPT-5.6 Sol Ultrafast — 563pts | https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai
+[2026-08-14 08:25] HN · Mistral OCR 4.1 — 326pts | https://docs.mistral.ai/models/ocr-4-1
 [2026-08-13 08:28] HN · ChatGPT Desktop (Codex Desktop) for Linux — 50pts | https://openai.com/codex/
 [2026-08-13 08:28] HN · Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials — 135pts | https://discoveredmaterials.com/research/
 [2026-08-13 08:28] HN · Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot — 270pts | https://knownagents.com/insights
