@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-15 08:03] HN · Coin-sized device can hack a Boeing 737 — 56pts | https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/
+[2026-08-15 08:03] HN · RustDesk now supports true unattended remote access on Wayland — 279pts | https://rustdesk.com/blog/unattended-remote-access-wayland/
+[2026-08-15 08:03] HN · Maximizing the value of your Claude Code sessions — 199pts | https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions
 [2026-08-14 08:25] HN · Gemini 3.7 Flash — 796pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
 [2026-08-14 08:25] HN · Accelerating GPT-5.6 Sol Ultrafast — 563pts | https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai
 [2026-08-14 08:25] HN · Mistral OCR 4.1 — 326pts | https://docs.mistral.ai/models/ocr-4-1
