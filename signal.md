@@ -5,6 +5,8 @@
 
 ---
 
+[2026-08-16 08:04] HN · Show HN: ThoughtDAG – An editable context graph for LLM conversations — 121pts | https://chenxiachan.github.io/thoughtdag/
+[2026-08-16 08:04] HN · Yadda 3.0.0: BDD in the Age of AI Agents — 60pts | http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html
 [2026-08-15 08:03] HN · Coin-sized device can hack a Boeing 737 — 56pts | https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/
 [2026-08-15 08:03] HN · RustDesk now supports true unattended remote access on Wayland — 279pts | https://rustdesk.com/blog/unattended-remote-access-wayland/
 [2026-08-15 08:03] HN · Maximizing the value of your Claude Code sessions — 199pts | https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions
