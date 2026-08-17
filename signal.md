@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-17 08:11] HN · Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing — 195pts | https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
+[2026-08-17 08:11] HN · Reticulum – Decentralized Mesh Network — 108pts | https://reticulum.network/
+[2026-08-17 08:11] HN · Claude: System Prompts — 637pts | https://platform.claude.com/docs/en/release-notes/system-prompts
 [2026-08-16 08:04] HN · Show HN: ThoughtDAG – An editable context graph for LLM conversations — 121pts | https://chenxiachan.github.io/thoughtdag/
 [2026-08-16 08:04] HN · Yadda 3.0.0: BDD in the Age of AI Agents — 60pts | http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html
 [2026-08-15 08:03] HN · Coin-sized device can hack a Boeing 737 — 56pts | https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/
