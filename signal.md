@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-18 08:07] HN · GPT-5.6 Sol Pricing Cut by 50% — 395pts | https://openrouter.ai/openai/gpt-5.6-sol
+[2026-08-18 08:07] HN · AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira — 363pts | https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug
+[2026-08-18 08:07] HN · GPU Offload in Rust: Portable, Safe, and Fast — 203pts | https://arxiv.org/abs/2608.13759
 [2026-08-17 08:11] HN · Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing — 195pts | https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
 [2026-08-17 08:11] HN · Reticulum – Decentralized Mesh Network — 108pts | https://reticulum.network/
 [2026-08-17 08:11] HN · Claude: System Prompts — 637pts | https://platform.claude.com/docs/en/release-notes/system-prompts
