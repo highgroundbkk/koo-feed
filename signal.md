@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-19 08:08] HN · Turbovec – Google's TurboQuant for vector search in Rust — 241pts | https://github.com/RyanCodrai/turbovec
+[2026-08-19 08:08] HN · Claude writing a macOS driver for my obscure HP printer built only for Windows — 185pts | https://twitter.com/kuberwastaken/status/2089377982536388964
+[2026-08-19 08:08] HN · Ask HN: GitHub employees what's going on? Why? — 262pts | https://news.ycombinator.com/item?id=49332495
 [2026-08-18 08:07] HN · GPT-5.6 Sol Pricing Cut by 50% — 395pts | https://openrouter.ai/openai/gpt-5.6-sol
 [2026-08-18 08:07] HN · AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira — 363pts | https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug
 [2026-08-18 08:07] HN · GPU Offload in Rust: Portable, Safe, and Fast — 203pts | https://arxiv.org/abs/2608.13759
