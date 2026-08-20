@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-20 08:09] HN · Rewriting in Rust — 51pts | https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/
+[2026-08-20 08:09] HN · Extensible Software in the age of LLMs — 145pts | https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/
+[2026-08-20 08:09] HN · MicroGPT-C in pure C hits 10M TPS on Apple M5 — 128pts | https://github.com/vixhal-baraiya/microgpt-c
 [2026-08-19 08:08] HN · Turbovec – Google's TurboQuant for vector search in Rust — 241pts | https://github.com/RyanCodrai/turbovec
 [2026-08-19 08:08] HN · Claude writing a macOS driver for my obscure HP printer built only for Windows — 185pts | https://twitter.com/kuberwastaken/status/2089377982536388964
 [2026-08-19 08:08] HN · Ask HN: GitHub employees what's going on? Why? — 262pts | https://news.ycombinator.com/item?id=49332495
