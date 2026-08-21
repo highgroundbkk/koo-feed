@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-21 08:10] HN · Malicious Rust crate Arrayref runs a build-time payload — 480pts | https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/
+[2026-08-21 08:10] HN · Vomit: Clean up Claude 5's token output with a separate LLM — 243pts | https://github.com/zachahn/vomit
+[2026-08-21 08:10] HN · Hacking with Claude on a $27 smart watch — 94pts | https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html
 [2026-08-20 08:09] HN · Rewriting in Rust — 51pts | https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/
 [2026-08-20 08:09] HN · Extensible Software in the age of LLMs — 145pts | https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/
 [2026-08-20 08:09] HN · MicroGPT-C in pure C hits 10M TPS on Apple M5 — 128pts | https://github.com/vixhal-baraiya/microgpt-c
