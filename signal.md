@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-22 08:04] HN · Rust Glancer: Rust LSP using 100x less RAM — 148pts | https://rust-glancer.github.io/blog/hello-world/
+[2026-08-22 08:04] HN · Claudette: Make Claude stop talking like a BuzzFeed article — 253pts | https://github.com/adnanakil/nobuzz/blob/main/README.md
+[2026-08-22 08:04] HN · GitHub, autoscaling, and the component substitution fallacy — 48pts | https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/
 [2026-08-21 08:10] HN · Malicious Rust crate Arrayref runs a build-time payload — 480pts | https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/
 [2026-08-21 08:10] HN · Vomit: Clean up Claude 5's token output with a separate LLM — 243pts | https://github.com/zachahn/vomit
 [2026-08-21 08:10] HN · Hacking with Claude on a $27 smart watch — 94pts | https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html
