@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-24 08:13] HN · I were 17, I'd learn how to build LLMs from scratch — 55pts | https://twitter.com/paulg/status/2091544343589060625
+[2026-08-24 08:13] HN · Anthropic's best AI model struggles to attract users as cheaper tools thrive — 473pts | https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245
+[2026-08-24 08:13] HN · My agent.md to improve LLM-assisted code quality — 295pts | https://fabiensanglard.net/agent.md/index.html
 [2026-08-23 08:04] HN · MartyPC is a cross-platform emulator of early PCs written in Rust — 95pts | https://martypc.net/
 [2026-08-23 08:04] HN · Why your local LLM feels dumber than it is — 308pts | https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
 [2026-08-23 08:04] HN · NanoGPT Speedrun Frontier — 88pts | https://www.primeintellect.ai/research/nanogpt-speedrun
