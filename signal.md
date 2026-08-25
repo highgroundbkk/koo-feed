@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-25 08:12] HN · LLMs could control their host machines by exploiting inference engines — 133pts | https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines
+[2026-08-25 08:12] HN · OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21) — 320pts | https://developers.openai.com/api/docs/pricing
+[2026-08-25 08:12] HN · OCR It – pull text out of un-copyable documents for your LLM — 125pts | https://github.com/thiagotigaz/ocr-it
 [2026-08-24 08:13] HN · I were 17, I'd learn how to build LLMs from scratch — 55pts | https://twitter.com/paulg/status/2091544343589060625
 [2026-08-24 08:13] HN · Anthropic's best AI model struggles to attract users as cheaper tools thrive — 473pts | https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245
 [2026-08-24 08:13] HN · My agent.md to improve LLM-assisted code quality — 295pts | https://fabiensanglard.net/agent.md/index.html
