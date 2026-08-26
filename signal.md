@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-26 08:12] HN · OpenAI Jalapeño: Better than Nvidia Blackwell — 459pts | https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
+[2026-08-26 08:12] HN · Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others — 74pts | https://github.com/runetes/maiao
+[2026-08-26 08:12] HN · Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM — 89pts | https://github.com/swimmingbrain/texbrain
 [2026-08-25 08:12] HN · LLMs could control their host machines by exploiting inference engines — 133pts | https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines
 [2026-08-25 08:12] HN · OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21) — 320pts | https://developers.openai.com/api/docs/pricing
 [2026-08-25 08:12] HN · OCR It – pull text out of un-copyable documents for your LLM — 125pts | https://github.com/thiagotigaz/ocr-it
