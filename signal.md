@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-27 11:18] HN · Serve Markdown to AI Agents with Accept Headers — 148pts | https://acceptmarkdown.com/
+[2026-08-27 11:18] HN · GitHub Outage Tracker: Is GitHub Cooked? — 233pts | https://isgithubcooked.com/
+[2026-08-27 11:18] HN · GitHub Publishes IPv6 Addresses for Git SSH remotes — 43pts | https://api.github.com/meta
 [2026-08-26 08:12] HN · OpenAI Jalapeño: Better than Nvidia Blackwell — 459pts | https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
 [2026-08-26 08:12] HN · Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others — 74pts | https://github.com/runetes/maiao
 [2026-08-26 08:12] HN · Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM — 89pts | https://github.com/swimmingbrain/texbrain
