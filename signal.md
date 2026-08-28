@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-28 11:44] HN · Gemini-3.5-Transcribe — 308pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/
+[2026-08-28 11:44] HN · Gemini Omni 1.1 Flash — 265pts | https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/
+[2026-08-28 11:44] HN · Terminal-Bench-Science: Evaluating AI agents on scientific research workflows — 99pts | https://www.terminal-bench-science.ai/announcement
 [2026-08-27 11:18] HN · Serve Markdown to AI Agents with Accept Headers — 148pts | https://acceptmarkdown.com/
 [2026-08-27 11:18] HN · GitHub Outage Tracker: Is GitHub Cooked? — 233pts | https://isgithubcooked.com/
 [2026-08-27 11:18] HN · GitHub Publishes IPv6 Addresses for Git SSH remotes — 43pts | https://api.github.com/meta
