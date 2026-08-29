@@ -5,6 +5,9 @@
 
 ---
 
+[2026-08-29 08:04] HN · TurboKV: Insanely fast Rust key-value store — 81pts | https://github.com/kingroryg/turbokv
+[2026-08-29 08:04] HN · I accidentally turned LLM memory into program analysis — 113pts | https://pwning.systems/posts/llm-memory-program-analysis/
+[2026-08-29 08:04] HN · Our decision on Cursor following its acquisition by SpaceX — 465pts | https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/
 [2026-08-28 11:44] HN · Gemini-3.5-Transcribe — 308pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/
 [2026-08-28 11:44] HN · Gemini Omni 1.1 Flash — 265pts | https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/
 [2026-08-28 11:44] HN · Terminal-Bench-Science: Evaluating AI agents on scientific research workflows — 99pts | https://www.terminal-bench-science.ai/announcement
