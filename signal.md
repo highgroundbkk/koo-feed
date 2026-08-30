@@ -5,6 +5,8 @@
 
 ---
 
+[2026-08-30 08:04] HN · Functional State Machines in Rust: Typestate and Newtype Patterns — 79pts | https://dl.acm.org/doi/10.1145/3830438.3830958
+[2026-08-30 08:04] HN · Judge rules Trump administration’s blacklisting of Anthropic was illegal — 618pts | https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html
 [2026-08-29 08:04] HN · TurboKV: Insanely fast Rust key-value store — 81pts | https://github.com/kingroryg/turbokv
 [2026-08-29 08:04] HN · I accidentally turned LLM memory into program analysis — 113pts | https://pwning.systems/posts/llm-memory-program-analysis/
 [2026-08-29 08:04] HN · Our decision on Cursor following its acquisition by SpaceX — 465pts | https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/
