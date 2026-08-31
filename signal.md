@@ -5,6 +5,8 @@
 
 ---
 
+[2026-08-31 08:05] HN · Understanding ChatGPT Work — 157pts | https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
+[2026-08-31 08:05] HN · Claude Session URL appended to commit messages and PR descriptions by default — 194pts | https://github.com/anthropics/claude-code/issues/66504
 [2026-08-30 08:04] HN · Functional State Machines in Rust: Typestate and Newtype Patterns — 79pts | https://dl.acm.org/doi/10.1145/3830438.3830958
 [2026-08-30 08:04] HN · Judge rules Trump administration’s blacklisting of Anthropic was illegal — 618pts | https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html
 [2026-08-29 08:04] HN · TurboKV: Insanely fast Rust key-value store — 81pts | https://github.com/kingroryg/turbokv
