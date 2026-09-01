@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-01 08:05] HN · ChatGPT Work Tool and Skill Reference — 214pts | https://codex-tool-reference.simonw.chatgpt.site/
+[2026-09-01 08:05] HN · Breaking Claude Code Opus 5 Auto Mode — 367pts | https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/
+[2026-09-01 08:05] HN · uv: Deduplicate all files in the wheel cache — 216pts | https://github.com/astral-sh/uv/pull/21327
 [2026-08-31 08:05] HN · Understanding ChatGPT Work — 157pts | https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
 [2026-08-31 08:05] HN · Claude Session URL appended to commit messages and PR descriptions by default — 194pts | https://github.com/anthropics/claude-code/issues/66504
 [2026-08-30 08:04] HN · Functional State Machines in Rust: Typestate and Newtype Patterns — 79pts | https://dl.acm.org/doi/10.1145/3830438.3830958
