@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-02 08:04] HN · Claude Fable 5.1 and Claude Mythos 5.1 — 1184pts | https://www.anthropic.com/claude-fable-and-mythos-5-1
+[2026-09-02 08:04] HN · The efficient frontier of LLM inference — 108pts | https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/
+[2026-09-02 08:04] HN · The ChatGPT/Codex app bundles a full copy of LibreOffice — 377pts | https://simonwillison.net/2026/Sep/1/codex-libreoffice/
 [2026-09-01 08:05] HN · ChatGPT Work Tool and Skill Reference — 214pts | https://codex-tool-reference.simonw.chatgpt.site/
 [2026-09-01 08:05] HN · Breaking Claude Code Opus 5 Auto Mode — 367pts | https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/
 [2026-09-01 08:05] HN · uv: Deduplicate all files in the wheel cache — 216pts | https://github.com/astral-sh/uv/pull/21327
