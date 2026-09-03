@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-03 08:04] HN · Gemini 3.8 Flash and 3.8 Flash Cyber — 985pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/
+[2026-09-03 08:04] HN · Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s — 56pts | https://news.ycombinator.com/item?id=49543530
+[2026-09-03 08:04] HN · The shrinking landscape of linguistic diversity in the age of LLMs — 132pts | https://www.nature.com/articles/s41562-026-02550-0
 [2026-09-02 08:04] HN · Claude Fable 5.1 and Claude Mythos 5.1 — 1184pts | https://www.anthropic.com/claude-fable-and-mythos-5-1
 [2026-09-02 08:04] HN · The efficient frontier of LLM inference — 108pts | https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/
 [2026-09-02 08:04] HN · The ChatGPT/Codex app bundles a full copy of LibreOffice — 377pts | https://simonwillison.net/2026/Sep/1/codex-libreoffice/
