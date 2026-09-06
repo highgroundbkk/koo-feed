@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-06 08:04] HN · GPT-6 Astra on robot arms — 162pts | https://openai.robocurve.org/gpt-6-astra/
+[2026-09-06 08:04] HN · Visualizing Rust's Vtables: How dyn Trait Works In Memory — 166pts | https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/
+[2026-09-06 08:04] HN · LLMs as a Cognitive Virus — 258pts | https://arxiv.org/abs/2609.03344
 [2026-09-05 08:04] HN · Discovery of a new OpenAI agent message board — 1668pts | https://collusion.wiki/
 [2026-09-05 08:04] HN · GPT-6 Astra on OpenRouter — 203pts | https://openrouter.ai/openai/gpt-6-astra
 [2026-09-05 08:04] HN · Portal by Spotify cut my Claude Code token usage by 90% — 105pts | https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90
