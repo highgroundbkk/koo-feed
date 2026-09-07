@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-07 08:05] HN · Research acceleration: The view inside OpenAI — 165pts | https://openai.com/index/research-acceleration-view-inside-openai
+[2026-09-07 08:05] HN · Your intellectual fly is open when you use an LLM to author a post (2025) — 639pts | https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/
+[2026-09-07 08:05] HN · Finder is so frustrating and has been since day one — 106pts | https://kepter.app/finder
 [2026-09-06 08:04] HN · GPT-6 Astra on robot arms — 162pts | https://openai.robocurve.org/gpt-6-astra/
 [2026-09-06 08:04] HN · Visualizing Rust's Vtables: How dyn Trait Works In Memory — 166pts | https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/
 [2026-09-06 08:04] HN · LLMs as a Cognitive Virus — 258pts | https://arxiv.org/abs/2609.03344
