@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-08 08:05] HN · Mistral raises €3B — 320pts | https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/
+[2026-09-08 08:05] HN · Trusting-Trust Attack against an Entire Linux Distribution — 203pts | https://arxiv.org/abs/2607.24888
+[2026-09-08 08:05] HN · Speculative Decoding in vLLM on AMD GPUs — 136pts | https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus
 [2026-09-07 08:05] HN · Research acceleration: The view inside OpenAI — 165pts | https://openai.com/index/research-acceleration-view-inside-openai
 [2026-09-07 08:05] HN · Your intellectual fly is open when you use an LLM to author a post (2025) — 639pts | https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/
 [2026-09-07 08:05] HN · Finder is so frustrating and has been since day one — 106pts | https://kepter.app/finder
