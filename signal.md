@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-09 08:05] HN · Muse – Meta’s personal AI agent — 481pts | https://ai.meta.com/muse/
+[2026-09-09 08:05] HN · I resigned from Anthropic today — 493pts | https://twitter.com/hilbertspaess/status/2097476196791709843#m
+[2026-09-09 08:05] HN · ChatGPT Images 2.5 — 330pts | https://openai.com/index/introducing-chatgpt-images-2-5/
 [2026-09-08 08:05] HN · Mistral raises €3B — 320pts | https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/
 [2026-09-08 08:05] HN · Trusting-Trust Attack against an Entire Linux Distribution — 203pts | https://arxiv.org/abs/2607.24888
 [2026-09-08 08:05] HN · Speculative Decoding in vLLM on AMD GPUs — 136pts | https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus
