@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-10 08:04] HN · GPT-6 Astra, looped transformers, and hidden reasoning — 405pts | https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and
+[2026-09-10 08:04] HN · Training a 3.8B LLM to 0.384 CORE for $998 — 60pts | https://hugovergnes.github.io/little-lm-3-8b/
+[2026-09-10 08:04] HN · OpenAI might have stolen another major proof — 174pts | https://twitter.com/ValerioCapraro/status/2097791836269977996
 [2026-09-09 08:05] HN · Muse – Meta’s personal AI agent — 481pts | https://ai.meta.com/muse/
 [2026-09-09 08:05] HN · I resigned from Anthropic today — 493pts | https://twitter.com/hilbertspaess/status/2097476196791709843#m
 [2026-09-09 08:05] HN · ChatGPT Images 2.5 — 330pts | https://openai.com/index/introducing-chatgpt-images-2-5/
