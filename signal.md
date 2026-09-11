@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-11 08:04] HN · OpenAI Agents API — 243pts | https://developers.openai.com/api/docs/guides/agents-api/overview
+[2026-09-11 08:04] HN · The Deathray: A simple way for an untrusted site to freeze a Mac — 158pts | https://auberon.xyz/blog/posts/deathray/
+[2026-09-11 08:04] HN · Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra — 405pts | https://cognition.com/blog/swe-2
 [2026-09-10 08:04] HN · GPT-6 Astra, looped transformers, and hidden reasoning — 405pts | https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and
 [2026-09-10 08:04] HN · Training a 3.8B LLM to 0.384 CORE for $998 — 60pts | https://hugovergnes.github.io/little-lm-3-8b/
 [2026-09-10 08:04] HN · OpenAI might have stolen another major proof — 174pts | https://twitter.com/ValerioCapraro/status/2097791836269977996
