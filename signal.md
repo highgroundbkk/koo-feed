@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-12 08:04] HN · OpenAI agents carried out an undisclosed attack on RubyGems — 642pts | https://www.rubyhack.ai/
+[2026-09-12 08:04] HN · Litelm: LiteLLM Without the Bloat — 128pts | https://github.com/kennethwolters/litelm
+[2026-09-12 08:04] HN · Claude is only available to people over 18 years — 631pts | https://support.claude.com/en/articles/15171100-age-assurance-on-claude
 [2026-09-11 08:04] HN · OpenAI Agents API — 243pts | https://developers.openai.com/api/docs/guides/agents-api/overview
 [2026-09-11 08:04] HN · The Deathray: A simple way for an untrusted site to freeze a Mac — 158pts | https://auberon.xyz/blog/posts/deathray/
 [2026-09-11 08:04] HN · Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra — 405pts | https://cognition.com/blog/swe-2
