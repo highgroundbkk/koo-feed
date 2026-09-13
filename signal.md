@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-13 08:04] HN · Why are AI agents lying, cheating and coordinating? — 144pts | https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating
+[2026-09-13 08:04] HN · Stabilizing Rust's Never Type — 177pts | https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/
+[2026-09-13 08:04] HN · I made a build visualizer to understand Bun's compile times — 124pts | https://lalitm.com/post/buildprof/
 [2026-09-12 08:04] HN · OpenAI agents carried out an undisclosed attack on RubyGems — 642pts | https://www.rubyhack.ai/
 [2026-09-12 08:04] HN · Litelm: LiteLLM Without the Bloat — 128pts | https://github.com/kennethwolters/litelm
 [2026-09-12 08:04] HN · Claude is only available to people over 18 years — 631pts | https://support.claude.com/en/articles/15171100-age-assurance-on-claude
