@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-14 08:05] HN · Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace — 80pts | https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace
+[2026-09-14 08:05] HN · Reverse engineering my e-scooter and rewriting the firmware in Rust — 408pts | https://bensimms.moe/reverse-engineering-scooter/
+[2026-09-14 08:05] HN · David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models — 296pts | https://twitter.com/DavidSacks/status/2098973625252708460
 [2026-09-13 08:04] HN · Why are AI agents lying, cheating and coordinating? — 144pts | https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating
 [2026-09-13 08:04] HN · Stabilizing Rust's Never Type — 177pts | https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/
 [2026-09-13 08:04] HN · I made a build visualizer to understand Bun's compile times — 124pts | https://lalitm.com/post/buildprof/
