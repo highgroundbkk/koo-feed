@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-16 12:56] HN · Mistral X Mozilla: Private, Multilingual AI Browsing — 162pts | https://mistral.ai/news/mistral-x-mozilla/
+[2026-09-16 12:56] HN · Learning Programming in an Age of LLMs — 101pts | https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/
+[2026-09-16 12:56] HN · Gemini 3.8 Live and 3.8 Live Extended Thinking — 437pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/
 [2026-09-14 08:05] HN · Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace — 80pts | https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace
 [2026-09-14 08:05] HN · Reverse engineering my e-scooter and rewriting the firmware in Rust — 408pts | https://bensimms.moe/reverse-engineering-scooter/
 [2026-09-14 08:05] HN · David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models — 296pts | https://twitter.com/DavidSacks/status/2098973625252708460
