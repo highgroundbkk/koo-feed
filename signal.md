@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-17 12:52] HN · Nvidia announces native GPU programming in Rust — 768pts | https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
+[2026-09-17 12:52] HN · Developing provably correct Rust code with Verus — 130pts | https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus
+[2026-09-17 12:52] HN · Breaking the 1.58-bit Barrier for Ternary LLMs — 217pts | https://arxiv.org/abs/2609.16338
 [2026-09-16 12:56] HN · Mistral X Mozilla: Private, Multilingual AI Browsing — 162pts | https://mistral.ai/news/mistral-x-mozilla/
 [2026-09-16 12:56] HN · Learning Programming in an Age of LLMs — 101pts | https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/
 [2026-09-16 12:56] HN · Gemini 3.8 Live and 3.8 Live Extended Thinking — 437pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/
