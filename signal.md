@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-18 12:28] HN · How to Write with an LLM — 205pts | https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/
+[2026-09-18 12:28] HN · A heap overflow and SSO misconfiguration to compromise OpenAI internal repos — 375pts | https://www.hacktron.ai/blog/hacking-openai
+[2026-09-18 12:28] HN · Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data — 149pts | https://arxiv.org/abs/2609.18842
 [2026-09-17 12:52] HN · Nvidia announces native GPU programming in Rust — 768pts | https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
 [2026-09-17 12:52] HN · Developing provably correct Rust code with Verus — 130pts | https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus
 [2026-09-17 12:52] HN · Breaking the 1.58-bit Barrier for Ternary LLMs — 217pts | https://arxiv.org/abs/2609.16338
