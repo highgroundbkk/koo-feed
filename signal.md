@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-19 12:08] HN · GPT-6 Astra Solves a WWI German Radio Cipher — 151pts | https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio
+[2026-09-19 12:08] HN · Why building a Rust LSP is hard — 95pts | https://rust-glancer.github.io/blog/why-lsp-is-hard/
+[2026-09-19 12:08] HN · How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip — 136pts | https://spectrum.ieee.org/llms-for-chip-design
 [2026-09-18 12:28] HN · How to Write with an LLM — 205pts | https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/
 [2026-09-18 12:28] HN · A heap overflow and SSO misconfiguration to compromise OpenAI internal repos — 375pts | https://www.hacktron.ai/blog/hacking-openai
 [2026-09-18 12:28] HN · Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data — 149pts | https://arxiv.org/abs/2609.18842
