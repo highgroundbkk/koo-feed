@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-20 12:44] HN · What Zig felt like, coming from Rust — 235pts | https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/
+[2026-09-20 12:44] HN · Cache-to-Cache: Direct Semantic Communication Between LLMs (2025) — 105pts | https://arxiv.org/abs/2510.03215
+[2026-09-20 12:44] HN · We made Playwright 2x faster and 80% more token efficient — 140pts | https://github.com/browserbase/stagehand
 [2026-09-19 12:08] HN · GPT-6 Astra Solves a WWI German Radio Cipher — 151pts | https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio
 [2026-09-19 12:08] HN · Why building a Rust LSP is hard — 95pts | https://rust-glancer.github.io/blog/why-lsp-is-hard/
 [2026-09-19 12:08] HN · How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip — 136pts | https://spectrum.ieee.org/llms-for-chip-design
