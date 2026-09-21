@@ -5,6 +5,7 @@
 
 ---
 
+[2026-09-21 14:41] HN · The LLMentalist Effect (2023) — 213pts | https://softwarecrisis.dev/letters/llmentalist/
 [2026-09-20 12:44] HN · What Zig felt like, coming from Rust — 235pts | https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/
 [2026-09-20 12:44] HN · Cache-to-Cache: Direct Semantic Communication Between LLMs (2025) — 105pts | https://arxiv.org/abs/2510.03215
 [2026-09-20 12:44] HN · We made Playwright 2x faster and 80% more token efficient — 140pts | https://github.com/browserbase/stagehand
