@@ -5,6 +5,8 @@
 
 ---
 
+[2026-09-22 12:55] HN · Claude Status – Elevated errors for multiple models — 125pts | https://status.claude.com/incidents/7g1qpkyz5gxh
+[2026-09-22 12:55] HN · Jev introduces a new shape of LLM — 41pts | https://simonwillison.net/2026/Sep/21/jev/
 [2026-09-21 14:41] HN · The LLMentalist Effect (2023) — 213pts | https://softwarecrisis.dev/letters/llmentalist/
 [2026-09-20 12:44] HN · What Zig felt like, coming from Rust — 235pts | https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/
 [2026-09-20 12:44] HN · Cache-to-Cache: Direct Semantic Communication Between LLMs (2025) — 105pts | https://arxiv.org/abs/2510.03215
