@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-23 13:06] HN · Claude Code reads AGENTS.md only when telemetry is on — 88pts | https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/
+[2026-09-23 13:06] HN · GPT-6 Sol and Luna — 1614pts | https://openai.com/index/introducing-gpt-6-sol-and-luna/
+[2026-09-23 13:06] HN · Claude Opus 5.5 — 1627pts | https://www.anthropic.com/claude-opus-5-5
 [2026-09-22 12:55] HN · Claude Status – Elevated errors for multiple models — 125pts | https://status.claude.com/incidents/7g1qpkyz5gxh
 [2026-09-22 12:55] HN · Jev introduces a new shape of LLM — 41pts | https://simonwillison.net/2026/Sep/21/jev/
 [2026-09-21 14:41] HN · The LLMentalist Effect (2023) — 213pts | https://softwarecrisis.dev/letters/llmentalist/
