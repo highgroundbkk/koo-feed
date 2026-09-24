@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-24 13:00] HN · Claude discovers a novel enzyme system with CRISPR-like repeats — 692pts | https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
+[2026-09-24 13:00] HN · OpenAI agent hacked Australian government website, PM says — 126pts | https://www.bbc.com/news/live/cvgl73pxgndwt
+[2026-09-24 13:00] HN · Early rogue AI agent activity and attempts to hack found on urlquery.net — 164pts | https://transluce.org/agent-activity
 [2026-09-23 13:06] HN · Claude Code reads AGENTS.md only when telemetry is on — 88pts | https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/
 [2026-09-23 13:06] HN · GPT-6 Sol and Luna — 1614pts | https://openai.com/index/introducing-gpt-6-sol-and-luna/
 [2026-09-23 13:06] HN · Claude Opus 5.5 — 1627pts | https://www.anthropic.com/claude-opus-5-5
