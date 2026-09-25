@@ -5,6 +5,7 @@
 
 ---
 
+[2026-09-25 13:06] HN · Using LLMs to trace alchemical knowledge and decode 17th century letters — 144pts | https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
 [2026-09-24 13:00] HN · Claude discovers a novel enzyme system with CRISPR-like repeats — 692pts | https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
 [2026-09-24 13:00] HN · OpenAI agent hacked Australian government website, PM says — 126pts | https://www.bbc.com/news/live/cvgl73pxgndwt
 [2026-09-24 13:00] HN · Early rogue AI agent activity and attempts to hack found on urlquery.net — 164pts | https://transluce.org/agent-activity
