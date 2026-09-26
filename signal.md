@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-26 08:05] HN · Revealing the details of how OpenAI agents hacked Hugging Face — 443pts | https://swarmtraces.org/
+[2026-09-26 08:05] HN · A single function Jev-like wrapper for LLMs, including vision models — 53pts | http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html
+[2026-09-26 08:05] HN · Ollaya – Ollama for open-source, Jev-style decision models — 426pts | https://ollaya.dev/
 [2026-09-25 13:06] HN · Using LLMs to trace alchemical knowledge and decode 17th century letters — 144pts | https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
 [2026-09-24 13:00] HN · Claude discovers a novel enzyme system with CRISPR-like repeats — 692pts | https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
 [2026-09-24 13:00] HN · OpenAI agent hacked Australian government website, PM says — 126pts | https://www.bbc.com/news/live/cvgl73pxgndwt
