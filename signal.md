@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-27 08:04] HN · How to keep enjoying programming in a world of LLMs — 215pts | https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705
+[2026-09-27 08:04] HN · Generate fonts where every LLM token is the same width — 58pts | https://ampdot.mesh.host/token-space-fonts.html
+[2026-09-27 08:04] HN · OpenAI bots meddled with multiple US Government agency sites — 113pts | https://www.bbc.com/news/articles/cw62jje658dlo
 [2026-09-26 08:05] HN · Revealing the details of how OpenAI agents hacked Hugging Face — 443pts | https://swarmtraces.org/
 [2026-09-26 08:05] HN · A single function Jev-like wrapper for LLMs, including vision models — 53pts | http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html
 [2026-09-26 08:05] HN · Ollaya – Ollama for open-source, Jev-style decision models — 426pts | https://ollaya.dev/
