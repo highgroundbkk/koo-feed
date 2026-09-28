@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-28 08:11] HN · Don't couple your Go code to GitHub — 227pts | https://iain.rocks/blog/dont-couple-your-go-code-to-github
+[2026-09-28 08:11] HN · The state of SIMD in Rust in 2026 — 137pts | https://shnatsel.github.io/state-of-simd-rust-2026/
+[2026-09-28 08:11] HN · Show HN: TinyAIArena watch AI agents battle it out — 107pts | https://tinyaiarena.com/
 [2026-09-27 08:04] HN · How to keep enjoying programming in a world of LLMs — 215pts | https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705
 [2026-09-27 08:04] HN · Generate fonts where every LLM token is the same width — 58pts | https://ampdot.mesh.host/token-space-fonts.html
 [2026-09-27 08:04] HN · OpenAI bots meddled with multiple US Government agency sites — 113pts | https://www.bbc.com/news/articles/cw62jje658dlo
