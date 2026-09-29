@@ -5,6 +5,8 @@
 
 ---
 
+[2026-09-29 08:05] HN · MicroLLM Lab – Try 7 tiny LLM's in the browser — 225pts | https://stateofutopia.com/experiments/microllmlab/
+[2026-09-29 08:05] HN · Nvidia wants to put a watchdog chip next to every AI agent — 159pts | https://www.cnbc.com/2026/09/28/nvidia-releases.html
 [2026-09-28 08:11] HN · Don't couple your Go code to GitHub — 227pts | https://iain.rocks/blog/dont-couple-your-go-code-to-github
 [2026-09-28 08:11] HN · The state of SIMD in Rust in 2026 — 137pts | https://shnatsel.github.io/state-of-simd-rust-2026/
 [2026-09-28 08:11] HN · Show HN: TinyAIArena watch AI agents battle it out — 107pts | https://tinyaiarena.com/
