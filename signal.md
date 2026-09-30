@@ -5,6 +5,9 @@
 
 ---
 
+[2026-09-30 08:05] HN · GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — 905pts | https://openai.com/index/introducing-gpt-6-1-sol/
+[2026-09-30 08:05] HN · PSSA: A non-transformer language model written from scratch in Rust — 74pts | https://github.com/Sparticle62ops/pssa
+[2026-09-30 08:05] HN · Ballmer Peak — 56pts | https://en.wikipedia.org/wiki/Ballmer_Peak
 [2026-09-29 08:05] HN · MicroLLM Lab – Try 7 tiny LLM's in the browser — 225pts | https://stateofutopia.com/experiments/microllmlab/
 [2026-09-29 08:05] HN · Nvidia wants to put a watchdog chip next to every AI agent — 159pts | https://www.cnbc.com/2026/09/28/nvidia-releases.html
 [2026-09-28 08:11] HN · Don't couple your Go code to GitHub — 227pts | https://iain.rocks/blog/dont-couple-your-go-code-to-github
