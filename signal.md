@@ -5,6 +5,7 @@
 
 ---
 
+[2026-10-01 08:05] HN · Gemini 4 Argon — 1319pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
 [2026-09-30 08:05] HN · GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — 905pts | https://openai.com/index/introducing-gpt-6-1-sol/
 [2026-09-30 08:05] HN · PSSA: A non-transformer language model written from scratch in Rust — 74pts | https://github.com/Sparticle62ops/pssa
 [2026-09-30 08:05] HN · Ballmer Peak — 56pts | https://en.wikipedia.org/wiki/Ballmer_Peak
