@@ -5,6 +5,8 @@
 
 ---
 
+[2026-10-02 08:05] HN · How to speed up the Rust compiler in September 2026 — 249pts | https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html
+[2026-10-02 08:05] HN · GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design — 177pts | https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design
 [2026-10-01 08:05] HN · Gemini 4 Argon — 1319pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
 [2026-09-30 08:05] HN · GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — 905pts | https://openai.com/index/introducing-gpt-6-1-sol/
 [2026-09-30 08:05] HN · PSSA: A non-transformer language model written from scratch in Rust — 74pts | https://github.com/Sparticle62ops/pssa
