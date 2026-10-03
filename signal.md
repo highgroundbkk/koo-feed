@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-03 08:04] HN · From the creator of Redis; run LLM locally with ds4 — 221pts | https://dwarfstar.sh/
+[2026-10-03 08:04] HN · Greg Kroah-Hartman – Security in the LLM Age [video] — 231pts | https://www.youtube.com/watch?v=NnV_cWeoo5Q
+[2026-10-03 08:04] HN · Sites in ChatGPT — 260pts | https://chatgpt.com/features/sites/
 [2026-10-02 08:05] HN · How to speed up the Rust compiler in September 2026 — 249pts | https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html
 [2026-10-02 08:05] HN · GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design — 177pts | https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design
 [2026-10-01 08:05] HN · Gemini 4 Argon — 1319pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
