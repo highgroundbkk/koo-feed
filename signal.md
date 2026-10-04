@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-04 10:06] HN · Religious scholars met with Anthropic — 80pts | https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html
+[2026-10-04 10:06] HN · I quit OpenAI because its culture is broken — 227pts | https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA
+[2026-10-04 10:06] HN · Getting the most out of Opus 5.5 in Claude and Claude Code — 215pts | https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
 [2026-10-03 08:04] HN · From the creator of Redis; run LLM locally with ds4 — 221pts | https://dwarfstar.sh/
 [2026-10-03 08:04] HN · Greg Kroah-Hartman – Security in the LLM Age [video] — 231pts | https://www.youtube.com/watch?v=NnV_cWeoo5Q
 [2026-10-03 08:04] HN · Sites in ChatGPT — 260pts | https://chatgpt.com/features/sites/
