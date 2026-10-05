@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-05 08:13] HN · Powerless F1 drivers frustrated by Bahrain F1 software glitch — 185pts | https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/
+[2026-10-05 08:13] HN · Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers — 44pts | https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails
+[2026-10-05 08:13] HN · Emitting metadata early makes building/checking Rust up to twice as fast — 136pts | https://github.com/PowderworksCode/headstart
 [2026-10-04 10:06] HN · Religious scholars met with Anthropic — 80pts | https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html
 [2026-10-04 10:06] HN · I quit OpenAI because its culture is broken — 227pts | https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA
 [2026-10-04 10:06] HN · Getting the most out of Opus 5.5 in Claude and Claude Code — 215pts | https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
