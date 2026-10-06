@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-06 08:05] HN · Friendship ended with Deno, now Node is my best friend — 152pts | https://dbushell.com/2026/10/03/deno-to-node/
+[2026-10-06 08:05] HN · Anthropic reported diary entry to police, woman faces felony charge — 710pts | https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html
+[2026-10-06 08:05] HN · ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons — 404pts | https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/
 [2026-10-05 08:13] HN · Powerless F1 drivers frustrated by Bahrain F1 software glitch — 185pts | https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/
 [2026-10-05 08:13] HN · Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers — 44pts | https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails
 [2026-10-05 08:13] HN · Emitting metadata early makes building/checking Rust up to twice as fast — 136pts | https://github.com/PowderworksCode/headstart
