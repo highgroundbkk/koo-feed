@@ -5,6 +5,8 @@
 
 ---
 
+[2026-10-07 08:05] HN · Mistral Large 4 — 1756pts | https://mistral.ai/news/mistral-large-4/\n[2026-10-07 08:05] HN · Penguin Mail – open-source Rust email client for Linux with AI — 160pts | https://penguin-mail.com/
+[2026-10-07 08:05] HN · Claude Code’s suggested message feature: I think the real customer is the model — 186pts | https://www.zohaib.cc/blog/smartest-claude-code-feature
 [2026-10-06 08:05] HN · Friendship ended with Deno, now Node is my best friend — 152pts | https://dbushell.com/2026/10/03/deno-to-node/
 [2026-10-06 08:05] HN · Anthropic reported diary entry to police, woman faces felony charge — 710pts | https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html
 [2026-10-06 08:05] HN · ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons — 404pts | https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/
