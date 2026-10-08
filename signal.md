@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-08 08:06] HN · Claude Haiku 5.5 — 844pts | https://www.anthropic.com/claude-haiku-5-5
+[2026-10-08 08:06] HN · GPT‑6 and Intelligent UI for everyone — 603pts | https://openai.com/index/gpt-6-for-everyone/
+[2026-10-08 08:06] HN · Port of the TypeScript compiler, checker and lsp to Rust, by LLM — 48pts | https://github.com/pingdotgg/ts-rust
 [2026-10-07 08:05] HN · Mistral Large 4 — 1756pts | https://mistral.ai/news/mistral-large-4/\n[2026-10-07 08:05] HN · Penguin Mail – open-source Rust email client for Linux with AI — 160pts | https://penguin-mail.com/
 [2026-10-07 08:05] HN · Claude Code’s suggested message feature: I think the real customer is the model — 186pts | https://www.zohaib.cc/blog/smartest-claude-code-feature
 [2026-10-06 08:05] HN · Friendship ended with Deno, now Node is my best friend — 152pts | https://dbushell.com/2026/10/03/deno-to-node/
