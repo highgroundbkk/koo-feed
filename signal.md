@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-09 08:06] HN · OpenAI, the Partition Principle, and Mathematics — 107pts | https://karagila.org/2026/openai-pp/
+[2026-10-09 08:06] HN · Show HN: Quake ported to safe Rust, playable in browser — 134pts | https://quake-srp.pages.dev/
+[2026-10-09 08:06] HN · OpenAI withdraws three mathematical results — 299pts | https://twitter.com/danintheory/status/2108065033070789090
 [2026-10-08 08:06] HN · Claude Haiku 5.5 — 844pts | https://www.anthropic.com/claude-haiku-5-5
 [2026-10-08 08:06] HN · GPT‑6 and Intelligent UI for everyone — 603pts | https://openai.com/index/gpt-6-for-everyone/
 [2026-10-08 08:06] HN · Port of the TypeScript compiler, checker and lsp to Rust, by LLM — 48pts | https://github.com/pingdotgg/ts-rust
