@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-10 08:04] HN · Cloudflare acquires Deno — 1191pts | https://deno.com/blog/cloudflare
+[2026-10-10 08:04] HN · Compiling Rust to readable C with Eurydice — 63pts | https://lwn.net/Articles/1055211/
+[2026-10-10 08:04] HN · Anthropic AI model submits false tip on unsolved Philly murder, police say — 154pts | https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/
 [2026-10-09 08:06] HN · OpenAI, the Partition Principle, and Mathematics — 107pts | https://karagila.org/2026/openai-pp/
 [2026-10-09 08:06] HN · Show HN: Quake ported to safe Rust, playable in browser — 134pts | https://quake-srp.pages.dev/
 [2026-10-09 08:06] HN · OpenAI withdraws three mathematical results — 299pts | https://twitter.com/danintheory/status/2108065033070789090
