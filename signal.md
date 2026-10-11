@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-11 08:04] HN · Talorys – A self-hosted personal AI agent on Cloudflare's free tier — 283pts | https://github.com/rociiu/talorys
+[2026-10-11 08:04] HN · C for Rust programmers — 139pts | https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/
+[2026-10-11 08:04] HN · 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter — 82pts | https://momo5502.com/posts/2026-10-09-game-decompilation/
 [2026-10-10 08:04] HN · Cloudflare acquires Deno — 1191pts | https://deno.com/blog/cloudflare
 [2026-10-10 08:04] HN · Compiling Rust to readable C with Eurydice — 63pts | https://lwn.net/Articles/1055211/
 [2026-10-10 08:04] HN · Anthropic AI model submits false tip on unsolved Philly murder, police say — 154pts | https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/
