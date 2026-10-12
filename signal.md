@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-12 08:19] HN · The gap in shared understanding of LLM capability is widening — 438pts | https://twitter.com/karpathy/status/2109361546505966046
+[2026-10-12 08:19] HN · Vectorized CLZ and CTZ — 43pts | https://purplesyringa.moe/blog/vectorized-clz-and-ctz/
+[2026-10-12 08:19] HN · Safe SIMD in Rust, even on the inside — 55pts | https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/
 [2026-10-11 08:04] HN · Talorys – A self-hosted personal AI agent on Cloudflare's free tier — 283pts | https://github.com/rociiu/talorys
 [2026-10-11 08:04] HN · C for Rust programmers — 139pts | https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/
 [2026-10-11 08:04] HN · 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter — 82pts | https://momo5502.com/posts/2026-10-09-game-decompilation/
