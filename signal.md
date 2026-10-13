@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-13 08:10] HN · Janas: Run LLMs larger than RAM by streaming experts from SSD — 122pts | https://github.com/prabanta-dev/janas
+[2026-10-13 08:10] HN · A look at the math that OpenAI claims computes faster Fourier transforms — 116pts | https://www.argmin.net/p/faster-fourier-transforms
+[2026-10-13 08:10] HN · Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support) — 49pts | https://github.com/bherbruck/solidcraft
 [2026-10-12 08:19] HN · The gap in shared understanding of LLM capability is widening — 438pts | https://twitter.com/karpathy/status/2109361546505966046
 [2026-10-12 08:19] HN · Vectorized CLZ and CTZ — 43pts | https://purplesyringa.moe/blog/vectorized-clz-and-ctz/
 [2026-10-12 08:19] HN · Safe SIMD in Rust, even on the inside — 55pts | https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/
