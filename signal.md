@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-14 08:04] HN · Gemini 4 Argon — 1241pts | https://deepmind.google/models/gemini/
+[2026-10-14 08:04] HN · Redesigning source control at Anthropic — 738pts | https://www.anthropic.com/engineering/redesigning-source-control
+[2026-10-14 08:04] HN · OpenAI engineer arrested in bugging of executive conference room — 550pts | https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/
 [2026-10-13 08:10] HN · Janas: Run LLMs larger than RAM by streaming experts from SSD — 122pts | https://github.com/prabanta-dev/janas
 [2026-10-13 08:10] HN · A look at the math that OpenAI claims computes faster Fourier transforms — 116pts | https://www.argmin.net/p/faster-fourier-transforms
 [2026-10-13 08:10] HN · Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support) — 49pts | https://github.com/bherbruck/solidcraft
