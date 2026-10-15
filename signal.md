@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-15 08:04] HN · Ask HN: CAD for wood working with LLM support? — 70pts | https://news.ycombinator.com/item?id=50067325
+[2026-10-15 08:04] HN · Anthropic's Scion is heavily inspired by Mononoke — 363pts | https://sunshowers.io/posts/anthropic-mononoke/
+[2026-10-15 08:04] HN · TV4 postpones show after AI agent erases edited material — 145pts | https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage
 [2026-10-14 08:04] HN · Gemini 4 Argon — 1241pts | https://deepmind.google/models/gemini/
 [2026-10-14 08:04] HN · Redesigning source control at Anthropic — 738pts | https://www.anthropic.com/engineering/redesigning-source-control
 [2026-10-14 08:04] HN · OpenAI engineer arrested in bugging of executive conference room — 550pts | https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/
