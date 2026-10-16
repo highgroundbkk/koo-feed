@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-16 08:04] HN · Thank You, Deno — 63pts | https://www.vlt.io/blog/competition-keeps-javascript-moving
+[2026-10-16 08:04] HN · Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering — 101pts | https://proa.so/
+[2026-10-16 08:04] HN · More on Anthropic's Scion ripping off Mononoke — 241pts | https://sunshowers.io/posts/anthropic-mononoke-2/
 [2026-10-15 08:04] HN · Ask HN: CAD for wood working with LLM support? — 70pts | https://news.ycombinator.com/item?id=50067325
 [2026-10-15 08:04] HN · Anthropic's Scion is heavily inspired by Mononoke — 363pts | https://sunshowers.io/posts/anthropic-mononoke/
 [2026-10-15 08:04] HN · TV4 postpones show after AI agent erases edited material — 145pts | https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage
