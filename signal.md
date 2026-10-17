@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-17 08:03] HN · Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware — 46pts | https://llmspeed.dev/
+[2026-10-17 08:03] HN · Claude reveals ECDSA curve origins — 841pts | https://www.anthropic.com/research/ecdsa-curve-origins
+[2026-10-17 08:03] HN · Designing more efficient quantum circuits with Claude — 133pts | https://www.anthropic.com/research/designing-efficient-quantum-circuits
 [2026-10-16 08:04] HN · Thank You, Deno — 63pts | https://www.vlt.io/blog/competition-keeps-javascript-moving
 [2026-10-16 08:04] HN · Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering — 101pts | https://proa.so/
 [2026-10-16 08:04] HN · More on Anthropic's Scion ripping off Mononoke — 241pts | https://sunshowers.io/posts/anthropic-mononoke-2/
