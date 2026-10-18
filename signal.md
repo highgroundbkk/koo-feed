@@ -5,6 +5,7 @@
 
 ---
 
+[2026-10-18 08:04] HN · How the Claude Code team does code review — 459pts | https://claude.dev/blog/solving-code-review-at-anthropic/
 [2026-10-17 08:03] HN · Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware — 46pts | https://llmspeed.dev/
 [2026-10-17 08:03] HN · Claude reveals ECDSA curve origins — 841pts | https://www.anthropic.com/research/ecdsa-curve-origins
 [2026-10-17 08:03] HN · Designing more efficient quantum circuits with Claude — 133pts | https://www.anthropic.com/research/designing-efficient-quantum-circuits
