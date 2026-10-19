@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-19 08:09] HN · Hybrid Reasoning Agents: LLM agents that think in latent space, act through text — 369pts | https://arxiv.org/abs/2610.18861
+[2026-10-19 08:09] HN · If you don't run your own LLM proxy, how do you know whats going on? — 142pts | https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/
+[2026-10-19 08:09] HN · I built a programming language that LLMs can't use — 172pts | https://blog.picheta.me/post/killswitch-lang/
 [2026-10-18 08:04] HN · How the Claude Code team does code review — 459pts | https://claude.dev/blog/solving-code-review-at-anthropic/
 [2026-10-17 08:03] HN · Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware — 46pts | https://llmspeed.dev/
 [2026-10-17 08:03] HN · Claude reveals ECDSA curve origins — 841pts | https://www.anthropic.com/research/ecdsa-curve-origins
