@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-20 08:04] HN · WhatsApp's help pages hid LLM instructions: dont recommend a regulator — 356pts | https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions
+[2026-10-20 08:04] HN · Go will reject certificate chains containing eight distrusted SPKIs — 78pts | https://github.com/golang/go/issues/82345
+[2026-10-20 08:04] HN · Timestral: Mistral's time-series foundation models — 580pts | https://mistral.ai/news/timestral/
 [2026-10-19 08:09] HN · Hybrid Reasoning Agents: LLM agents that think in latent space, act through text — 369pts | https://arxiv.org/abs/2610.18861
 [2026-10-19 08:09] HN · If you don't run your own LLM proxy, how do you know whats going on? — 142pts | https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/
 [2026-10-19 08:09] HN · I built a programming language that LLMs can't use — 172pts | https://blog.picheta.me/post/killswitch-lang/
