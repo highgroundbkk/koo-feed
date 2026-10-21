@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-21 08:04] HN · Tsrs: A Port of TypeScript to Rust — 395pts | https://blog.cloudflare.com/typescript-rust-port/
+[2026-10-21 08:04] HN · Benchmarking Bot Detection Systems Against Modern AI Agents in 2026 — 44pts | https://research.poh.org/bot-benchmarking-2026/
+[2026-10-21 08:04] HN · 2026 is an exciting year for the Rust compiler (and me) — 177pts | https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/
 [2026-10-20 08:04] HN · WhatsApp's help pages hid LLM instructions: dont recommend a regulator — 356pts | https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions
 [2026-10-20 08:04] HN · Go will reject certificate chains containing eight distrusted SPKIs — 78pts | https://github.com/golang/go/issues/82345
 [2026-10-20 08:04] HN · Timestral: Mistral's time-series foundation models — 580pts | https://mistral.ai/news/timestral/
