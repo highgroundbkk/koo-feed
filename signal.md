@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-22 08:04] HN · OpenAI CLI — 75pts | https://github.com/openai/openai-cli
+[2026-10-22 08:04] HN · Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor — 495pts | https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
+[2026-10-22 08:04] HN · Using LLM for confidence scoring is a bad idea — 69pts | https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html
 [2026-10-21 08:04] HN · Tsrs: A Port of TypeScript to Rust — 395pts | https://blog.cloudflare.com/typescript-rust-port/
 [2026-10-21 08:04] HN · Benchmarking Bot Detection Systems Against Modern AI Agents in 2026 — 44pts | https://research.poh.org/bot-benchmarking-2026/
 [2026-10-21 08:04] HN · 2026 is an exciting year for the Rust compiler (and me) — 177pts | https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/
