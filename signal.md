@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-23 08:04] HN · LLMs are making formal software verification feasible at a much larger scale — 325pts | https://www.anthropic.com/research/formal-verification
+[2026-10-23 08:04] HN · OpenShell – A safe, private runtime for fleets of autonomous AI agents — 380pts | https://github.com/NVIDIA/OpenShell
+[2026-10-23 08:04] HN · Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies? — 101pts | https://news.ycombinator.com/item?id=50200997
 [2026-10-22 08:04] HN · OpenAI CLI — 75pts | https://github.com/openai/openai-cli
 [2026-10-22 08:04] HN · Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor — 495pts | https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
 [2026-10-22 08:04] HN · Using LLM for confidence scoring is a bad idea — 69pts | https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html
