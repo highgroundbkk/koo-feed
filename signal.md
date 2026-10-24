@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-24 08:04] HN · Bringing uv and ty together — 130pts | https://astral.sh/blog/uv-ty-integration
+[2026-10-24 08:04] HN · Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended — 51pts | https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/
+[2026-10-24 08:04] HN · Remove pgrust: the entry is cheating (per-query kernels and result caching) — 188pts | https://github.com/ClickHouse/ClickBench/pull/2165
 [2026-10-23 08:04] HN · LLMs are making formal software verification feasible at a much larger scale — 325pts | https://www.anthropic.com/research/formal-verification
 [2026-10-23 08:04] HN · OpenShell – A safe, private runtime for fleets of autonomous AI agents — 380pts | https://github.com/NVIDIA/OpenShell
 [2026-10-23 08:04] HN · Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies? — 101pts | https://news.ycombinator.com/item?id=50200997
