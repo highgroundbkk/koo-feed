@@ -5,6 +5,8 @@
 
 ---
 
+[2026-10-25 08:04] HN · Roku developer repositories moved from GitHub to GitLab — 285pts | https://blog.roku.com/developer/gitlab-move
+[2026-10-25 08:04] HN · Oai-math-revised: a community hub for revising OpenAI's math write-ups — 42pts | https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/
 [2026-10-24 08:04] HN · Bringing uv and ty together — 130pts | https://astral.sh/blog/uv-ty-integration
 [2026-10-24 08:04] HN · Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended — 51pts | https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/
 [2026-10-24 08:04] HN · Remove pgrust: the entry is cheating (per-query kernels and result caching) — 188pts | https://github.com/ClickHouse/ClickBench/pull/2165
