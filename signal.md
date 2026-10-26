@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-26 08:10] HN · PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP — 108pts | https://github.com/KrushnaVardhanReddy/PaperPilot
+[2026-10-26 08:10] HN · A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis — 534pts | https://lynchlab.net/llm-skin-cancer
+[2026-10-26 08:10] HN · OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? — 282pts | https://minimaxir.com/2026/10/cheap-llms/
 [2026-10-25 08:04] HN · Roku developer repositories moved from GitHub to GitLab — 285pts | https://blog.roku.com/developer/gitlab-move
 [2026-10-25 08:04] HN · Oai-math-revised: a community hub for revising OpenAI's math write-ups — 42pts | https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/
 [2026-10-24 08:04] HN · Bringing uv and ty together — 130pts | https://astral.sh/blog/uv-ty-integration
