@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-27 08:04] HN · Anthropic S-1 — 1591pts | https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
+[2026-10-27 08:04] HN · GPT-6.1 Terra — 576pts | https://openai.com/index/introducing-gpt-6-1-terra/
+[2026-10-27 08:04] HN · Fixing Tool-Call Accuracy in vLLM — 162pts | https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm
 [2026-10-26 08:10] HN · PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP — 108pts | https://github.com/KrushnaVardhanReddy/PaperPilot
 [2026-10-26 08:10] HN · A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis — 534pts | https://lynchlab.net/llm-skin-cancer
 [2026-10-26 08:10] HN · OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? — 282pts | https://minimaxir.com/2026/10/cheap-llms/
