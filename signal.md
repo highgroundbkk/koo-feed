@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-28 08:03] HN · Survival LLM: AI assistant and emergency library that runs on your own computer — 319pts | https://www.brangus.io/survival-llm
+[2026-10-28 08:03] HN · Early progress on accelerating drug development with Claude — 211pts | https://www.anthropic.com/research/early-progress-drug-development
+[2026-10-28 08:03] HN · Classification of Finite Simple Groups Formalized in Lean — 203pts | https://cfsg.axiommath.ai/
 [2026-10-27 08:04] HN · Anthropic S-1 — 1591pts | https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
 [2026-10-27 08:04] HN · GPT-6.1 Terra — 576pts | https://openai.com/index/introducing-gpt-6-1-terra/
 [2026-10-27 08:04] HN · Fixing Tool-Call Accuracy in vLLM — 162pts | https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm
