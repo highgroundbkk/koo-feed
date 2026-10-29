@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-29 08:03] HN · Claude Code regularly sends each background agent’s transcript to its model — 308pts | https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
+[2026-10-29 08:03] HN · OpenAI's agents talked to each other through the CPU Cache — 84pts | https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/
+[2026-10-29 08:03] HN · Gemini 4 Carbon — 902pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
 [2026-10-28 08:03] HN · Survival LLM: AI assistant and emergency library that runs on your own computer — 319pts | https://www.brangus.io/survival-llm
 [2026-10-28 08:03] HN · Early progress on accelerating drug development with Claude — 211pts | https://www.anthropic.com/research/early-progress-drug-development
 [2026-10-28 08:03] HN · Classification of Finite Simple Groups Formalized in Lean — 203pts | https://cfsg.axiommath.ai/
