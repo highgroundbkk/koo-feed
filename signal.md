@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-30 08:03] HN · We're releasing the weights of Mistral Large 4 — 1396pts | https://mistral.ai/news/mistral-large-4-oss/
+[2026-10-30 08:03] HN · We ran AI agent swarms in Minecraft and Mindustry — 259pts | https://labs.ycombinator.com/projects/games/index.html
+[2026-10-30 08:03] HN · LLM Voice — 445pts | https://martinfowler.com/bliki/LLM-Voice.html
 [2026-10-29 08:03] HN · Claude Code regularly sends each background agent’s transcript to its model — 308pts | https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
 [2026-10-29 08:03] HN · OpenAI's agents talked to each other through the CPU Cache — 84pts | https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/
 [2026-10-29 08:03] HN · Gemini 4 Carbon — 902pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
