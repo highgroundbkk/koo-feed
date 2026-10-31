@@ -5,6 +5,9 @@
 
 ---
 
+[2026-10-31 08:03] HN · Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust — 122pts | https://www.firezone.dev/blog/introducing-sanstun
+[2026-10-31 08:03] HN · Backdoor in Claude Code for VS Code extension on the Cursor Marketplace — 876pts | https://phorion.io/blog/offical-claude-code-vsx-compromise/
+[2026-10-31 08:03] HN · Sleep framework: A new way for LLMs to retain knowledge in continual learning — 219pts | https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/
 [2026-10-30 08:03] HN · We're releasing the weights of Mistral Large 4 — 1396pts | https://mistral.ai/news/mistral-large-4-oss/
 [2026-10-30 08:03] HN · We ran AI agent swarms in Minecraft and Mindustry — 259pts | https://labs.ycombinator.com/projects/games/index.html
 [2026-10-30 08:03] HN · LLM Voice — 445pts | https://martinfowler.com/bliki/LLM-Voice.html
