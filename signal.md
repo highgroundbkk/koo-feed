@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-01 08:02] HN · ChatGPT and Codex usage limits merging — 89pts | https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits
+[2026-11-01 08:02] HN · Do the math: How we took over ChatGPT accounts — 323pts | https://www.parameter.ai/labs/we-found-a-gap-at-openai
+[2026-11-01 08:02] HN · Anthropic blocks users for anything touching training larger models — 327pts | https://twitter.com/jiahaoshao1/status/2116475922190922088
 [2026-10-31 08:03] HN · Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust — 122pts | https://www.firezone.dev/blog/introducing-sanstun
 [2026-10-31 08:03] HN · Backdoor in Claude Code for VS Code extension on the Cursor Marketplace — 876pts | https://phorion.io/blog/offical-claude-code-vsx-compromise/
 [2026-10-31 08:03] HN · Sleep framework: A new way for LLMs to retain knowledge in continual learning — 219pts | https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/
