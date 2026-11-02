@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-02 08:03] HN · Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust — 225pts | https://github.com/ivankovic/omnidiff
+[2026-11-02 08:03] HN · I Am the Reason OpenAI Is Killing Unlimited Chats — 52pts | https://chaosmanage.github.io/i-killed-unlimited-chatgpt/
+[2026-11-02 08:03] HN · AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy — 167pts | https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy
 [2026-11-01 08:02] HN · ChatGPT and Codex usage limits merging — 89pts | https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits
 [2026-11-01 08:02] HN · Do the math: How we took over ChatGPT accounts — 323pts | https://www.parameter.ai/labs/we-found-a-gap-at-openai
 [2026-11-01 08:02] HN · Anthropic blocks users for anything touching training larger models — 327pts | https://twitter.com/jiahaoshao1/status/2116475922190922088
