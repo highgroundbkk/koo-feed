@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-03 08:03] HN · Scaling Git at OpenAI — 194pts | https://openai.com/index/scaling-git-at-openai/
+[2026-11-03 08:03] HN · The SEC Should Block Anthropic's IPO to Protect the Public — 319pts | https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/
+[2026-11-03 08:03] HN · Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks — 457pts | https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432
 [2026-11-02 08:03] HN · Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust — 225pts | https://github.com/ivankovic/omnidiff
 [2026-11-02 08:03] HN · I Am the Reason OpenAI Is Killing Unlimited Chats — 52pts | https://chaosmanage.github.io/i-killed-unlimited-chatgpt/
 [2026-11-02 08:03] HN · AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy — 167pts | https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy
