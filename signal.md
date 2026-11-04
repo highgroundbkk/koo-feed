@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-04 08:03] HN · Why Don't We Live in an Art Nouveau World? — 134pts | https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world
+[2026-11-04 08:03] HN · OpenAI seems to be silently re-enabling model training on Codex chats — 470pts | https://news.ycombinator.com/item?id=50352757
+[2026-11-04 08:03] HN · LLMs are not superhuman at reading and writing neural network weights — 142pts | https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/
 [2026-11-03 08:03] HN · Scaling Git at OpenAI — 194pts | https://openai.com/index/scaling-git-at-openai/
 [2026-11-03 08:03] HN · The SEC Should Block Anthropic's IPO to Protect the Public — 319pts | https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/
 [2026-11-03 08:03] HN · Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks — 457pts | https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432
