@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-05 08:03] HN · Ask HN: What's your current AI agentic setup? — 289pts | https://news.ycombinator.com/item?id=50366117
+[2026-11-05 08:03] HN · OpenAI to acquire Pierre Computer Company — 230pts | https://openai.com/index/openai-to-acquire-pierre/
+[2026-11-05 08:03] HN · Basically no one is using AI agents for their DoorDash orders — 124pts | https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/
 [2026-11-04 08:03] HN · Why Don't We Live in an Art Nouveau World? — 134pts | https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world
 [2026-11-04 08:03] HN · OpenAI seems to be silently re-enabling model training on Codex chats — 470pts | https://news.ycombinator.com/item?id=50352757
 [2026-11-04 08:03] HN · LLMs are not superhuman at reading and writing neural network weights — 142pts | https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/
