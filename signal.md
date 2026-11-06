@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-06 08:03] HN · Claude Code sends your email address to websites — 983pts | https://github.com/anthropics/claude-code/issues/107757
+[2026-11-06 08:03] HN · Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM — 105pts | https://firenook.dev/
+[2026-11-06 08:03] HN · The Stacks Project, Formalized in Lean — 86pts | https://axiommath.ai/research/the-stacks-project-formalized/
 [2026-11-05 08:03] HN · Ask HN: What's your current AI agentic setup? — 289pts | https://news.ycombinator.com/item?id=50366117
 [2026-11-05 08:03] HN · OpenAI to acquire Pierre Computer Company — 230pts | https://openai.com/index/openai-to-acquire-pierre/
 [2026-11-05 08:03] HN · Basically no one is using AI agents for their DoorDash orders — 124pts | https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/
