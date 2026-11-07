@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-07 08:02] HN · Can GROUP BY still be optimized after all these years? — 76pts | https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/
+[2026-11-07 08:02] HN · GitHub's new Git storage architecture — 126pts | https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
+[2026-11-07 08:02] HN · Gemini Omni 1.2 Flash — 321pts | https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
 [2026-11-06 08:03] HN · Claude Code sends your email address to websites — 983pts | https://github.com/anthropics/claude-code/issues/107757
 [2026-11-06 08:03] HN · Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM — 105pts | https://firenook.dev/
 [2026-11-06 08:03] HN · The Stacks Project, Formalized in Lean — 86pts | https://axiommath.ai/research/the-stacks-project-formalized/
