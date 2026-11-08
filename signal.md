@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-08 08:02] HN · Goodbye Claude, Hello Pi — 201pts | https://caleb.software/posts/claude-to-pi.html
+[2026-11-08 08:02] HN · Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files — 346pts | https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+[2026-11-08 08:02] HN · GitHub New pull request overview page in public preview — 124pts | https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/
 [2026-11-07 08:02] HN · Can GROUP BY still be optimized after all these years? — 76pts | https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/
 [2026-11-07 08:02] HN · GitHub's new Git storage architecture — 126pts | https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
 [2026-11-07 08:02] HN · Gemini Omni 1.2 Flash — 321pts | https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
