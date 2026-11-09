@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-09 08:03] HN · KetchUp – Open-source SketchUp alternative built with Rust and WebGPU — 427pts | https://ketchup3d.github.io/app/
+[2026-11-09 08:03] HN · Goldman Sachs is pulling Claude Code from its bankers and traders — 738pts | https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers
+[2026-11-09 08:03] HN · Air holes turn silicon wafers into flat UV focusing mirrors for compact optics — 50pts | https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html
 [2026-11-08 08:02] HN · Goodbye Claude, Hello Pi — 201pts | https://caleb.software/posts/claude-to-pi.html
 [2026-11-08 08:02] HN · Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files — 346pts | https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
 [2026-11-08 08:02] HN · GitHub New pull request overview page in public preview — 124pts | https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/
