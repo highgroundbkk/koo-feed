@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-10 08:03] HN · Claude Fable 5.2 and Mythos 5.2 — 501pts | https://www.anthropic.com/claude-fable-and-mythos-5-2
+[2026-11-10 08:03] HN · Google Gemini routes personal Drive files and emails to human annotators — 560pts | https://github.com/thisisme6598/gemini_files/
+[2026-11-10 08:03] HN · Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far — 339pts | https://artificialanalysis.ai/models/claude-fable-5-2
 [2026-11-09 08:03] HN · KetchUp – Open-source SketchUp alternative built with Rust and WebGPU — 427pts | https://ketchup3d.github.io/app/
 [2026-11-09 08:03] HN · Goldman Sachs is pulling Claude Code from its bankers and traders — 738pts | https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers
 [2026-11-09 08:03] HN · Air holes turn silicon wafers into flat UV focusing mirrors for compact optics — 50pts | https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html
