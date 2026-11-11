@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-11 08:03] HN · Tracking Anthropic-discovered vulnerabilities — 392pts | https://www.vulncheck.com/blog/anthropic-glasswing-november-update
+[2026-11-11 08:03] HN · Claude Whiteboards, Claude Sheets, and Claude Data — 195pts | https://claude.com/resources/articles/sheets-whiteboards-data
+[2026-11-11 08:03] HN · LLMs Play Zachtronics' TIS-100 — 49pts | https://tis-100.wincon.dev/
 [2026-11-10 08:03] HN · Claude Fable 5.2 and Mythos 5.2 — 501pts | https://www.anthropic.com/claude-fable-and-mythos-5-2
 [2026-11-10 08:03] HN · Google Gemini routes personal Drive files and emails to human annotators — 560pts | https://github.com/thisisme6598/gemini_files/
 [2026-11-10 08:03] HN · Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far — 339pts | https://artificialanalysis.ai/models/claude-fable-5-2
