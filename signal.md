@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-12 08:03] HN · Humble Bundle just killed most of their security through vibecoding — 79pts | https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/
+[2026-11-12 08:03] HN · Gemini Decisions API — 399pts | https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
+[2026-11-12 08:03] HN · United Airlines bans AI agents from booking flights on behalf of travelers — 526pts | https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/
 [2026-11-11 08:03] HN · Tracking Anthropic-discovered vulnerabilities — 392pts | https://www.vulncheck.com/blog/anthropic-glasswing-november-update
 [2026-11-11 08:03] HN · Claude Whiteboards, Claude Sheets, and Claude Data — 195pts | https://claude.com/resources/articles/sheets-whiteboards-data
 [2026-11-11 08:03] HN · LLMs Play Zachtronics' TIS-100 — 49pts | https://tis-100.wincon.dev/
