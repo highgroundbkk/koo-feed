@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-13 08:02] HN · Rust 1.100 — 628pts | https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/
+[2026-11-13 08:02] HN · Gemini 4 Hydrogen and Orchestrator — 400pts | https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/
+[2026-11-13 08:02] HN · I'm making LLMs work on small and old devices — 344pts | https://github.com/hyperionaidev/smolmaxxing/
 [2026-11-12 08:03] HN · Humble Bundle just killed most of their security through vibecoding — 79pts | https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/
 [2026-11-12 08:03] HN · Gemini Decisions API — 399pts | https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
 [2026-11-12 08:03] HN · United Airlines bans AI agents from booking flights on behalf of travelers — 526pts | https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/
