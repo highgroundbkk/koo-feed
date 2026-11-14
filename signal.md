@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-14 08:02] HN · Lonewolf 0.3 – A standalone XMPP server written in Rust — 137pts | https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0
+[2026-11-14 08:02] HN · Claude Meetings — 92pts | https://claude.com/resources/articles/claude-meetings
+[2026-11-14 08:02] HN · Elevated errors on claude.ai, Claude Code, and platform.claude.com — 488pts | https://status.claude.com/incidents/nn11wk485zfn
 [2026-11-13 08:02] HN · Rust 1.100 — 628pts | https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/
 [2026-11-13 08:02] HN · Gemini 4 Hydrogen and Orchestrator — 400pts | https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/
 [2026-11-13 08:02] HN · I'm making LLMs work on small and old devices — 344pts | https://github.com/hyperionaidev/smolmaxxing/
