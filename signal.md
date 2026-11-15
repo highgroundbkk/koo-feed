@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-15 08:03] HN · Memory Safety Bugs in Rust Standard Library — 87pts | https://forge-blog.github.io/posts/rust-std-memory-safety/
+[2026-11-15 08:03] HN · Show HN: A terminal-native idle factory game, written in Rust with ratatui — 155pts | https://gitlab.com/snipedbywifi/terminactory
+[2026-11-15 08:03] HN · How to Create Your Own Decentralized Messenger Protocol — 67pts | https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol
 [2026-11-14 08:02] HN · Lonewolf 0.3 – A standalone XMPP server written in Rust — 137pts | https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0
 [2026-11-14 08:02] HN · Claude Meetings — 92pts | https://claude.com/resources/articles/claude-meetings
 [2026-11-14 08:02] HN · Elevated errors on claude.ai, Claude Code, and platform.claude.com — 488pts | https://status.claude.com/incidents/nn11wk485zfn
