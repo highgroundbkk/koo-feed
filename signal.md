@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-16 08:10] HN · Do we still have to denormalize? Have your schema and search it too — 65pts | https://www.paradedb.com/blog/joins
+[2026-11-16 08:10] HN · Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video] — 423pts | https://www.youtube.com/watch?v=WPj3aQ-xxpI
+[2026-11-16 08:10] HN · Understanding Positional Embeddings in Modern LLMs — 226pts | https://magazine.sebastianraschka.com/p/understanding-positional-embeddings
 [2026-11-15 08:03] HN · Memory Safety Bugs in Rust Standard Library — 87pts | https://forge-blog.github.io/posts/rust-std-memory-safety/
 [2026-11-15 08:03] HN · Show HN: A terminal-native idle factory game, written in Rust with ratatui — 155pts | https://gitlab.com/snipedbywifi/terminactory
 [2026-11-15 08:03] HN · How to Create Your Own Decentralized Messenger Protocol — 67pts | https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol
