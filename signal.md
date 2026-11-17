@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-17 08:03] HN · Jiff 1.0: A datetime library for Rust — 369pts | https://burntsushi.net/jiff/
+[2026-11-17 08:03] HN · Rust changed me as a developer — 253pts | https://blog.startifact.com/posts/how-rust-changed-me/
+[2026-11-17 08:03] HN · Aristotle Expands into Rust — 113pts | https://www.harmonic.fun/news/aristotle-rust-verification/
 [2026-11-16 08:10] HN · Do we still have to denormalize? Have your schema and search it too — 65pts | https://www.paradedb.com/blog/joins
 [2026-11-16 08:10] HN · Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video] — 423pts | https://www.youtube.com/watch?v=WPj3aQ-xxpI
 [2026-11-16 08:10] HN · Understanding Positional Embeddings in Modern LLMs — 226pts | https://magazine.sebastianraschka.com/p/understanding-positional-embeddings
