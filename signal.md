@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-18 08:03] HN · GPT‑6.2 Astra and Sol — 1237pts | https://openai.com/index/introducing-gpt-6-2-astra-sol/
+[2026-11-18 08:03] HN · Microsoft's ONNX Runtime has disappeared from GitHub — 283pts | https://github.com/microsoft/onnxruntime
+[2026-11-18 08:03] HN · Why is Gemini 4 Carbon taking so long? — 59pts | https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/
 [2026-11-17 08:03] HN · Jiff 1.0: A datetime library for Rust — 369pts | https://burntsushi.net/jiff/
 [2026-11-17 08:03] HN · Rust changed me as a developer — 253pts | https://blog.startifact.com/posts/how-rust-changed-me/
 [2026-11-17 08:03] HN · Aristotle Expands into Rust — 113pts | https://www.harmonic.fun/news/aristotle-rust-verification/
