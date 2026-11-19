@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-19 08:03] HN · Gemini 4 Neon — 741pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+[2026-11-19 08:03] HN · Anthropic prices initial public offering — 172pts | https://www.anthropic.com/news/anthropic-prices-initial-public-offering
+[2026-11-19 08:03] HN · LLM assisted reverse engineering — 176pts | https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering
 [2026-11-18 08:03] HN · GPT‑6.2 Astra and Sol — 1237pts | https://openai.com/index/introducing-gpt-6-2-astra-sol/
 [2026-11-18 08:03] HN · Microsoft's ONNX Runtime has disappeared from GitHub — 283pts | https://github.com/microsoft/onnxruntime
 [2026-11-18 08:03] HN · Why is Gemini 4 Carbon taking so long? — 59pts | https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/
