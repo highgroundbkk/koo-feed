@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-20 08:03] HN · Claude solves two open problems in the physics of black holes — 474pts | https://www.anthropic.com/research/claude-black-hole-physics
+[2026-11-20 08:03] HN · Anthropic’s Nasdaq debut — 1056pts | https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
+[2026-11-20 08:03] HN · ChatGPT for SNES — 66pts | https://www.bxfoundry.com/chatgpt_snes/
 [2026-11-19 08:03] HN · Gemini 4 Neon — 741pts | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
 [2026-11-19 08:03] HN · Anthropic prices initial public offering — 172pts | https://www.anthropic.com/news/anthropic-prices-initial-public-offering
 [2026-11-19 08:03] HN · LLM assisted reverse engineering — 176pts | https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering
