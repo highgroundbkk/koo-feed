@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-21 08:03] HN · Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] — 2554pts | https://alpo.ge/remark.pdf
+[2026-11-21 08:03] HN · Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis — 413pts | https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/
+[2026-11-21 08:03] HN · Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day — 269pts | https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off
 [2026-11-20 08:03] HN · Claude solves two open problems in the physics of black holes — 474pts | https://www.anthropic.com/research/claude-black-hole-physics
 [2026-11-20 08:03] HN · Anthropic’s Nasdaq debut — 1056pts | https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
 [2026-11-20 08:03] HN · ChatGPT for SNES — 66pts | https://www.bxfoundry.com/chatgpt_snes/
