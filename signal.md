@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-23 08:03] HN · Show HN: I built a game where you are an LLM's subagent — 309pts | https://github.com/gulivan/worker755
+[2026-11-23 08:03] HN · 87% of the Anthropic power will come from gas and 11% from coal in 2028 — 955pts | https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
+[2026-11-23 08:03] HN · Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator — 75pts | https://simonwillison.net/2026/Nov/21/muru/
 [2026-11-22 08:02] HN · Pandex – Official European Law for AI Agents, over MCP — 75pts | https://www.pandex.io
 [2026-11-22 08:02] HN · Advice for the next 100 Rust GUIs — 149pts | https://linebender.org/blog/next-100-guis/
 [2026-11-22 08:02] HN · LLMs can read and write executables byte by byte from a hex dump — 231pts | https://sgiannopoulos.github.io/blog/machine-code-programming/
