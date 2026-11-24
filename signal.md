@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-24 08:03] HN · GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school — 47pts | https://github.com/ItsNotRexed/Leonida/issues
+[2026-11-24 08:03] HN · Latent Introspection: LLMs Can Detect Prior Concept Injections — 55pts | https://arxiv.org/abs/2602.20031
+[2026-11-24 08:03] HN · GLM-5.4: Toward generalized coding with our first loop transformer — 1108pts | https://z.ai/blog/glm-5.4
 [2026-11-23 08:03] HN · Show HN: I built a game where you are an LLM's subagent — 309pts | https://github.com/gulivan/worker755
 [2026-11-23 08:03] HN · 87% of the Anthropic power will come from gas and 11% from coal in 2028 — 955pts | https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
 [2026-11-23 08:03] HN · Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator — 75pts | https://simonwillison.net/2026/Nov/21/muru/
