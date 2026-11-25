@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-25 08:03] HN · PenGPT: A Generative Transformer for Handwriting and Sketches — 203pts | https://greydanus.github.io/2026/11/12/pengpt/
+[2026-11-25 08:03] HN · Marginalia Search, Money, C++, Rust, AI, Stuff — 84pts | https://www.marginalia.nu/log/a_141_marginalia_update/
+[2026-11-25 08:03] HN · GPT-6 models demonstrate intrinsic protein-design capabilities — 246pts | https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
 [2026-11-24 08:03] HN · GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school — 47pts | https://github.com/ItsNotRexed/Leonida/issues
 [2026-11-24 08:03] HN · Latent Introspection: LLMs Can Detect Prior Concept Injections — 55pts | https://arxiv.org/abs/2602.20031
 [2026-11-24 08:03] HN · GLM-5.4: Toward generalized coding with our first loop transformer — 1108pts | https://z.ai/blog/glm-5.4
