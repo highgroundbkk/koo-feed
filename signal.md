@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-26 08:03] HN · Much shorter version of GRH Lean verification from Anthropic — 427pts | https://github.com/lsernau/grh-lean
+[2026-11-26 08:03] HN · Slow Ubuntu security response times — 268pts | https://www.openwall.com/lists/oss-security/2026/11/25/9
+[2026-11-26 08:03] HN · GPT-6.2 Astra is the first model to beat Googlers' code golf records — 358pts | https://bjin.github.io/go-codegolf-benchmark/#leaderboard
 [2026-11-25 08:03] HN · PenGPT: A Generative Transformer for Handwriting and Sketches — 203pts | https://greydanus.github.io/2026/11/12/pengpt/
 [2026-11-25 08:03] HN · Marginalia Search, Money, C++, Rust, AI, Stuff — 84pts | https://www.marginalia.nu/log/a_141_marginalia_update/
 [2026-11-25 08:03] HN · GPT-6 models demonstrate intrinsic protein-design capabilities — 246pts | https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
