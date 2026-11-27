@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-27 08:03] HN · Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email — 320pts | https://techstackups.com/articles/google-workspace-ai-agents-mcp/
+[2026-11-27 08:03] HN · "What's Claude's Fursona?" and Other Questions — 75pts | https://herecomesthemoon.net/2026/11/whats-claudes-fursona/
+[2026-11-27 08:03] HN · Rvoip: VoIP stack in Rust — 119pts | https://github.com/eisenzopf/rvoip
 [2026-11-26 08:03] HN · Much shorter version of GRH Lean verification from Anthropic — 427pts | https://github.com/lsernau/grh-lean
 [2026-11-26 08:03] HN · Slow Ubuntu security response times — 268pts | https://www.openwall.com/lists/oss-security/2026/11/25/9
 [2026-11-26 08:03] HN · GPT-6.2 Astra is the first model to beat Googlers' code golf records — 358pts | https://bjin.github.io/go-codegolf-benchmark/#leaderboard
