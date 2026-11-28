@@ -5,6 +5,9 @@
 
 ---
 
+[2026-11-28 08:02] HN · GPT 6.2 Astra Solves a Historical Mystery — 423pts | https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical
+[2026-11-28 08:02] HN · Claude sabotaging ML research tasks? — 679pts | https://twitter.com/RealAstropulse/status/2126119408997466389
+[2026-11-28 08:02] HN · Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10 — 54pts | https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/
 [2026-11-27 08:03] HN · Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email — 320pts | https://techstackups.com/articles/google-workspace-ai-agents-mcp/
 [2026-11-27 08:03] HN · "What's Claude's Fursona?" and Other Questions — 75pts | https://herecomesthemoon.net/2026/11/whats-claudes-fursona/
 [2026-11-27 08:03] HN · Rvoip: VoIP stack in Rust — 119pts | https://github.com/eisenzopf/rvoip
